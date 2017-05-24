@@ -1097,23 +1097,13 @@ Jeremiah James / Born April 18th 1795 / Died Oct. 31st 1851. Our children / Aman
 
 Sacred / [to the memory] / John ___art___fass____.
 
-Sacred / to the memory of / Susan Polhemus / wife of / Major John
-Polhemus / A Patriot of 1776 / and second daughter of / John Hart
-one of the Signers of / the Declaration of Independence / who departed
-this life / February 2nd 1832 / aged 81 years and 6 months Also / to
-the memory of / Major John Polhemus / a patriot of the Revolutionary
-war / who died on his Birth day / May 25th 1831 / aged 91 years
-Udizinga Mosschert / Born March 13, 1808 / Died February 8,
-1831 [ ?] / ____castina Heroicam.one [?]
+Sacred / to the memory of / Susan Polhemus / wife of / Major John Polhemus / A Patriot of 1776 / and second daughter of / John Hart one of the Signers of / the Declaration of Independence / who departed this life / February 2nd 1832 / aged 81 years and 6 months Also / to the memory of / Major John Polhemus / a patriot of the Revolutionary war / who died on his Birth day / May 25th 1831 / aged 91 years 
 
-Sacred / to / the memory of / Alice, wife of / William Bockius / who departed this life / December 3, 1836 / in the 32na [ f ] year of her
-age [verse] Also / William Bockius / who departed this life / May
-the 16th 1848 / in the 68th year of his age Also / Jane W . Daughter of /
-William and Alice Bockius / who died July 2nd 1856 / aged 31 years Also / Mary Ann Daughter of / William and Alice Bockius / who died
-September 21, 1857 / aged 40 years
+Udizinga Mosschert / Born March 13, 1808 / Died February 8, 1831 [ ?] / ____castina Heroicam.one [?]
 
-Sacred / to the memory of / Julia E . / wife of / Robert Johnston /
-•who departed this life / Nov. 20th [»] 1823 [?] aged 21 years 2 months / and 22 days Also of / Isabella I. [indecipherable]
+Sacred / to / the memory of / Alice, wife of / William Bockius / who departed this life / December 3, 1836 / in the 32na [ f ] year of her age [verse] Also / William Bockius / who departed this life / May the 16th 1848 / in the 68th year of his age Also / Jane W . Daughter of / William and Alice Bockius / who died July 2nd 1856 / aged 31 years Also / Mary Ann Daughter of / William and Alice Bockius / who died September 21, 1857 / aged 40 years
+
+Sacred / to the memory of / Julia E . / wife of / Robert Johnston / •who departed this life / Nov. 20th [»] 1823 [?] aged 21 years 2 months / and 22 days Also of / Isabella I. [indecipherable]
 
 Sacred / to the memory of / Michael Powers / who departed this life / on the 2nd of November 1835 / in the 20th year of his age. [verse]
 
@@ -1143,12 +1133,7 @@ In / Memory of / Capt. Albert Coffin / died October 22nd 1811 [ f ] / in the 68t
 
 Sacred / to / the memory of / Almira, daughter of / James—Louisa Coffin / who departed this life / January 5th 1828 / aged 5 months & 12 days And of / Louis A . Coffin / who departed this life / 
 
-Sacred / to / the memory of / Samuel / son of / Samuel and Jane
-Fiss / who departed this life / November 18th 1840 / aged 8 months
-and 18 days Also / Eleanor Fiss / who departed this life / October 5th
-1848 / aged 5 years [verse] Also / Susanna / only child of / Samuel
-and Jane Fiss / who departed this life / November 30th 1855 / in the
-10th year of her age. [verse]
+Sacred / to / the memory of / Samuel / son of / Samuel and Jane Fiss / who departed this life / November 18th 1840 / aged 8 months and 18 days Also / Eleanor Fiss / who departed this life / October 5th 1848 / aged 5 years [verse] Also / Susanna / only child of / Samuel and Jane Fiss / who departed this life / November 30th 1855 / in the 10th year of her age. [verse]
 
 Father and Mother / Sacred / to / the memory of / Andrew Esterlon / who departed this life / October 31st 1830 / in the 62nd year of his age Also / Ann / wife of Andrew Esterlon / who departed this life / February 26th 1866' / in the 81st year of her age. [verse]
 
@@ -1180,31 +1165,17 @@ William H . son of Alexander & / Elizabeth Malloch / Born March 4, 1821. Died Ja
 
 Sacred / to the Memory of / my beloved ______/ Joseph M. La____ / Who died Jan. / Aged 31 [?] years / and 25 [?] days
 
-Richard Merrick / Samuel Louderback / Sarah Louderback / Richard M . Leslie / Caroline W . Leslie / Walter H . Leslie / Robert
-E . L . Patton / Mary A . Patton / Robert M . Patton /
+Richard Merrick / Samuel Louderback / Sarah Louderback / Richard M . Leslie / Caroline W . Leslie / Walter H . Leslie / Robert E. L. Patton / Mary A . Patton / Robert M . Patton /
 
-Family Vault / Eleanor & Alice children of / Thomas & Mary L .
-Conner / Thomas Conner / Born December 22nd 1802 / Died January 7th
-1877 Mary Louisa wife of / Thomas Conner / B Aug. 15th 1802—D
-Nov. 15th 1895 Children / Maria Theresa / B 1827—D April 15th 1900
-Ellen Josephine / B June 6th 1836—D Dec. 29th 1910 Marcella / B
-1831—D July 8th 1912
+Family Vault / Eleanor & Alice children of / Thomas & Mary L . Conner / Thomas Conner / Born December 22nd 1802 / Died January 7th 1877 Mary Louisa wife of / Thomas Conner / B Aug. 15th 1802—D Nov. 15th 1895 Children / Maria Theresa / B 1827—D April 15th 1900 Ellen Josephine / B June 6th 1836—D Dec. 29th 1910 Marcella / B 1831—D July 8th 1912
 
-Thomas Durant / 1798 1842 / Anne Durant / 1801 1866 / Elizabeth
-A . Bolin / 1822 1848 / John B . Durant / 1828 1854 / William H . Durant /
-1830 1858 / Charles Durant / 1837 1872 / Thomas F . Durant / 1826
-1886' / Maria and Emily L . / infants
+Thomas Durant / 1798 1842 / Anne Durant / 1801 1866 / Elizabeth A. Bolin / 1822 1848 / John B . Durant / 1828 1854 / William H . Durant / 1830 1858 / Charles Durant / 1837 1872 / Thomas F . Durant / 1826 1886 / Maria and Emily L . / infants
 
 In Memory / of / Matthias B. Clark / Born June 17th 1811. Died
 April 4th 1834 [ 9] Mary Baser / Born January 14th 1815. Died April
-29th 1834 Elizabeth Wall / Born March 10th 1771. Died May 10th
-1840 [ 9] Charles W . Clark / Born Feb. 1st. 1851. Died Oct. 29th 1851
-George Wall / Born Jan. 23rd 1771. Died Oct. 26 Eliza W a l l / [stone
-broken] 1797. Died Mar. 10th 1876
+29th 1834 Elizabeth Wall / Born March 10th 1771. Died May 10th 1840 [ 9] Charles W . Clark / Born Feb. 1st. 1851. Died Oct. 29th 1851 George Wall / Born Jan. 23rd 1771. Died Oct. 26 Eliza W a l l / [stone broken] 1797. Died Mar. 10th 1876
 
-Ann Clark / wife of John C. Clark / Born April 17, 1793 / Died Dee.
-7, 1872 John C. Clark / Born A u g . 7, 1787 / Died April 22, 1882
-Mary A . Clark / daughter of / John C. & Ann Clark / Died Sept. 20, 1884
+Ann Clark / wife of John C. Clark / Born April 17, 1793 / Died Dee. 7, 1872 John C. Clark / Born A u g . 7, 1787 / Died April 22, 1882 Mary A . Clark / daughter of / John C. & Ann Clark / Died Sept. 20, 1884
 
 Elizabeth H . / wife of / George B . Birch / died February 13, 1851
 
@@ -1230,461 +1201,281 @@ In memory of / John McFee Jr / Died Jan. 10, 1863 / in the 39th year of his age.
 
 Little Cynthia's / Grave / Born at Flushing Long Island / May 9, 1851 [?] / Died at Philadelphia / Dec. 1, 1855 [?]
 
-In memory of / Charles B . Corson / Died October / aged 20
-months and 8 days Charles S. Corson / Died June 18th 18— / aged
-1 month and 3 days Hamilton Corson / Died January 1st [?] / aged
-4 months and 11 [ ?] days James J . Corson / Died September 11th [ f ]
-1842 / aged 5 [?] weeks Adaline F . Corson / Died January 16th
-1848 [?] / aged 20 months and 11 days / Children of Joseph [?] and Mary Corson
+In memory of / Charles B . Corson / Died October / aged 20 months and 8 days Charles S. Corson / Died June 18th 18— / aged 1 month and 3 days Hamilton Corson / Died January 1st [?] / aged 4 months and 11 [ ?] days James J . Corson / Died September 11th [?] 1842 / aged 5 [?] weeks Adaline F . Corson / Died January 16th 1848 [?] / aged 20 months and 11 days / Children of Joseph [?] and Mary Corson 
 
-To our / Parents / Charles Harvey / Born January 1st 1783 / Died
-August 24th 1831 Mary Harvey / Born July 25th 1790 / Died April
-28th 1868
+To our / Parents / Charles Harvey / Born January 1st 1783 / Died August 24th 1831 Mary Harvey / Born July 25th 1790 / Died April 28th 1868
 
 In / Memory of / James _____ / died April ___ / age 4 years
 
-In / Memory of / Napoleon Stanton / Born January 10th 1833 /
-Died December 17th 1855 / Aged 22 years & 11 Months
+In / Memory of / Napoleon Stanton / Born January 10th 1833 / Died December 17th 1855 / Aged 22 years & 11 Months
 
-My Son / in / Memory of / James C. Boyd / son of the late Capn
-Boyd / of / Wexford, Ireland / Died April 15th 1838 [ ?] Aged 30 Y r s .
-Also / Clara / Daughter of / James C. &
-Boyd / Died August 15th
-1838. Aged 2 Yrs.
-In memoriam / of / Isaac B . De-Young / Died September 3, 1867 /
-Aged 71 years Also / Mary A . / wife of / Isaac B . De-Young / died
-November 27, 1844 / aged 39 years / Both of London—England
+My Son / in / Memory of / James C. Boyd / son of the late Capn Boyd / of / Wexford, Ireland / Died April 15th 1838 [ ?] Aged 30 Yrs . Also / Clara / Daughter of / James C. & Boyd / Died August 15th 1838. Aged 2 Yrs.
 
-Sacred / to / The memory of / Elizabeth / daughter of Isaac B . and /
-Mary Deyoung / who departed this life / October 31st 1855 / aged 2 years2 months & 17 days. Also / Mary De-Young / aged 18 months
+In memoriam / of / Isaac B . De-Young / Died September 3, 1867 / Aged 71 years Also / Mary A . / wife of / Isaac B . De-Young / died November 27, 1844 / aged 39 years / Both of London—England
 
-In / Memory of / Robert Sims who / departed this life April 10th
-1837 / aged 68 years Also of his wife / Elizabeth Sims who / departed
-this life March 1st 1834 [ f ] / aged 55 [?] years
-Sacred / memory of / George — Johnson / who departed this
-life / January 19th 1838 [ ?] / aged 2 years 5 months & 7 days
+Sacred / to / The memory of / Elizabeth / daughter of Isaac B . and / Mary Deyoung / who departed this life / October 31st 1855 / aged 2 years2 months & 17 days. Also / Mary De-Young / aged 18 months
 
-Sacred / to the memory of / Thomas H i l l / who departed this life /
-July 13th 1837 / aged 44 years 5 months / and 11 days [verse] Sacred
-to the memory of / Samuel Say / who departed this life / March 13th
-1815 / in the 42nd year of his age Also / Samuel / son of Samuel and
-Mary Say / who departed this life / December 14th 1829 / in the 25th
-year of his age Also / Mary / wife of Samuel Say / who departed this
-life / April 2nd 1830 / in the 50th year of her age. In memory of /
-Mary / wife of Thomas H i l l / who departed this life / March 26, A . D.,
-1842 / in the 36th year of her age. 
-Sacred / to the memory of /
-Bebecca / daughter of / Samuel and Mary Say / who departed this life /
-January 5th 1836 / in the 28th year of her age.
+In / Memory of / Robert Sims who / departed this life April 10th 1837 / aged 68 years Also of his wife / Elizabeth Sims who / departed this life March 1st 1834 [ f ] / aged 55 [?] years
 
-Sacred / to the Memory of / Helen / wife of'Francis Trask / who
-departed this life / May 21st 1844 / aged 31 years.
+Sacred / memory of / George — Johnson / who departed this life / January 19th 1838 [ ?] / aged 2 years 5 months & 7 days
 
-Sacred / to / the memory of / Barry Hartwell / who departed this
-life / March 23, 1835 / aged 36 years
+Sacred / to the memory of / Thomas Hill / who departed this life / July 13th 1837 / aged 44 years 5 months / and 11 days [verse] Sacred to the memory of / Samuel Say / who departed this life / March 13th 1815 / in the 42nd year of his age Also / Samuel / son of Samuel and Mary Say / who departed this life / December 14th 1829 / in the 25th year of his age Also / Mary / wife of Samuel Say / who departed this life / April 2nd 1830 / in the 50th year of her age. In memory of / Mary / wife of Thomas H i l l / who departed this life / March 26, A . D., 1842 / in the 36th year of her age.  Sacred / to the memory of / Rebecca / daughter of / Samuel and Mary Say / who departed this life / January 5th 1836 / in the 28th year of her age.
+
+Sacred / to the Memory of / Helen / wife of'Francis Trask / who departed this life / May 21st 1844 / aged 31 years.
+
+Sacred / to / the memory of / Barry Hartwell / who departed this life / March 23, 1835 / aged 36 years
 
 In / Memory of / John Tompson / late of Birmingham, / England / who departed this life / August 28th 1856 [?] / aged 50 years Also /
 
+In memory of / Thomas I Bi—rk—t [sic] / who departed this life / October 17th 1856 [a line buried]
 
-In memory of / Thomas I Bi—rk—t [sic] / who departed this life /
-October 17th 1856 [a line buried]
+In / Memory of / Charles H . Evans / who departed this life / March 27th 1836 [?] / aged 36 years
 
+My Mother / Elizabeth Ducamp / Born / August 5th 1771 / Died / December 6th 1851 Also / my Son / George P . Headman / Born October 12th 1832 / Died at Savannah / February 7th 1859
 
-In / Memory of / Charles H . Evans / who departed this life / March
-27th 1836 [?] / aged 36 years
-M y Mother / Elizabeth Ducamp / Born / August 5th 1771 / Bied /
-December 6th 1851 Also / my Son / George P . Headman / Born
-October 12th 1832 / Died at Savannah / February 7th 1859
-
-
-In memory of / Jacob Strembeck / a Soldier of the Revolution /
-Late Sheriff / of the City and County of Philada. / who died July 11th
-1841 [ ?] / aged 86 years Also / Catharine / his wife / who died July
-2nd 1846 [ t] / aged 81 years
+In memory of / Jacob Strembeck / a Soldier of the Revolution / Late Sheriff / of the City and County of Philada. / who died July 11th 1841 [?] / aged 86 years Also / Catharine / his wife / who died July 2nd 1846 [?] / aged 81 years
 
 The Inhabitance of / Death / Sacred / to the memory of / Otho Hamilton Wemyss / and / Iolia [ ?] Mary Strembeck Wemyss
 
-In / Memory of / John H . Alcock / who died Septr 15, 1827 / i n
-the 33rd year of his age Also / Mary W . / Wife of John W . Alcock / who died April 27, 1849 / in the 48th year of her age Also / Robert
-T. Pancoast / who died Jany 13, 1852 / in the 37th year of his age.
+In / Memory of / John H . Alcock / who died Septr 15, 1827 / in the 33rd year of his age Also / Mary W . / Wife of John W . Alcock / who died April 27, 1849 / in the 48th year of her age Also / Robert T. Pancoast / who died Jany 13, 1852 / in the 37th year of his age.
 
-In / Memory of / Rachel / Wife of Joseph Innes / who died March
-9th 1830 / aged 54 years Also / Joseph Innes / who died March 9th
-1830 / aged 54 years Also / Joseph Innes / who died March 29th 1834 / aged 70 years
+In / Memory of / Rachel / Wife of Joseph Innes / who died March 9th 1830 / aged 54 years Also / Joseph Innes / who died March 9th 1830 / aged 54 years Also / Joseph Innes / who died March 29th 1834 / aged 70 years
 
-In / Memory of / R. S. Potter / Departed this life / Feb. 10th 1854 /
-In the 47th year of his age.
+In / Memory of / R. S. Potter / Departed this life / Feb. 10th 1854 / In the 47th year of his age.
 
 
-Sacred / to the memory of / Jamesanna / daughter of Wm & Sarah
-Matlack / who departed this life April 9th / A . D. 1859 aged 29 days
-Also her sister / Anna S. Matlack / who departed this life Deer 10th /
-A . D. 1844 aged 5 years & 11 months [verse]
+Sacred / to the memory of / Jamesanna / daughter of Wm & Sarah Matlack / who departed this life April 9th / A . D. 1859 aged 29 days Also her sister / Anna S. Matlack / who departed this life Deer 10th / A.D. 1844 aged 5 years & 11 months [verse]
 
-Sacred / to the memory of / Peter Agustus / son of / Louis Aguste
-& Sarah / Weston Morin / Born October 20th 1833 [?] / died October
-7th 1835 Also / George H . Kerrison / Born Feb. 28 / 1831 [?] /
-Died June 28th 1837 [?]
+Sacred / to the memory of / Peter Agustus / son of / Louis Aguste & Sarah / Weston Morin / Born October 20th 1833 [?] / died October 7th 1835 Also / George H . Kerrison / Born Feb. 28 / 1831 [?] / Died June 28th 1837 [?]
 
-Sacred / to the memory of / Ann Priest / wife of / George Priest / who departed this life / May 12th 1839 / aged 68 years Also / George
-Priest / who departed this life / May 22d 1845 aged 70 years Also /
-Aaron Priest / son of George & Ann Priest / who departed this life /
-Sept. 6th 1846, aged 31 [ ?] years [verse]
+Sacred / to the memory of / Ann Priest / wife of / George Priest / who departed this life / May 12th 1839 / aged 68 years Also / George Priest / who departed this life / May 22d 1845 aged 70 years Also / Aaron Priest / son of George & Ann Priest / who departed this life / Sept. 6th 1846, aged 31 [ ?] years [verse]
 
-To the memory of / Anne Seguin / who died December 31, 1842 [ ?] / aged 6 years Also / Arthur Seguin / who died January 6th 1843 / aged 2 years / The beloved children of / Edward and Anne Seguin
-[verse]
+To the memory of / Anne Seguin / who died December 31, 1842 [ ?] / aged 6 years Also / Arthur Seguin / who died January 6th 1843 / aged 2 years / The beloved children of / Edward and Anne Seguin [verse]
 
-James W . Eccles / Died January 4, 1843 / Aged 48 years Elizabeth
-his wife / Died July 12, 1858 / Aged 58 years James Eccles their Son /
-Died May 17, 1845 / Aged 18 years
+James W . Eccles / Died January 4, 1843 / Aged 48 years Elizabeth his wife / Died July 12, 1858 / Aged 58 years James Eccles their Son / Died May 17, 1845 / Aged 18 years
 
+In memory of / Henry Eolfe / a native of / Andover, Hampshire / England / who died January 21, / 1848 / in the 51st year of his age.
 
-
-In memory of / Henry Eolfe / a native of / Andover, Hampshire /
-England / who died January 21, / 1848 / in the 51st year of his age.
-
-In / Memory of ./ Isabell McDonald / who was born Octr 2nd / 1837
-died Novr 19th 1839 / aged 2 years 1 month / and 17 days.
-[Upper part of stone effaced] and to the memory of / Samuel Smith /
-/ who departed this life Sept. / 1830 Aged 57 [?] years /
-[verse]
+In / Memory of ./ Isabell McDonald / who was born Octr 2nd / 1837 died Novr 19th 1839 / aged 2 years 1 month / and 17 days. [Upper part of stone effaced] and to the memory of / Samuel Smith / / who departed this life Sept. / 1830 Aged 57 [?] years / [verse]
 
 Sacred / to / the memory of / Amelia / wife of / Edward Cronin / who departed this life / March 30th 1846 / aged 62 years
 
-
-In / Memory of / Miss Jane S. Burke / who departed this life /
-Sept. 25*h 1844 / aged 15 years [verse]
-
+In / Memory of / Miss Jane S. Burke / who departed this life / Sept. 25*h 1844 / aged 15 years [verse]
 
 In memory of / Mrs. Mary Gamble / who departed this life / February
 25th 1845 / In the 47th year of her age. [verse]
+
 Husband and Wife / Samuel L . Garrett / Born Feb. 25, 1818 / Died
 March 4, 1881 [verse] Also / Mary A . Garrett / Born April 11th 1823 /
 Died March 2nd 1884
+
 Ellen Duane Steedman / Died Feb. 26, 1851 / Aged 2 years & 11
 months [verse]
-James Bonaldson / died March 29, 1841 / aged 72 years
-In / Memory / of / Janet Bonaldson / Native of Edinburgh / who /
-Died Oetr 16th 1834
-Bichard Bonaldson / died June 16, 1863, / aged 91 years
-William Pusey / died July 21st 1839 Mary A . Pusey Meeds / died
-January 28th 1876
-Elizabeth Fult
-/
-[indecipherable]
 
-Sacred / to the [memory] of / Thomas Andrews [9] / who [died] /
-May 29th
-Frances Andrews [ ?] / who departed this life /
-1834 [ 9]
+James Ronaldson / died March 29, 1841 / aged 72 years
 
-Our Mother / and / Father / Elizabeth Levis Tanner / Born Aug. 5,
-1819 / Died Aug. 30, 1877 / John Tanner. M . D. / Born June 26 1809 /
-Died Aug. 22, 1892
+In / Memory / of / Janet Bonaldson / Native of Edinburgh / who / Died Octr 16th 1834
 
-In / Memory of / John Barney / a native of England / who was born
-August 8, 1778 / and died July 15, 18— / aged 66 [ 9] years 11 months / and 7 days. Margaret Barney / Wife of / John Barney / Died April
-13 [9], 1853 [9] / In the 76 [9] year of her age.
-Augustine E . Peale / Born Nov. 19th 1819 / Died May 6th 1856
-Virginia Peale / died June 25th 1867 / aged 39 years
+Richard Ronaldson / died June 16, 1863, / aged 91 years
 
-Sacred / to the / Memory of / Hannah Perkins / Eelict of James [ 9]
-Perkins / who departed this life / January 17th 1841 [9] / Aged 63
-years. Also / Charles Perkins / Son of J
-& Hannah Perkins / who
-departed this life / August 20th [?] 1834 [9] / Aged 11 [9] years Also / William A . [9] Perkins / Son of J
-& Hannah Perkins / who departed this life / September 3rd [9] 1833 [9] / Aged 10 years Also / Thomas J . Perkins / Son of J
-& Hannah Perkins / who
-departed this life / October 25th 1847 [ 9] aged 31 years
+William Pusey / died July 21st 1839 Mary A . Pusey Meeds / died January 28th 1876
 
-Sacred / to the memory of / John B . Bernadou / who departed this
- life / July 24th 1860 / in the 85th year of / his age. Also of / Henriette
-Fontaine / wife of / John B . Bernadou / who died / January 10th 1867
+Elizabeth Fult / [indecipherable]
 
-Sacred / to the memory of / Frances Adele / who died May 21st
-1815 [ 9] / aged 17 years & 3 months Also of / John B . / who died at
-Cienfuegos, Cuba / May 21st 1816 [9] / aged 29 years 11 months /
-Children of / John B . and Henrietta Bernadou. Also of their son /
-Edward / who died at Brownsville, Pa. / March 7th 1850 / aged 30 years9 months / 26 days.
-Edward G. Harris / died Nov. 7, 1852 Caroline C. Harris / died Nov.
-15, 1871 J . Bernadou Harris / died Nov. 17, 1871 Virginia M . Harris / died Feb. 25, 1872
-Sarmiento / Frances Louise / wife of / William G. Grimm / died
-April 9, 1892
+Sacred / to the [memory] of / Thomas Andrews [?] / who [died] / May 29th
 
+Frances Andrews [?] / who departed this life / 1834 [?]
 
-In / Memory of / Ezekiel Harlan / born the
-of Dee. 1797 / this life June 19, 1835 / Aged 38 years 6 mos. & 11 days.
+Our Mother / and / Father / Elizabeth Levis Tanner / Born Aug. 5, 1819 / Died Aug. 30, 1877 / John Tanner. M . D. / Born June 26 1809 / Died Aug. 22, 1892
 
-In / Memory of / John Lewis / who departed this life / December
-3rd 1845 / in the 31st year of his age. Also / John / son of John &
-Sarah Lewis / who departed this life / Oct. —th 1844 / aged 11 weeks.
-[verse] Also / Catharine / daughter of George & Elizabeth E —
-? / who departed this life / June 22nd 1850 / In the 34th year of her age.
-[verse]
+In / Memory of / John Barney / a native of England / who was born August 8, 1778 / and died July 15, 18— / aged 66 [ 9] years 11 months / and 7 days. Margaret Barney / Wife of / John Barney / Died April 13 [9], 1853 [9] / In the 76 [9] year of her age.
 
-Sacred / to the memory of / Eliza / wife of / Abraham Levy / who died Feb. 18 [ ?] 1847 / aged 42 [ ?] years Also / to the memory
-of / Abraham Levy / who died April 17, 1847 / aged 45 years Also /
-Charles Henry Levy / son of / Abraham and Eliza Levy / who departed
-this life / October 26th 1853 / in the 20th year of his age.
-Mother / 
-Sacred / to the memory of / Mrs. Sarah Phillips / born
-Nov. X X I . MDCCL X X I X / died Peb. XVIII . MDCCC XLVII [verse]
-Also her grandson / Elisha H . Allen / aged two years and four months
-[A blank line] Died January 10th 1839 / in the 19th year of her age /
-Lucy B . Wife of / Capt. James Marks. Also Elizabeth Lusk / Aged
-75 years
+Augustine E . Peale / Born Nov. 19th 1819 / Died May 6th 1856 Virginia Peale / died June 25th 1867 / aged 39 years
+
+Sacred / to the / Memory of / Hannah Perkins / Relict of James [?] Perkins / who departed this life / January 17th 1841 [9] / Aged 63 years. Also / Charles Perkins / Son of J & Hannah Perkins / who departed this life / August 20th [?] 1834 [9] / Aged 11 [9] years Also / William A . [9] Perkins / Son of J & Hannah Perkins / who departed this life / September 3rd [9] 1833 [9] / Aged 10 years Also / Thomas J . Perkins / Son of J & Hannah Perkins / who departed this life / October 25th 1847 [ 9] aged 31 years
+
+Sacred / to the memory of / John B . Bernadou / who departed this life / July 24th 1860 / in the 85th year of / his age. Also of / Henriette Fontaine / wife of / John B . Bernadou / who died / January 10th 1867
+
+Sacred / to the memory of / Frances Adele / who died May 21st 1815 [ 9] / aged 17 years & 3 months Also of / John B . / who died at Cienfuegos, Cuba / May 21st 1816 [9] / aged 29 years 11 months / Children of / John B . and Henrietta Bernadou. Also of their son / Edward / who died at Brownsville, Pa. / March 7th 1850 / aged 30 years9 months / 26 days.
+
+Edward G. Harris / died Nov. 7, 1852 Caroline C. Harris / died Nov. 15, 1871 J . Bernadou Harris / died Nov. 17, 1871 Virginia M . Harris / died Feb. 25, 1872
+
+Sarmiento / Frances Louise / wife of / William G. Grimm / died April 9, 1892
+
+In / Memory of / Ezekiel Harlan / ____ born the ____ of Dec. 1797 / this life June 19, 1835 / Aged 38 years 6 mos. & 11 days.
+
+In / Memory of / John Lewis / who departed this life / December 3rd 1845 / in the 31st year of his age. Also / John / son of John &
+
+Sarah Lewis / who departed this life / Oct. —th 1844 / aged 11 weeks. [verse] Also / Catharine / daughter of George & Elizabeth E______? / who departed this life / June 22nd 1850 / In the 34th year of her age. [verse]
+
+Sacred / to the memory of / Eliza / wife of / Abraham Levy / who died Feb. 18 [ ?] 1847 / aged 42 [ ?] years Also / to the memory of / Abraham Levy / who died April 17, 1847 / aged 45 years Also / Charles Henry Levy / son of / Abraham and Eliza Levy / who departed this life / October 26th 1853 / in the 20th year of his age.
+
+Mother / Sacred / to the memory of / Mrs. Sarah Phillips / born Nov. XXI. MDCCL XXIX / died Peb. XVIII . MDCCC XLVII [verse] Also her grandson / Elisha H . Allen / aged two years and four months [A blank line] Died January 10th 1839 / in the 19th year of her age / Lucy B . Wife of / Capt. James Marks. Also Elizabeth Lusk / Aged 75 years
+
 Mrs Ann Catharine Neville. / Adelaide Olivia Neville. / Imogene
 Alcesta Neville. / Mrs Aurelia Neville. / Frederick A . Neville / Died
 April [ ?] 20th 1877 / aged 73 years
+
 Our dear mother / Sophia Dickinson / born / November 5th 1800 / died / March 17th 1842 [verse]
 
-Sacred / to the memory of / Matthew Porter / a native of Maryland /
-Aged 28 Years 6 Months / A n d Departed this life / May 11th 1836. [ ?]
-Daniel Morrison / died in Philadelphia / June 4th 1836 / in the 25th
-year of his age / and 5th f his residence / in the United States / A
-native of Moneydig / near Garvagh / Ireland
+Sacred / to the memory of / Matthew Porter / a native of Maryland / Aged 28 Years 6 Months / A n d Departed this life / May 11th 1836. [ ?]
 
-In / Memory of / William Henry aged 6 [ ?] years / Thomas N
-/
-Charles years/ Eliza Ann / Children of / Henry A [ ?] & Eliza
-Ann Williams /
+Daniel Morrison / died in Philadelphia / June 4th 1836 / in the 25th year of his age / and 5th f his residence / in the United States / A native of Moneydig / near Garvagh / Ireland
+
+In / Memory of / William Henry aged 6 [ ?] years / Thomas N / Charles years/ Eliza Ann / Children of / Henry A [ ?] & Eliza Ann Williams /
 
 
-In memory of / John A . Hamilton / died May 24, 1843 / aged 49
-years
+In memory of / John A . Hamilton / died May 24, 1843 / aged 49 years
+
 Andrew Hamilton / Died Nov. 14, 1839 aged 28 years
-Samuel C. Atkinson / Died Feb. 2nd 1862 / in the 68th year of / his age / [verse]
-Capt. Geo. P . Finney / of 91 Beg. P . V . / Died Aug. 1, 1891 / Aged
-64 years
+
+Samuel C. Atkinson / Died Feb. 2nd 1862 / in the 68th year of / his age / [verse] Capt. Geo. P . Finney / of 91 Beg. P . V . / Died Aug. 1, 1891 / Aged 64 years
+
 James Campbell / Born March 20th 1794 / D i d July 30th 1874
-Malvina A . / Wife of / James Campbell / Born March 4th 1804 /
-Died October 20th 1849 / [sentiment]
+
+Malvina A . / Wife of / James Campbell / Born March 4th 1804 / Died October 20th 1849 / [sentiment] 
+
 Virginia / Born May 2, 1840 / Died April 6, 1847
-Hermann Jansen / of Bremen, Germany / Born April 17, 1813 /
-Died December 10, 1840 Hier ruht in Gott / die irdische Hiille von /
-Hermann Jansen / aus Bremen / Geboren den 17ten April 1813 /
-Gestorben den lOten December 1840
 
-Sacred / to the memory of / Ann Crosby / formerly of / Sunbury,
-Northumberland Co., Pa. / wife of Thomas Crosby / who departed this
-life / December 31st 1842 aged 48 years
+Hermann Jansen / of Bremen, Germany / Born April 17, 1813 / Died December 10, 1840 Hier ruht in Gott / die irdische Hiille von / Hermann Jansen / aus Bremen / Geboren den 17ten April 1813 / Gestorben den lOten December 1840
 
+Sacred / to the memory of / Ann Crosby / formerly of / Sunbury, Northumberland Co., Pa. / wife of Thomas Crosby / who departed this life / December 31st 1842 aged 48 years
 
 Lewis /
-I n / memory of / Benjamin F . Perry / formerly of Dublin, N . H . / who died in this city / October 18th 1842 / in the 26th year / of his age. /
-[verse]
-Our Parents / 
-Sacred / to the memory of / Maria Snider / who
-departed this life / December 28th 1835 / in the 51st year of her age. /
-[verse] Jacob Snider, Sr. / Born Oct. 6th 1786 / Died May 13th 1871 /
-[verse]
+
+In / memory of / Benjamin F . Perry / formerly of Dublin, N . H . / who died in this city / October 18th 1842 / in the 26th year / of his age. / [verse]
+
+Our Parents / Sacred / to the memory of / Maria Snider / who departed this life / December 28th 1835 / in the 51st year of her age. / [verse] Jacob Snider, Sr. / Born Oct. 6th 1786 / Died May 13th 1871 / [verse]
+
 Susie L . / daughter of / E l i W. and Mariann C. "Whelan / died July
 29, 1874 / aged 16 years. E l i W. Whelan / died December 6, 1880 / aged 65 years Mariann C. / wife of / E l i W . Whelan / died February
 8, 1899 / aged 79 years / [verse]
 
-Sacred / to the memory of / Sarah / wife of Samuel Lafferty / and
-only daughter of / George and Catharine Shisler [ ?] / who departed this
-life / January l l t h 1837 / aged 30 years 1 month / and 17 days / [verse]
+Sacred / to the memory of / Sarah / wife of Samuel Lafferty / and only daughter of / George and Catharine Shisler [ ?] / who departed thislife / January l l t h 1837 / aged 30 years 1 month / and 17 days / [verse]
 
-Sacred / to / the memory of / John Wiley / who departed this life /
-June 26th 1864 / Aged 75 years Also / Elizabeth / wife of John Wiley / who departed this life / March 3rd 1859 / in the 65th year of her age
-Also / Miss Eliza J . I. Wiley / who departed this life / May 11th
-1837 [ ?] / in the 24th year of her age.
+Sacred / to / the memory of / John Wiley / who departed this life /June 26th 1864 / Aged 75 years Also / Elizabeth / wife of John Wiley / who departed this life / March 3rd 1859 / in the 65th year of her ageAlso / Miss Eliza J . I. Wiley / who departed this life / May 11th1837 [ ?] / in the 24th year of her age.
 
-In / Memory of / Bebecca Biddle / who departed this life / March
-3rd [?] 1837 [?] / in the 64th [?] year of her age.
+In / Memory of / Bebecca Biddle / who departed this life / March 3rd [?] 1837 [?] / in the 64th [?] year of her age.
 
-Sacred / to the memory of / Bosanas Arthurs / who died
-1843 [ ?] / aged 23 years
+Sacred / to the memory of / Bosanas Arthurs / who died 1843 [ ?] / aged 23 years
 
-Sacred / to the memory of / Leonora S. Price / daughter of / Joseph
-G. & Phebe C. Price / who departed this life / September 10th 1841 / aged 3 [?] months and 10 days [verse]. Also / Josephine L . Price / who died January 31st 1843 / aged 4 months and 23 days Also / Capt.
-Joseph G. Price / who died April 3rd [?] 1844 / aged 29 years [verse]
+Sacred / to the memory of / Leonora S. Price / daughter of / Joseph G. & Phebe C. Price / who departed this life / September 10th 1841 / aged 3 [?] months and 10 days [verse]. Also / Josephine L . Price / who died January 31st 1843 / aged 4 months and 23 days Also / Capt. Joseph G. Price / who died April 3rd [?] 1844 / aged 29 years [verse]
 
-Sacred / to the memory of / James Saunders / who departed this
-life / May 16th 1841 [ ?] / aged 26 years
+Sacred / to the memory of / James Saunders / who departed this life / May 16th 1841 [ ?] / aged 26 years
 
 Sacred / to the Memory of / George D. Biggar / Died May 29, 1847 / aged 33 years
-To / memory of my father / James — Weaver / Born Janu
-/
-Died Dec
-[stone badly broken]
 
+To / memory of my father / James ____ Weaver / Born Janu___ / Died Dec ____ [stone badly broken]
 
-In memory of / Isabella Weaver / Born / May 4th 1806 / Died Dec 'r
-1st 1865 Elija h J . Weaver / Born Feb. 27th 1804 / Died June 9th 1874
+In memory of / Isabella Weaver / Born / May 4th 1806 / Died Dec 'r 1st 1865 Elija h J . Weaver / Born Feb. 27th 1804 / Died June 9th 1874
+
 James B . Frampton / Born Dec 'r 22nd 1812 / Died Sept 'r 20th 1847 [ ?]
 
 Sacred / to the memory of / William H . Boyd / Died June 10, [?]
 1841 [ ?] / in the 35th [ ?] year of his age.
+
 Albert Duy Oat / Died February 4th 1844 [?] / aged 13 months &
 11 days. Bichard L . Oat / Died February 22nd 1843 [ ?] / in the 33rd
 year of his age Bichard L . Oat / Died July 6th 1850 [ ?] Aged 5 years
 
-I n / memory of / Annie G. Sproule / aged three months / and two weeks
+In / memory of / Annie G. Sproule / aged three months / and two weeks
 
-Sacred / to the memory of / Jane / wife of / Hugh Stuart / who
-departed this life / June 21st 1848 aged 28 years [verse] Mary Jane
-Stuart / daughter of / Hugh and Jane Stuart / born November 7th
-1845 / died December 10th 1861
+Sacred / to the memory of / Jane / wife of / Hugh Stuart / who departed this life / June 21st 1848 aged 28 years [verse] Mary Jane Stuart / daughter of / Hugh and Jane Stuart / born November 7th 1845 / died December 10th 1861
 
-Sacred / to the memory of / Eliza / wife of Michael Simons / who
-departed this life / November 8th 1840 / aged 30 years 1 month & 11
-days [verse]
-;
-
+Sacred / to the memory of / Eliza / wife of Michael Simons / who departed this life / November 8th 1840 / aged 30 years 1 month & 11 days [verse]
 
 Cornelia Smith / Died October 27th 1865
 
 Sacred / to the memory of / Harrison Hudson Eowbotham / a native
 of Manchester, England who / departed this life February 4th 1837 [?] / aged 42 years [verse]
+
 Imogene L . McClellan / Born Jany 9th 18_9 / Died May 7th 1862 /
 Aged 3 years & 4 months [verse]
 
-Frederick Seiser / Born May 5, 1777 / Died June 15, 1858 John
-Seiser / Born Sept 30, 1799 / Died March 7, 1880 Julianna Seiser /
-Born Nov. 3, 1803 / Died May 2, 1888 William F . Seiser / Born June
-15, 1835 / Died August 10, 1860 Emma Louisa Seiser / Born A u g 3,
-1837 / Died December 3, 1841
+Frederick Seiser / Born May 5, 1777 / Died June 15, 1858 John Seiser / Born Sept 30, 1799 / Died March 7, 1880 Julianna Seiser / Born Nov. 3, 1803 / Died May 2, 1888 William F . Seiser / Born June 15, 1835 / Died August 10, 1860 Emma Louisa Seiser / Born A u g 3, 1837 / Died December 3, 1841
 
 In / Memory of / Mary Jane Crease / who departed this life /
 August 6th 1838 / aged 6 months and 9 days
 
-Sacred / to the memory of / William C. Freeman / who died December
-9th 1831 / in the 6th year of his age Also / Joseph B . Freeman /
-Father of William C. Freeman / who departed this life / September
-5th 1836 aged 32 / years and 7 months Also / John Freeman / who
-departed this life / February 5th 1841 / in the 6th year of his age.
+Sacred / to the memory of / William C. Freeman / who died December 9th 1831 / in the 6th year of his age Also / Joseph B . Freeman / Father of William C. Freeman / who departed this life / September 5th 1836 aged 32 / years and 7 months Also / John Freeman / who departed this life / February 5th 1841 / in the 6th year of his age.
 
-In / Memory of / William H . Clark / Born December 3rd 1812 /
-Died February 10th 1842 [verse]
+In / Memory of / William H . Clark / Born December 3rd 1812 / Died February 10th 1842 [verse]
 
-In memory of / Robert S. Munier / who departed this life / June 22,
-1840 / aged 22 years
-Robert K in g / Born at Waterford, Erie Co., Pa. / Oct. 12th 1803 /
-Died Aug. 26th 1832 [verse]
+In memory of / Robert S. Munier / who departed this life / June 22, 1840 / aged 22 years
 
-Sacred / to the memory of / Mary Ann Lawrence / who died September
-10th / 1838 aged 31 years / & 6 months [verse]
+Robert King / Born at Waterford, Erie Co., Pa. / Oct. 12th 1803 / Died Aug. 26th 1832 [verse]
 
-In memory of / Samuel Cass / Died August 4 [?] 1840 [?] / aged
-28 years & 6 months
-Mary Helwick / Died December 15th A . D. 1837 / aged 49 years
-Erected / to the memory of / Charles Mercier / Died April 27th A . D .
-1852 / aged 75 years Also / Jane / wife of Charles Mercier / Died
-December 31st A . D. 1848 / aged 81 years
+Sacred / to the memory of / Mary Ann Lawrence / who died September 10th / 1838 aged 31 years / & 6 months [verse]
 
-Sacred / to the memory of / Augustine Carri [?] / who departed this
-life / May the 4th [ f] A.D. 1836 [ ?] / In the
-year of his age.
-Sacred to the memory of / Henry Freenman / Son of / Daniel &
-Margaret [?] Baler [?] / Died Oct. 28 [?] 1843 [?] / aged
-months / and 12 days.
+In memory of / Samuel Cass / Died August 4 [?] 1840 [?] / aged 28 years & 6 months
 
-In / Memory of / Jemima Wamaling / Died April 8th. 1884 / aged
-78 years Also her mother / Mary Andrews / Died Nov. 18th. 1870 / aged 96 years.
+Mary Helwick / Died December 15th A . D. 1837 / aged 49 years Erected / to the memory of / Charles Mercier / Died April 27th A . D . 1852 / aged 75 years Also / Jane / wife of Charles Mercier / Died December 31st A . D. 1848 / aged 81 years
 
-Sacred / to / the memory of my son / William Otter / born April
-1829—died June 1875 Also his wife / Sarah Jane Otter / born Nov.
-1831—died 1862 Also their daughter / Emma Jane Otter / born June
-1850—died April 1857 Also / Bachael Gallagher / the mother of Sarah
-Jane Otter / born 1799—died 1875 Also / Elizabeth Evans / born
-1765—died 1862
+Sacred / to the memory of / Augustine Carri [?] / who departed this life / May the 4th [ f] A.D. 1836 [ ?] / In the year of his age.
 
-In / Memory of / John Cross / who was born / the 7th day of Nov*
-1801 / and departed this life / the 24th day of Novr 1830 / aged 29 years
+Sacred to the memory of / Henry Freenman / Son of / Daniel & Margaret [?] Baler [?] / Died Oct. 28 [?] 1843 [?] / aged months / and 12 days.
 
-In / Memory of / William B . Norfleet / of Port Boyal, Tenne /
-Student of Jefferson / Medical College / Died December 18th 1848 / aged 21 years
+In / Memory of / Jemima Wamaling / Died April 8th. 1884 / aged 78 years Also her mother / Mary Andrews / Died Nov. 18th. 1870 / aged 96 years.
 
+Sacred / to / the memory of my son / William Otter / born April 1829—died June 1875 Also his wife / Sarah Jane Otter / born Nov. 1831—died 1862 Also their daughter / Emma Jane Otter / born June 1850—died April 1857 Also / Bachael Gallagher / the mother of Sarah Jane Otter / born 1799—died 1875 Also / Elizabeth Evans / born 1765—died 1862
 
-Archibald Sloan / Born in Smith County / Tennessee / July 12, 1811 ,/
-Died October 9, 1851 / Buried by his friends and associates of Phila-
-delphia.
-Emureth A . Ferguson / of Dyersburg, Dyer Co., Tennessee / died
-at Philadelphia / August 16th 1852 / aged 45 years
+In / Memory of / John Cross / who was born / the 7th day of Nov* 1801 / and departed this life / the 24th day of Novr 1830 / aged 29 years
 
-In / Memory of / Nicolas Constant G-auvin / a Native of Cormiel,
-France / who departed this life / January 23rd 1847 / in the 82nd year
-of his age.
+In / Memory of / William B . Norfleet / of Port Boyal, Tenne / Student of Jefferson / Medical College / Died December 18th 1848 / aged 21 years
+
+Archibald Sloan / Born in Smith County / Tennessee / July 12, 1811 ,/ Died October 9, 1851 / Buried by his friends and associates of Philadelphia.
+
+Emureth A . Ferguson / of Dyersburg, Dyer Co., Tennessee / died at Philadelphia / August 16th 1852 / aged 45 years
+
+In / Memory of / Nicolas Constant G-auvin / a Native of Cormiel, France / who departed this life / January 23rd 1847 / in the 82nd year of his age.
 
 Hypolite Martin
 
-Sacred / to / the Memory of / Harriet M . Williams / wife of Captn
-A . M . Williams / who departed this life / [______________] Also / to the
-memory of / Capt. Andrew M . Williams / who departed this life /
-March 4th 1844 [t] / in the 7 6 » year of his age.
+Sacred / to / the Memory of / Harriet M . Williams / wife of Captn A. M. Williams / who departed this life / [______________] Also / to the memory of / Capt. Andrew M . Williams / who departed this life / March 4th 1844 [t] / in the 7 6 » year of his age.
+
 ________ Thomas _____tghel _____ [several lines obliterated] Also / Elijah Johnson / of Fleming, County K______ / who departed this life / July 29th 1842 / aged 61 years 6 mo. & 29 days.
 
 In / Memory of / Grace / wife of Brown [?] / who died July 18, 1839 / aged 36 years
 
 George F . Lehman, M . D. / Died September 22, 1859 Catharine / wife of / George F . Lehman / Died February 4, 1875 Lehman F . Gurney / Died April 16, 1896 Frances Lehman / daughter of / George F . Lehman / Died September 15, 1835 Catharine Taylor / daughter of / George F . Lehman / Died February 25, 1880 Caroline M . Pancoast / daughter of / George F . Lehman, M . D . / died March 28, 1900. H . DeCourcy Brolasky / grandson of / George F . Lehman / Died December 17, 1887
 
-Thaddeus Wentworth / Died February 10th 1867 / age 74 years 2 months / & 5 days Albert S. Wentworth / Died November 14th 1859 / age 25 years 1 month / & 27 days Thaddeus C. Wentworth / was drowned 4th July 1836 / age 11 years 11 months / & 11 days Watson
-W. Wentworth / Died September 9th 1841 / age 19 years 3 months /
-& 25 days.
+Thaddeus Wentworth / Died February 10th 1867 / age 74 years 2 months / & 5 days Albert S. Wentworth / Died November 14th 1859 / age 25 years 1 month / & 27 days Thaddeus C. Wentworth / was drowned 4th July 1836 / age 11 years 11 months / & 11 days Watson W. Wentworth / Died September 9th 1841 / age 19 years 3 months / & 25 days.
 
-In / Memory of / William Henry / son of
-/ Thompson / who departed this life / June 28, 1846 [?] / aged
-Eliza Morasso / died / July 15th 1863 [?] / Aged 60 years
+In / Memory of / William Henry / son of / Thompson / who departed this life / June 28, 1846 [?] / aged Eliza Morasso / died / July 15th 1863 [?] / Aged 60 years
 
-In memory / of / Lewis Grousillat / Died July 15th 1836' Lewis
-Grousillat / Died Dec. 28th 1848 Margaret Grousillat / Died April 6th
-1868
+In memory / of / Lewis Grousillat / Died July 15th 1836' Lewis Grousillat / Died Dec. 28th 1848 Margaret Grousillat / Died April 6th 1868
 
-Sacred / to the memory of / Mason Hutchins / Born May 19, 1796 /
-Died Oct. 9, 1866 / Afflicted / in life, he showed in death / his sympathy
-with the afflicted, / by endowing / Saint Joseph's hospital / with all his
-worldly substance
+Sacred / to the memory of / Mason Hutchins / Born May 19, 1796 / Died Oct. 9, 1866 / Afflicted / in life, he showed in death / his sympathy with the afflicted, / by endowing / Saint Joseph's hospital / with all his worldly substance
 
-James Thompson / Merchant of Indiana, Penna / Son of / Hugh &
-Martha Thompson / Born July 24th 1799 / Died in Philadelphia / May
-9th 1837 / Aged 37 years 9 mos & 17 days. / Erected to his memory by
-his / Affectionate Wife and Children.
+James Thompson / Merchant of Indiana, Penna / Son of / Hugh & Martha Thompson / Born July 24th 1799 / Died in Philadelphia / May 9th 1837 / Aged 37 years 9 mos & 17 days. / Erected to his memory by his / Affectionate Wife and Children.
 
-Sacred / to the memory of / Mrs Mary Livingston / widow of Henry
-Livingston / who died 28 [ ?] December 1830 [ ?] / Aged 46 years
+Sacred / to the memory of / Mrs Mary Livingston / widow of Henry Livingston / who died 28 [ ?] December 1830 [ ?] / Aged 46 years
 
+In memory of / Martha Mayberry / Who departed this life July / In the 71st year of her age [verse] Also / Robert Mayberry / died April 12, 1854 [ ?] / in the 48th year of his age
 
-In memory of / Martha Mayberry / Who departed this life July
-/
-In the 71st year of her age [verse] Also / Robert Mayberry / died
-April 12, 1854 [ ?] / in the 48th year of his age
+Sacred / to the memory of / Mrs Margaret / widow [?] of / Capt. Ansler / who departed this life / April 11th [ ?] 1842 [ ?]
 
-Sacred / to the memory of / Mrs Margaret / widow [?] of / Capt.
-Ansler / who departed this life / April 11th [ ?] 1842 [ ?]
-This / Stone is erected / to the memory of / John Malcom / Stone
-Cutter / a native of the County / Antrim, Ireland / who died / ------, 1836 [ ?] / aged 36 years
-------- / James Conley / ------- / -------
+This / Stone is erected / to the memory of / John Malcom / Stone Cutter / a native of the County / Antrim, Ireland / who died / ------, 1836 [ ?] / aged 36 years
 
+_____ / James Conley / _____ / ______
 
-Sacred / to the / Memory of / Hannah Perkins / Eelict of James [ ?]
-Perkins / who departed this life / January 17
-/ Aged 63 years
-Charles Perkins / Son of
-Hannah Perkins
-William A . Perkins
-Thomas J . Perkins / Son of
-Hannah Perkins / Who departed this
-life / October
-1847 aged 4 [ ?] years
+Sacred / to the / Memory of / Hannah Perkins / Eelict of James [ ?] Perkins / who departed this life / January 17 / Aged 63 years
 
-Sacred / to the memory of / Juliana North / Daughter of / Edward
-& Hannah North / Born October 31st 1837 / Died October 31st 1853 /
-A native of Loughborough / Leicestershire, England [verse]
+Charles Perkins / Son of Hannah Perkins
 
-Our Mother / Catharine Marshall / Died January 9, 1832 [ ?] / aged
-46 years
+William A. Perkins
 
-Sacred / to the memory of / Foxhall Alexander Parker, Sen. / Capt.
-U . S. Navy [ ?] / Born July 31st 1788 / Died November 23d. 1830 [ ?]
-Sarah Jay Parker / Consort of / Foxhall Alexander Parker, Senr /
-Born December 11th 1793 / Died June 11th I860
+Thomas J. Perkins / Son of Hannah Perkins / Who departed this life / October 1847 aged 4 [ ?] years
+
+Sacred / to the memory of / Juliana North / Daughter of / Edward & Hannah North / Born October 31st 1837 / Died October 31st 1853 / A native of Loughborough / Leicestershire, England [verse]
+
+Our Mother / Catharine Marshall / Died January 9, 1832 [ ?] / aged 46 years
+
+Sacred / to the memory of / Foxhall Alexander Parker, Sen. / Capt. U . S. Navy [ ?] / Born July 31st 1788 / Died November 23d. 1830 [ ?] Sarah Jay Parker / Consort of / Foxhall Alexander Parker, Senr / Born December 11th 1793 / Died June 11th I860
 
 In memory of / Juliet Oetavia / daughter of / Foxhall Alex, and Sara Jay Parker / Born July 30, 1820 / Died Nov. 30, 1836 Also / Virginia Adela / daughter of / Wm. Heathe and Mary Jay Eldridge / Born Feb. 10, 1841 / Died July 31, 1842 Robert Bogardus / Lieut. U.S. Army / Son of / Foxhall Alex, and Sara Jay Parker / Born Aug. 4, 1818 / Died Sept. 11, 1842.
 
-Midshipman / Foxhall Parker Smith / son of / J . Vaughan and Virginia A . Smith / departed this life / at the / Naval Academy / Newport, R. I. / January 19, 1863 / aged 15 years and 11 months / His brother officers record here / their sorrow and their love. Also his
-Mother / Virginia Adela Wainwright / Died August 1st. 1904.
+Midshipman / Foxhall Parker Smith / son of / J . Vaughan and Virginia A . Smith / departed this life / at the / Naval Academy / Newport, R. I. / January 19, 1863 / aged 15 years and 11 months / His brother officers record here / their sorrow and their love. Also his Mother / Virginia Adela Wainwright / Died August 1st. 1904.
 
 In / Memory of / William Stout / who departed this life / March 22, 1820 Aged / 86 Years 3 Months and / 10 Days
 
@@ -1692,18 +1483,15 @@ In / Memory of / Joseph Morkman [?] / a native of the of / Loudon Bay [?], Irela
 
 Sacred / to the memory of / William Roach / who departed this life / on the 19th day of Jany / 1841 / aged 29 years In / The memory of / James Stuart / who departed this life / July 29th A . D. 1849 [?] / aged 35 [?] years 6 [ i ] months & 2 days / Elizabeth Fult
 
-In memory / of / Samuel / son of / Benjamin & Elizabeth Burgin / who departed this life / September 13th [?] 1849 [?] / aged 11 years
-and 19 days
+In memory / of / Samuel / son of / Benjamin & Elizabeth Burgin / who departed this life / September 13th [?] 1849 [?] / aged 11 years and 19 days
 
 In memory / of / [broken stone] who died July  Also of / Michael Sick [ ?] Kerr [ ?] / who died March 3—, 1851 / aged 60 years
 
 Sacred / to the memory of / Sarah wife of / Andrew Hanndy / A native of Baltimore County / who departed this life / Novr 12th 1843 / in the 44th year of her age
 
-
 [In memory of] / Septimus Brooks [?] / a native of / ____________ , Connecticut / who departed this life / February 26th 1829 [ ?]
 
-Sister / Hetty E , Perry / departed this life / July 28th 1828 / aged
-20 years Frances S. Perry / born January 2, 1798 / departed this life April 21, 1849
+Sister / Hetty E , Perry / departed this life / July 28th 1828 / aged 20 years Frances S. Perry / born January 2, 1798 / departed this life April 21, 1849
 
 In / Memory of / George Lynch / who departed this life / February 20th 1839 [?] / aged 28 years [sentiment]
 
@@ -1725,168 +1513,97 @@ Sacred / to the memory of / John Hubie / a native of London / England / who depa
 
 Sacred / to the memory of / Matilda / Wife of Joseph White / departed this life / March 18, 1837 / aged 48 years & 4 days [verse]
 
-Sacred / to the memory of / Caroline / Daughter of / Samuel H . and Ann Stephens / A n d Wife of / Col. Z. W . Potter. U . S. Consul / at Valparaiso, 1850, / who died in the City of / Philadelphia / May 1852 / in the 26th year of her age. And of Col. Abdiel W . Potter / of Cecil Co. Maryland / Born in Caroline Co., Maryland / December
-22, 1814 / Died March 30, 1855
+Sacred / to the memory of / Caroline / Daughter of / Samuel H . and Ann Stephens / A n d Wife of / Col. Z. W . Potter. U . S. Consul / at Valparaiso, 1850, / who died in the City of / Philadelphia / May 1852 / in the 26th year of her age. And of Col. Abdiel W . Potter / of Cecil Co. Maryland / Born in Caroline Co., Maryland / December 22, 1814 / Died March 30, 1855
 
 In / Memory of / Stephens / [who departed] this life / [in] 1846 [ ?] / of his age.
 
-In / Memory of / Jonathan Beere / Born / October 5th 1769 / Died /
-August 12th 1838
+In / Memory of / Jonathan Beere / Born / October 5th 1769 / Died / August 12th 1838
 
-Sacred / to the memory of / Andrew Busch / Born in Prussia / 1st
-of January 1763 / and / died in Philadelphia / 11th fApri l 1836
-y e
-0
+Sacred / to the memory of / Andrew Busch / Born in Prussia / 1st of January 1763 / and / died in Philadelphia / 11th of April 1836
 
+In / Memory of / James Patterson / a native of Ireland / who departed this life / on the 13th fApri l / in the year 1832 / aged 21 years
 
-In / Memory of / James Patterson / a native of Ireland / who departed
-this life / on the 13th fApri l / in the year 1832 / aged 21 years
+In / Memory of / John Nelson / who departed this life / January 31st 1833 / aged 33 years / A native of the county of / Ireland
 
-In / Memory of / John Nelson / who departed this life / January
-31st 1833 / aged 33 years / A native of the county L
-/ Ireland
+Sacred / to / the memory of / Ann P. Davis / consort of the late / William H . Davis / [obliterated]
 
-Sacred / to / the memory of / Ann P. Davis / consort of the late /
-William H . Davis / [obliterated]
-/ Robert Ross /
-/
-Lafayette M . Whitehead / Died 20th f March 1843 / A native of
-Laurens County / Georgia / aged 49 [?] years.
+_______ / Robert Ross /_____ / _______
 
-Sacred / to the Memory of / Thomas Jones / who departed this life / on the _______ of Decr 1834 [?] / in the 49th [?] year of his age Also
-of / Catharine Jones / his Wife / who departed this life / the 1st of
-October 1835 / in the 45th year of her age.
+Lafayette M . Whitehead / Died 20th f March 1843 / A native of Laurens County / Georgia / aged 49 [?] years.
+
+Sacred / to the Memory of / Thomas Jones / who departed this life / on the _______ of Decr 1834 [?] / in the 49th [?] year of his age Also of / Catharine Jones / his Wife / who departed this life / the 1st of October 1835 / in the 45th year of her age.
 
 Sacred / to the memory of / Elizabeth / Wife of / Daughter of / / Born / Depart / [aged — years] / 10 months and 6 days Also / Benjamin W . Nicholson / Born February [obliterated]
-
 
 In memory of / Edward B . Young / who died February 7th 1861 / in the 40th year of his age. Also his wife / Mary H . Young / Died July 30th 1887 / aged 63 years
 
 In / Memory of / Anna Allen / Born November 16th 1810 / Died August 22nd 1850
 
-Nathaniel / son of / Alexander & Mary McOay / Born March 8, 1836 /
-Died Sept. 8, 1869 Nathaniel S. Richardson / Born Feb. 14, 1828 /
-Died Dec. 25, 1866 Kate / wife of / Nathaniel S. Richardson / and
-daughter of / Alexander & Mary M<Cay / Born Feb. 23, 1825 / Died
-Nov. 15, 1871
+Nathaniel / son of / Alexander & Mary McOay / Born March 8, 1836 / Died Sept. 8, 1869 Nathaniel S. Richardson / Born Feb. 14, 1828 / Died Dec. 25, 1866 Kate / wife of / Nathaniel S. Richardson / and daughter of / Alexander & Mary McCay / Born Feb. 23, 1825 / Died Nov. 15, 1871
 
-Martha wife of Isaac Black / Born February 12, 1796 / Died May
-24, 1846 Isaac Black / Born December 2, 1793 / Died February 11,
-1874 Samuel son of Isaac and Martha Black / Born November 12, 1816.
-Died February 15, 1833 Ellen B . wife of George Macky / daughter of
-Isaac and Martha Black / Born November 21, 1831. Died May 7, 1857.
+Martha wife of Isaac Black / Born February 12, 1796 / Died May 24, 1846 Isaac Black / Born December 2, 1793 / Died February 11, 1874 Samuel son of Isaac and Martha Black / Born November 12, 1816. Died February 15, 1833 Ellen B . wife of George Macky / daughter of Isaac and Martha Black / Born November 21, 1831. Died May 7, 1857.
+
 Ellen / wife of Samuel Black / Died December 20, 1828 / Aged 65 yearsSarah Jane Black / Born February 17th 1854. Died May 10th 1856.
 
-In / Memory of / Mrs Frances Scarfe / who departed this life / on
-the 18th of December 1831 / in the 76th year of her age
+In / Memory of / Mrs Frances Scarfe / who departed this life / on the 18th of December 1831 / in the 76th year of her age
 
-In / Memory of / Emily Grace / daughter of / Charles W. and /
-Margaret Collins / who departed this life / July 17, 1834 / aged 1 year
-6 months / and 17 days
+In / Memory of / Emily Grace / daughter of / Charles W. and / Margaret Collins / who departed this life / July 17, 1834 / aged 1 year 6 months / and 17 days
 
 Sacred / to the memory of / Robert Rice / who departed this life / December 1838 [ ?] / Aged years Also / Catharine, his wife / who died May 26th 1864 / in the 73rd year of her age. 
 
-James K . Rogers / Fannie M . Rogers / Frank M . Rogers / Fannie A .
-Rogers
+James K . Rogers / Fannie M . Rogers / Frank M . Rogers / Fannie A . Rogers
 
-Sacred / to the Memory of / Sarah Marsh / born April 7th 1776 / departed this life / August 10th 1844 Matthew C. Jenkins / died May 12 1855 / in the 64th year of his age
+Sacred / to the Memory of / Sarah Marsh / born April 7th 1776 / departed this life / August 10th 1844 
 
-Sacred / to the memory of / Cornelius Trimnel / who departed this
-life / August 3rd 1851 / in the 65th year of his age Also / Sarah / wife
-of / Cornelius Trimnel / who departed this life / September 6th 1862 / aged 61 years
+Matthew C. Jenkins / died May 12 1855 / in the 64th year of his age
 
+Sacred / to the memory of / Cornelius Trimnel / who departed this life / August 3rd 1851 / in the 65th year of his age Also / Sarah / wife of / Cornelius Trimnel / who departed this life / September 6th 1862 / aged 61 years
 
+In / Memory of / David S. Trimnel / who departed this life / November 16th 1850 / in the 21st year of his age Also / Samuel S. Trimnel / who departed this life / January 1853 Also / Rachel S. Trimnel / who departed this life / February 25th 18— / in the — year of her age
 
-In / Memory of / David S. Trimnel / who departed this life /
-November 16th 1850 / in the 21st year of his age Also / Samuel S.
-Trimnel / who departed this life / January
-1853 Also / Rachel S.
-Trimnel / who departed this life / February 25th 18— / in the
-—
-year of her age
-
-Sacred / to / the Memory of / Anna Spangler / wife of George
-Spangler / who departed this life / October 9th 1828 / Aged 68 years Also / George Spangler / who departed this life / January 18th 1855 /
-Aged 92 years 1 month & 22 days Also / George M . Spangler / Son of /
-George & Catherine Spangler / who departed this life / July 17th 1843 /
-Aged 7 years 3 months & 27 days
+Sacred / to / the Memory of / Anna Spangler / wife of George Spangler / who departed this life / October 9th 1828 / Aged 68 years Also / George Spangler / who departed this life / January 18th 1855 / Aged 92 years 1 month & 22 days Also / George M . Spangler / Son of / George & Catherine Spangler / who departed this life / July 17th 1843 / Aged 7 years 3 months & 27 days
 
 Sacred / [to the memory of] / Emily ______ Moore / ______ / _____ this life / 1815 / _______ / _________
 
-Sacred / to the memory of / William Moody / who died October 11th
-1816 / aged 69 years / ____________ / ____________
+Sacred / to the memory of / William Moody / who died October 11th 1816 / aged 69 years / ____________ / ____________
 
-Sacred / to the memory of / John Crawford / a native of the County
-Tyrone / Ireland / died November 18, 1859 / aged 76 years [verse]
-M y Husband / Henry E . Smith / died March 27th 1889 / in the 72nd
-year of his age / no more. Sarah M . / wife of / Henry E . Smith / died Sept. 27th 1895
+Sacred / to the memory of / John Crawford / a native of the County Tyrone / Ireland / died November 18, 1859 / aged 76 years [verse]
 
-John W . Son of / John & Esther Hayward / Died Aug. 1, 1830. /
-Aged 27 years 8 Mo. & 23 days. / May he rest in peace Elizabeth, Wife
-of / John Hale / Died May 21, 1812 / In the 86'th year of her age
-[verse]
+My Husband / Henry E . Smith / died March 27th 1889 / in the 72nd year of his age / no more. Sarah M . / wife of / Henry E . Smith / died Sept. 27th 1895
+
+John W . Son of / John & Esther Hayward / Died Aug. 1, 1830. / Aged 27 years 8 Mo. & 23 days. / May he rest in peace Elizabeth, Wife of / John Hale / Died May 21, 1812 / In the 86'th year of her age [verse]
 
 Eliza / Joel _______ Hayward [obliterated]
 
 Father / Conrad Bard / Born Oetr 13 1800 / Died May 12 1854
+
 In memory / of / Darius Henry Bard / Died Feb. 9th 1838 / Aged
 16 months & 6 days [verse]
 
-In / Memory of / Capt. William Moore / of the Revolutionary army / aged 86 years Also of his wife / Rebecca / aged 63 years Also /
-Anna Moore / wife of / Robinson R. Moore / who departed this life /
-April 26th 1845 / aged 56 years 4 months / and 16 days Also / William
-Alexander Moore / son of / Robinson R. and Anna Moore / who departed
-this life / November 13th 1845 / aged 24 years 2 months / and 9 days
+In / Memory of / Capt. William Moore / of the Revolutionary army / aged 86 years Also of his wife / Rebecca / aged 63 years Also / Anna Moore / wife of / Robinson R. Moore / who departed this life / April 26th 1845 / aged 56 years 4 months / and 16 days Also / William Alexander Moore / son of / Robinson R. and Anna Moore / who departed this life / November 13th 1845 / aged 24 years 2 months / and 9 days
 
-In / Memory of / Robinson Rochambeau / son of / [Callender Irvine]
-and Emily [Moore] / who departed this life / March 18th 1810 / aged
-11 months and 8 days Also / Emily Carter / wife of / Callender Irvine
-Moore / who departed this life / April 11th 1810 / Aged 29 years 1
-month / and 17 days Also / Callender Irvine Moore / son of / Robinson
-and Anna Moore / who departed this life / May 11th 1816 / Aged 28 yearsand 23 days Also / Evans B . / Son of C. Irvine and / Emily C.
-Moore / Born April 22, 1841 / Died Sep. 23, 1851
+In / Memory of / Robinson Rochambeau / son of / [Callender Irvine] and Emily [Moore] / who departed this life / March 18th 1810 / aged 11 months and 8 days Also / Emily Carter / wife of / Callender Irvine Moore / who departed this life / April 11th 1810 / Aged 29 years 1 month / and 17 days Also / Callender Irvine Moore / son of / Robinson and Anna Moore / who departed this life / May 11th 1816 / Aged 28 yearsand 23 days Also / Evans B . / Son of C. Irvine and / Emily C. Moore / Born April 22, 1841 / Died Sep. 23, 1851
 
-Sacred / to the / memory of / James Stuart Moore / who died
-December 22nd 1833 / aged 21 years Also of / Evans Burch Moore / who died February 28th 1844 / aged 25 years Also of / Anna Marion
-Moore / who died November 20th 1843 / aged 16 years 7 months / and
-14 days Also / of / Mary Douglass Moore / who died March 18th 1844 / aged 10 years and 4 days A n d / Robinson R. Moore / died January 5th
-1847 / aged 63 years [verse]
+Sacred / to the / memory of / James Stuart Moore / who died December 22nd 1833 / aged 21 years Also of / Evans Burch Moore / who died February 28th 1844 / aged 25 years Also of / Anna Marion Moore / who died November 20th 1843 / aged 16 years 7 months / and 14 days Also / of / Mary Douglass Moore / who died March 18th 1844 / aged 10 years and 4 days A n d / Robinson R. Moore / died January 5th 1847 / aged 63 years [verse]
 
-Sacred / to the memory of /
-Moore / Died
+Sacred / to the memory of / _____ _____ Moore / Died _____ / December _____ 1834 / Aged 28 years Also / ____ _____ Moore / son of / _____ _____ Moore / who departed this life / July 26th 1837 / aged 1 month Martha B . Moore / Died April 2nd 1847 / aged 3 years /
 
+Sacred / to / the memory of / Robert Miller / who departed this life / December 5th 1834 / aged 31 years & 7 months
 
+Sacred / to the memory of / George Miley / who departed this life ,/ March 6th 1846 / Aged 56 Years Also / Hannah / wife of / George Miley / who departed this life / June 13th 1871 / Aged 73 Years
 
-/ December . . 1834 / Aged 28 years Also / . .i.
-i..
-Moore / son of /
-Moore / who departed this life / July
-26th 1837 / aged 1 month Martha B . Moore / Died April 2nd 1847 / aged 3 years /
+John M . Hamilton / son of the late / David Hamilton / Architect, Glasgow, Scotland / born July 8, 1804 / died January 24, 1853 Erected as a tribute to / his talents and worth by the / employees in the establishment of / J . Struthers & Son Marble Masons / where he was engaged as artist / for many years
 
-Sacred / to / the memory of / Robert Miller / who departed this life /
-December 5th 1834 / aged 31 years & 7 months
+John Jeffrey / son of / John & Jennie Allen / died Aug. 29th 1845 / Aged 5 years / and 5 months
 
-Sacred / to the memory of / George Miley / who departed this life ,/
-March 6th 1846 / Aged 56 Years Also / Hannah / wife of / George
-Miley / who departed this life / June 13th 1871 / Aged 73 Years
-John M . Hamilton / son of the late / David Hamilton / Architect,
-Glasgow, Scotland / born July 8, 1804 / died January 24, 1853 Erected
-as a tribute to / his talents and worth by the / employees in the establish-
-ment of / J . Struthers & Son Marble Masons / where he was engaged as
-artist / for many years
-
-John Jeffrey / son of / John & Jennie Allen / died Aug. 29th 1845 /
-Aged 5 years / and 5 months
-
-In / memory of / Christiana / wife of Anthony George Sr. / who
-died Sept. 3rd 1814 / aged 61 years Also of Alexander / son of /
-Anthony & Christiana George / aged 5 years Also / Anthony George
-Sr / who died Aug. 13th 1845 / aged 58 years / May they rest in peace
-
+In / memory of / Christiana / wife of Anthony George Sr. / who died Sept. 3rd 1814 / aged 61 years Also of Alexander / son of / Anthony & Christiana George / aged 5 years Also / Anthony George Sr / who died Aug. 13th 1845 / aged 58 years / May they rest in peace
 
 * An excellent portrait and comprehensive sketch of James Bonaldson,
-1795-1841, will be found in A n Historical Catalogue of The St. Andrew's
+1795-1841, will be found in An Historical Catalogue of The St. Andrew's
 Society of Philadelphia. He having been a member of that organization
 from 1795 and vice-president 1829-30.
 
 Below is handwritten - need to transcribe
+
+Richard Benson's Family Vault
+Elizabeth Earp (Shallcross Benson) wife of Gustavus S.[?] Benson / Mary Shallcross - their daughter /Mary Ann Benson,daughter of Richard & Catherine Benson / died March 9, 1835 aged 26 years / Catherine Smith neice of Catherine Benson / Richard H. Benson died July 6 1842 aged 51 years. 1 mo. 4 days / Gustavus E. son of G.S. and M.D. Benson / Richard Benson
