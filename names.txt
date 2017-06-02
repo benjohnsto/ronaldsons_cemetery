@@ -328,11 +328,11 @@ Cameron McGregor / Co. 1 / 202na Pa. Inf.
 <!------>
 William McGuigan / Died November 27th 1853 / in the 39th year of his age
 <!------>
-Alliee Adelia Steiner / infant daughter of / Dr. Henry H . and / Susannah W. Steiner / U. S. Army / who died / January 1, 1839 / aged 7 weeks and 1 day
+Alliee Adelia Steiner /died January 1, 1839 / aged 7 weeks and 1 day
 <!------>
 Strickland, / John./ Died Feb. 20, 1827 Aged 16 Yrs
 <!------>
-William Henry Kochersperger / 1st. Lieut. Co. I. 110th Begt. P. V. / Wounded at Winchester Va . / March 23, 1862 / Died April 10, 1862 / Aged 33 years
+William Henry Kochersperger / Died April 10, 1862 / Aged 33 years
 <!------>
 Margaret / wife of / Daniel Kochersperger / died April 18, 1847 / aged 56 years
 <!------>
@@ -361,7 +361,7 @@ Sarah Garvin / died Feb. 19th 1875 / aged 88 years.
 Sarah Garvin / died Nov. 29th 1892 / aged 64 years 
 <!------>
 Isaac P . Kester / born Dee. 30th 1814 / died July 2nd 1875. 
-Mary J. [Kester] / born Nov. 2nd 1815 '/ died March 1st 1883
+Mary J. [Kester] / born Nov. 2nd 1815 / died March 1st 1883
 Garvin Kester / born Feb. 20th 1848 / died July 24th 1849.
 Paul Garvin Kester / born July 26th 1858 / died Jan. 11th 1862 
 <!------>
@@ -375,7 +375,7 @@ Mary P. [Bushton] / Died Jan. 21, 1867.
 Randolph Eyre / Died January 17, 1886
 <!------>
 Mrs. Hannah S. [Hobbs] / died April 17th 1877 / aged 64 years.
-Joshua Scattergood / born Oet. 28th 1807 / died May 11th 1887
+Joshua Scattergood / born Oct. 28th 1807 / died May 11th 1887
 <!------>
 John Y . Bushton / Born Oct. 12 1808 / Died Sept. 28 1859
 Ellen H . Bushton /  Born June 8, 1811 / Died December 1, 1886
@@ -505,7 +505,7 @@ John Jacob Lane / born ... / died ... 1841
 <!------>
 George Hollson / born ... / died ...
 <!------>
-Robert Campbell / Formerly of the County of / Tyrone, Ireland / July 24th 1846 / in the ... year of his age.
+Robert Campbell / July 24th 1846 / in the ... year of his age.
 <!------>
 Francis Clime / born June 18th 1814 / died March 14, 1845 / aged 31 years
 <!------>
@@ -550,19 +550,19 @@ Margaret Cunningham /October 26, 1855. / aged 20 years and 9 Months.
 Eliza [Cunningham]. Aged 8 months .... Hollson / Born ... / Died ...
 <!------>
 William Penn Finney. / died June 7th 1882 / aged 75 years
-Mary. J . Finney. / died Oet. 3rd 1888 / aged 74 years.
+Mary. J . Finney. / died Oct. 3rd 1888 / aged 74 years.
 <!------>
-Joseph. Baylis / Son of John and Matilda Baylis / Born December 20, 1837 / Died July 21, 1838.
-Joseph Baylis / Son of John and Matilda Baylis / Born November. 10, 1816 / Died August. 19, 1817.
+Joseph Baylis /  Born December 20, 1837 / Died July 21, 1838.
+Joseph Baylis / Born November. 10, 1816 / Died August. 19, 1817.
 <!------>
 ... Dnnnell. / Died ... 1854. H. E. S. / Died 14th Novem. 1854 / 
 W. S. / Died October. 31st, 1869 / Aged 71 years.
 <!------>
 Samuel Hankinson / Died March 5, 1854. / Age ... year. 1 month and 3 days.
 <!------>
-William Weaver / / May 20, 1868 / in the 75 year of His Age.
+William Weaver / May 20, 1868 / in the 75 year of His Age.
 Catharine / Wife of William Weaver / Aged 76 years. 
-Mrs Dorathea Dryner / who died Sept 13th 1844 / in the 62nd. year of Her Age
+Mrs Dorathea Dryner / died Sept 13th 1844 / in the 62nd. year of Her Age
 <!------>
 My Husband. / George Poppal. / Died August 26, 1851 / In the 80th year of his age
 His Wife / Catharine Aged 84 years.
@@ -617,7 +617,8 @@ Arthur Pigolet d'Hermillon / January 1st. 1828 / Died July. 28, 1911.
 Clara Josephene Pigolet. nee Fiot. /  Born Decern. 16, 1848 / Died March 21, 1913.
 Jules. W. A . Pigolet d'Hermillion / Born Novem 15, 1867. Died Feb 10, 1883.
 <!------>
-Mary. A . Chown / Died Oet. 2, 1850. William Chown / Sept. 28, 1853 / Aged 33. years.
+Mary. A . Chown / Died Oct. 2, 1850.
+William Chown / Sept. 28, 1853 / Aged 33. years.
 <!------>
 In Memory of. / William Henry Brown. / died Feb. 11, 1855. Aged 66 years /
 His Wife Elizabeth Aged 46 years. / and their Children
@@ -677,7 +678,7 @@ James Barker / died July 28, 1853, age 70 yrs.
 Hannah, his wife / died May 12, 1856' age 75 yrs.
 Isabella [Worthington] / died April 29, 1889 / aged 72 years
 <!------>
-Capt. Henry C. Henry / Born in Berlin, Prussia, Feb. 15th, 1787 /Died March 8th, 1850, aged 63 years & 21 days
+Capt. Henry C. Henry / Born Feb. 15th, 1787 /Died March 8th, 1850, aged 63 years & 21 days
 Harriet H . Henry / Born April 1st, 1800. Died June 4th, 1874
 <!------>
  Jacob Bretz / Jany. 5, 1842 / aged 71 years 
@@ -697,50 +698,76 @@ James H . Day / Born March 3, 1831 / Died March 10, 1831
 <!------>
 Isaac Addis / February 25th A . D. 1832 / aged 23 years 4 months / and 7 days
 <!------>
-Father and Mother / Sacred / to / the memory of / Catharine / wife of / Charles Addis / February 8th 1872 / aged 56 years 5 months / and one day. Charles Addis / Born October 18th 1808 / Died January 18th 1875
+Catharine [Addis] / February 8th 1872 / aged 56 years 5 months / and one day.
+Charles Addis / Born October 18th 1808 / Died January 18th 1875
 <!------>
-John / Murgitroyde / Born in Yorkshire, Eng. / Jan. 29, 1820 / Died Sep. 19, 1884 / Ann / Wife of / Bichard Murgitroyde / A native of Saddle worth / In Yorkshire, England / Died Feb. 19, 1832 / In the 43. Year / of her age. Wm. T. Murgitroyde / Died Sep. 21, 1832 / In the 2. Year of his age. Bichard Murgitroyde / Born at Paddock, / Yorkshire, England. / Died Mar. 28, 1865 / Aged 67 Years.
+John Murgitroyde / Born Jan. 29, 1820 / Died Sep. 19, 1884 / 
+Ann [Murgitroyde] / Died Feb. 19, 1832 / In the 43. Year / of her age.
+Wm. T. Murgitroyde / Died Sep. 21, 1832 / In the 2. Year of his age.
+Bichard Murgitroyde / Died Mar. 28, 1865 / Aged 67 Years.
 <!------>
-Also of / Martha Ann Matthews / wife of / William Sterne [?] / May 7th, 1843 [ ?] / aged 34 years Mary A . Garachon / wife of / Francis Garachon / died / May 10th 1886
+Martha Ann [Sterne] [nee Matthews] / May 7th, 1843 [ ?] / aged 34 years
+Mary A . Garachon /died / May 10th 1886
 <!------>
-Christiana Garachon / a native of Manor Hamilton / Ireland / and wife of Francis Garachon / in 25th [?] year of her age / at Philadelphia / on the ... day of November in the year of our / Lord 1827 [sentiment]
+Christiana Garachon /  in 25th [?] year of her age / on the ... day of November 1827
 <!------>
-William Son of James & Sarah Wilson / Died January 7th 1828 aged 3 years Sarah Wilson / died August 20th 1857 / aged 8 years & 5 months Margaret Wilson / died February 11th 1859 / aged 70 years James Wilson / died February 17th 1859 / aged 10 years & 10 months B . Stirling Wilson / died March 1st 1859 / aged 37 years Charles Bea Wilson / Born March 25th 1827 / Died April 28th 1869 Robert Wilson, Sr. / Died December 10th 1871. Aged 88 years James George Wilson / Died February 13th 1875. Aged 52 years. Sarah, Relict of James Wilson / Born April 3rd 1800. Died February 24th 1876
+William [Wilson] / Died January 7th 1828 aged 3 years
+Sarah Wilson / died August 20th 1857 / aged 8 years & 5 months
+Margaret Wilson / died February 11th 1859 / aged 70 years
+James Wilson / died February 17th 1859 / aged 10 years & 10 months 
+B. Stirling Wilson / died March 1st 1859 / aged 37 years
+Charles Bea Wilson / Born March 25th 1827 / Died April 28th 1869
+Robert Wilson, Sr. / Died December 10th 1871. Aged 88 years
+James George Wilson / Died February 13th 1875. Aged 52 years.
+Sarah [Wilson] / Born April 3rd 1800. Died February 24th 1876
 <!------>
-In memory of the/ Children of / Hugh & Agnes Kinley / William Kinley / Died July 9, 1849 / Aged 7 Months Hugh Washington Kinley / Died Dec. 5, 1853 / In the 4th year of his age Agnes B . Kinley / Died May 24, 1854 / Aged 10 Months.
+William Kinley / Died July 9, 1849 / Aged 7 Months
+Hugh Washington Kinley / Died Dec. 5, 1853 / In the 4th year of his age
+Agnes B . Kinley / Died May 24, 1854 / Aged 10 Months.
 <!------>
 Jacob Keyser / November 27th 1836 / in the 56th year / of his age
-Ann / Belict of Jacob Keyser / Died Dec. 10th 1859 / in the 73rd year of / her age.
+Ann / Belict of Jacob Keyser / Died Dec. 10th 1859 / in the 73rd year of  her age.
 <!------>
-Sacred / to the memory o f / Elizabeth Henby / daughter of / Thomas and Jane Henby / March 22nd 1831 / aged 44 yearsAlso of / Thomas Henby / October 8th 1855 [?] / aged 63 years Lucy Henby / Died June 22nd 1839 / aged 26 years
+Elizabeth Henby /March 22nd 1831 / aged 44 years
+Thomas Henby / October 8th 1855 [?] / aged 63 years
+Lucy Henby / Died June 22nd 1839 / aged 26 years
 <!------>
-Eliza Buck / Wife of Hugh Buck / August 8th 1851 [ ?] / in the 65th year of her age / She was a native of / Mount Ephraim, New Jersey
-of / Hugh Buck / who was born in the County of /Antrim, Ireland, 1776 / Died at Philadelphia, / June 17th 1866 / aged 90 years
-of / Mrs. Mary Alburtson / Late Mrs. Mary Buck / Died Sept. 10th 1867 / aged 76 years.
+Eliza Buck / August 8th 1851 [ ?] / in the 65th year of her age
+Hugh Buck / born 1776 / Died June 17th 1866 / aged 90 years
+Mrs. Mary Alburtson [nee Mrs. Mary Buck] / Died Sept. 10th 1867 / aged 76 years.
 <!------>
-James Buck / Born March 1798 / in the Parrish of Brashane / County Antrim, Ireland / Died Novr 5th 1859 Ann Buck / Eelict of James Buck / Died October 19th 1862 / in her 60th year Annie / Wife of / Dr Frederick J . Buck / Died March 22nd 1868 / Aged 31 years
+James Buck / Born March 1798 /  Died Novr 5th 1859
+Ann Buck / Died October 19th 1862 / in her 60th year
+Annie [Buck] / Died March 22nd 1868 / Aged 31 years
 <!------>
 Elizabeth Hunter / Oct. 3rd [ ?] 1830 / Aged 63 years 
 <!------>
-James Howard / Son of / F . J . & A ? E . Buck / Born / April 3rd 1862 / Died / July 22nd 1862
+James Howard [Buck] / Born April 3rd 1862 / Died July 22nd 1862
 <!------>
-This Tablet / Is erected by her children / In / memory of / Mrs. Anna Haig / relict of / M r . Thomas Haig / She deceased June 11th 1840 [?] / aged 79 years & 30 days
+Mrs. Anna Haig / died June 11th 1840 [?] / aged 79 years & 30 days
 <!------>
-Thomas Haig Potter / A Native of / Prestopans, Scotland / Dec. 13th 1831 / In the 59th. year / of his age.
+Thomas Haig Potter / Dec. 13th 1831 / In the 59th. year / of his age.
 <!------>
-To our Sister / In / memory of / Ann Haig / who departed this life Feb. 3rd. 1858 / aged 54 years 2 months / and 4 days.
+Ann Haig / died Feb. 3rd. 1858 / aged 54 years 2 months / and 4 days.
 <!------>
-Josephine / daughter o f / John and Sarah Smith /June 29th 1842 / aged 19 years' 9 months / and 16 days
-of her sister / Ann W . / wife of / Benjamin F ... / August 30th 1842 / aged 28 years 6 months / and 20 days.
+Josephine [Smith] /June 29th 1842 / aged 19 years' 9 months / and 16 days
+Ann W. [...] / August 30th 1842 / aged 28 years 6 months / and 20 days.
 <!------>
-Thomas Smith, 68 years; Ann Smith, 76 years; John Smith, 37 [?] years; Emma [!] M . Smith, 22 years; Sarah Smith, 69 years; Marry [?] G. Smith, 30 [?] years, died May 22, 1861 
+Thomas Smith, 68 years;
+Ann Smith, 76 years;
+John Smith, 37 [?] years;
+Emma [!] M . Smith, 22 years;
+Sarah Smith, 69 years;
+Marry [?] G. Smith, 30 [?] years, died May 22, 1861 
 <!------>
-Charles A . Smith / aged 21 years / Who fell at the Battle of / Williamsburg, Va.
+Charles A . Smith / aged 21 years
 <!------>
-John Heazlitt / who departed this life April 6th / A . D. 1836 Aged 57 years
-Hannah D . Heazlitt / Relict of John Heazlitt / who departed this life November 10th. / A . D . 1840 Aged 44 years.
+John Heazlitt / died April 6th / A.D. 1836 Aged 57 years
+Hannah D . Heazlitt /died November 10th. / A.D. 1840 Aged 44 years.
 <!------>
-Bebecca Hewston / January 4th. 1831 [?] / aged 91 years Mary Hewston / Died Oet. 27th. 1867 / aged 73 years Catharine Hewston / Died April 13th 1875 / aged 78 years
+Bebecca Hewston / January 4th. 1831 [?] / aged 91 years
+Mary Hewston / Died Oct. 27th. 1867 / aged 73 years
+Catharine Hewston / Died April 13th 1875 / aged 78 years
 <!------>
 Bebecca Hewston / November 20th 1838 / Aged 68 years
 <!------>
@@ -748,147 +775,201 @@ John Hewston / Feb. 1st. 1871, Aged 76 years
 <!------>
 Peter Hinkel / was born Jany. 15, 1780 / died Sept. 6th, 1835 / aged 55 years 6 months / & 22 days
 <!------>
-Margaret / wife of Charles Coulter / died Nov. 3, 1870 / in the 72nd year of her age
-Samuel / son of Charles and / Margaret Coulter / died Jan. 31, 1830 / aged 5 yrs. 2 mos. & 10 dys.
+Margaret [Coulter] / died Nov. 3, 1870 / in the 72nd year of her age
+Samuel [Coulter] / died Jan. 31, 1830 / aged 5 yrs. 2 mos. & 10 dys.
 <!------>
 Robert Black / Died Dec. 9, 1873 / Aged 70 years.
 <!------>
 [Bernard?] Richard Hoopes / Died Dec'r 7th. 1850 / Aged 31 [?] years
 <!------>
-Robert Brown / Native of Perthshire, Scotland / September 21st [?] 1845 [?] / i n the 78th year of his age.*
+Robert Brown / September 21st [?] 1845 [?] / in the 78th year of his age.*
 <!------>
-Evan Jones / died Mar. 18, 1846 Hannah Jones / died Sept. 8, 1858 Anna E . Jones / died Mar. 22, 1865 Deborah Jones / died June 26, 1886
+Evan Jones / died Mar. 18, 1846
+Hannah Jones / died Sept. 8, 1858
+Anna E . Jones / died Mar. 22, 1865
+Deborah Jones / died June 26, 1886
 <!------>
-John Houser / March 5th 1808 / in the 61st. a r of his age
-to the memory of / Margaretta Houser / December the 11th 1840 / in the 87th. year of her age M y sister / Catharine Houser
-of / Anna Mary Houser
+John Houser / March 5th 1808 / in the 61st. year of his age
+Margaretta Houser / December the 11th 1840 / in the 87th. year of her age 
+Catharine Houser
+Anna Mary Houser
 <!------>
-In Memory / of / Daniel Nichol / died Dec. 30, 1891 / Aged 92 years Isabella / wife of Daniel Nichol / died October 19, 1876 / aged 75 years Samuel / born August 27, 1843 / died July 17, 1844 Daniel / born May 18, 1837 / died January 25, 1849 Isabella / born September 30, 1844 / died April 13, 1852 Sarah Jane / born January 25, 1847 / died May 1, 1852 Children of Daniel / and Isabella / Nichol
+Daniel Nichol / died Dec. 30, 1891 / Aged 92 years
+Isabella [Nichol] / died October 19, 1876 / aged 75 years
+Samuel [Nichol] / born August 27, 1843 / died July 17, 1844
+Daniel [Nichol] / born May 18, 1837 / died January 25, 1849
+Isabella [Nichol] / born September 30, 1844 / died April 13, 1852
+Sarah Jane [Nichol] / born January 25, 1847 / died May 1, 1852
 <!------>
-Robert H . Latimer / died March 7th 1874 / in the 32nd year of his age Arthur / died Jan. 10, 1849 / in the 3rd year of his age Andrew John / died Jan. 12, 1849 / in the 9th year of his age William / died April 1, 1850 / in the 6th year / of his age Eliza Latimer / died Jan. 16, 1902
+Robert H . Latimer / died March 7th 1874 / in the 32nd year of his age
+Arthur [Latimer] / died Jan. 10, 1849 / in the 3rd year of his age
+Andrew John [Latimer] / died Jan. 12, 1849 / in the 9th year of his age
+William [Latimer] / died April 1, 1850 / in the 6th year / of his age
+Eliza Latimer / died Jan. 16, 1902
 <!------>
-The Family Vault / of / William E . Rogers / Frederic William Rogers / Died September 15, 1832 / aged 10 months William Frederick Rogers / Died in Paris December 9, 1857 / aged 22 years & 7 months Alfred William Rogers / Died April 2nd 1864 / aged 31 years 3 months 19 days. Samuel B . Slocomb / Died September 2, 1834 / aged 33 years Oliver Ruggles / Died April 3rd 1850 / Aged 82 years 10 months Phebe Ruggles / Died March 10th i860 / Aged 84 years 9 months Wm E . Rogers / died Dec. 11th, 1845 / aged 45 years & 6 months M . Edward Rogers / Born Jan. 29, 1839 / Died May 24, 1884 George N . Bogers / Died May 4, 1833 / aged 35 years. The Remains of / William Evans Rogers / Harriette Phebe Rogers / Alfre d William Rogers / William Frederick Rogers / Oliver Rogers / Phebe Rogers / were removed from this vault / to South Laurel HillCemetery / April 22nd 1890.
+Frederic William Rogers / Died September 15, 1832 / aged 10 months
+William Frederick Rogers / Died in Paris December 9, 1857 / aged 22 years & 7 months
+Alfred William Rogers / Died April 2nd 1864 / aged 31 years 3 months 19 days
+Samuel B . Slocomb / Died September 2, 1834 / aged 33 years
+Oliver Ruggles / Died April 3rd 1850 / Aged 82 years 10 months
+Phebe Ruggles / Died March 10th i860 / Aged 84 years 9 months
+Wm E . Rogers / died Dec. 11th, 1845 / aged 45 years & 6 months
+M . Edward Rogers / Born Jan. 29, 1839 / Died May 24, 1884
+George N . Bogers / Died May 4, 1833 / aged 35 years. 
 <!------>
-Family Vault / of / William Fryer / William Fryer Sen-r, / Nov. 15th. 1849 / aged 65 years Catharine Fryer / Wife of the above who died / August 4th. I860, Aged / 86 years Armer Patten Fryer / son of / George and Jennie Fryer / Died April 19th. 1866 / aged 10 years William Fryer / son of William & Catharine Fryer / Born Feb. 27th. 1822 / Died June 12th. 1885 Matilda Oakford Fryer / daughter of / J . C. and A . M . Fryer / July 8th 1849 / aged 2 years 1 month and 9 days.
+William Fryer Sen-r, / Nov. 15th. 1849 / aged 65 years
+Catharine Fryer / died August 4th. I860, Aged 86 years
+Armer Patten Fryer / Died April 19th. 1866 / aged 10 years
+William Fryer / Born Feb. 27th. 1822 / Died June 12th. 1885
+Matilda Oakford Fryer / died July 8th 1849 / aged 2 years 1 month and 9 days.
 <!------>
-George Fryer / son of / William & Catherine Fryer / Died Dec. 20, 1880 / Born Sept. 11, 1824 Mary Jane Fryer / wife of / George Fryer / Died June 28, 1896 / Born Oct. 20, 1832 Armer Patten Fryer / son of / George & Mary Jane Fryer / Died April 18, 1866 / Born June 25, 1858 Roberta Maud Fryer / daughter of / George & Mary Jane Fryer / Died April 11, 1875 / Born Oct. 5, 1857
+George Fryer  / Died Dec. 20, 1880 / Born Sept. 11, 1824
+Mary Jane Fryer / Died June 28, 1896 / Born Oct. 20, 1832
+Armer Patten Fryer / Died April 18, 1866 / Born June 25, 1858
+Roberta Maud Fryer / Died April 11, 1875 / Born Oct. 5, 1857
 <!------>
-* A lengthy but much obliterated epitaph follows to the effect that Robert Brown was an able contributor to the Horticultural and Agricultural world, introducing to the first, the Scarlet flowering Thorn amd other rare products of the Scottish Alps, and to the second, the Swedish Turnip.
-<!------>
-Mattie May / wife of / Charles Shillard Smith / and daughter of / George & Mary Jane Fryer / born August 7th 1865 / died August 31st 1888
+Mattie May [Smith] / born August 7th 1865 / died August 31st 1888
 <!------>
 James Murray / who died December 18th 1847 / in the 43d year of his age
-of his Wife / Jane D. Murray / who died May 12th 1840 / in the 65th year of her age
+Jane D. Murray / who died May 12th 1840 / in the 65th year of her age
 <!------>
-Edward Croft / who died May 30, 1825 / aged 59 yearsAlso / of his wife / Susan D . Croft / who died Oct. 13th 1825 / in the 25th year of her age.
+Edward Croft / who died May 30, 1825 / aged 59 years
+Susan D . Croft / who died Oct. 13th 1825 / in the 25th year of her age.
 <!------>
 Mrs. Ellen Lane
 <!------>
-Mrs. Mary Fagan / Born July 18th 1807 / Died February 14th 1836 Andof / Her Daughter Mary / Who died February 1st. 1836 / aged 3 days.
+Mrs. Mary Fagan / Born July 18th 1807 / Died February 14th 1836
+Mary [Fagan] / Who died February 1st. 1836 / aged 3 days.
 <!------>
-Robert Barr / a native of Ireland / Oct. 31, 1845 / aged 52 years
+Robert Barr / Oct. 31, 1845 / aged 52 years
 <!------>
-Robert Andrews / Died August 28th 1859 / aged 57 yearsAlso / Joseph Andrews / son of / Robert and Sarah Andrews / Died January 6th 1865 / aged 22 years, 3 months, 15 days / A member of Co. C. 8th p . Cavalry
+Robert Andrews / Died August 28th 1859 / aged 57 years
+Joseph Andrews /Died January 6th 1865 / aged 22 years, 3 months, 15 days
 <!------>
 Samuel Clendenin [ ?] / November [ ?] A. D. 1859 [?]
 <!------>
-Edward Freeman / Born May 25th 1836 / Died December 26th 1864 / Captain Co. 1. 95th. Beg. P . V . / 1st. Lieut. Co. C. 19th. Beg. Cavalry P. V . / West Point. V a . / Gaines M i l l / White Oak Swamp / Malvern Hill / 2ond Bull's Bun / Crampton's Pass / Antietam / Fredericksburg / Mary's Heights / Salem Church / Egypt / Guntown / Pilot Knob.
+Edward Freeman / Born May 25th 1836 / Died December 26th 1864
 <!------>
-J . Miller Freeman / Born March 12th 1823 / Died April 28th 1856 Elizabeth H . Freeman / Born April 3, 1821 / Died Dec. 27th 1879 J . M . Freeman / 1854-1896
+J. Miller Freeman / Born March 12th 1823 / Died April 28th 1856
+Elizabeth H . Freeman / Born April 3, 1821 / Died Dec. 27th 1879
+J.M. Freeman / 1854-1896
 <!------>
 Lucretia Maclællan / Died Decr. 1__ 18__ / aged 2 years 10 mo. & 10 days
 <!------>
-Our Mother / Bebecca Paysont / departed this life / Jan. 13, 1861. / aged 75 years
+Rebecca Paysont / died Jan. 13, 1861. / aged 75 years
 <!------>
-Born Septr. 1801 / [No name found on this stone] Died July 1849
+[No name found on this stone] /Born Septr. 1801 / Died July 1849
 <!------>
-The / Husband / and / Father / ever dear / to / Memory / In / Memory of / John M . Mcintosh / who died Septr. 2d. 1829 / in the 49th year of his age
-his son / Joseph Mcintosh / who died February 27th 1841 / in the 32d. year of his age
+John M . Mcintosh / who died Septr. 2d. 1829 / in the 49th year of his age
+Joseph Mcintosh / who died February 27th 1841 / in the 32d. year of his age
 <!------>
-This Memorial / erected by an affectionate / Sister / marks the last earthly / resting place of / Samuel Taylor / a native of Ballymoney, County / Antrim, Ireland, and for many / years a resident of Philadelphia / November 7th 1816 / in the 34tn year of his age
+Samuel Taylor / November 7th 1816 / in the 34tn year of his age
 <!------>
-Our / Mother / Elizabeth / Widow of the late John Porter / July 19th 1851 / aged 71 years 1 month & 17 days
+Elizabeth [Porter] / July 19th 1851 / aged 71 years 1 month & 17 days
 <!------>
-Sacred / to / ... / Elizabeth daughter of / (Indecipherable) 
+Elizabeth daughter of (Indecipherable) 
 <!------>
-Charles W . Stevens, Sr. / Born June 27th. 1810. / Died Nov. 27th. 1887. / Aged 77 years Anna E . Stevens / Born Nov. 1, 1832 / Died Jan. 28, 1900 / Aged 67 years
+Charles W . Stevens, Sr. / Born June 27th. 1810. / Died Nov. 27th. 1887. / Aged 77 years
+Anna E . Stevens / Born Nov. 1, 1832 / Died Jan. 28, 1900 / Aged 67 years
 <!------>
-Martha Melntire / died / Dee. 30th 1846 / our mother. Thomas Mclntire / died / May 3rd 1873 / aged 60 years
+Martha Melntire / died Dec. 30th 1846
+Thomas Mclntire / died May 3rd 1873 / aged 60 years
 <!------>
 [An indecipherable stone]
 <!------>
-To our Father and Mother / Captn Robert Bae / a native of Scotland / died April 2nd 1839 / aged 54 years [monument] A n d / Jane Inness / his wife / died Dec. 9th 1856 / aged 56 years Sallie Bae / wife of / Robert Bae / died March 29th 1853 / aged 20 years To our brothers and sisters / John S. Henry Bae / died Oct. 8th 1823 / aged 4 years and 7 months Emma M . Bae / died April 28th 1828 / aged 1 year and 2 months Mary Olivia Bae / died Aug. 6th 1836 / aged 6 years and 4 months Anna Jennette Bae / died Feb. 15th 1836 / aged 9 years and 4 months
+Captn Robert Bae / died April 2nd 1839 / aged 54 years [monument] 
+Jane Inness / died Dec. 9th 1856 / aged 56 years
+Sallie Bae / died March 29th 1853 / aged 20 years 
+John S. Henry Bae / died Oct. 8th 1823 / aged 4 years and 7 months
+Emma M . Bae / died April 28th 1828 / aged 1 year and 2 months
+Mary Olivia Bae / died Aug. 6th 1836 / aged 6 years and 4 months
+Anna Jennette Bae / died Feb. 15th 1836 / aged 9 years and 4 months
 <!------>
-John Henry Bae / Son of / Robert and Jane Bae / October 8th 1823 / aged 3 years & 7 months
+John Henry Bae /October 8th 1823 / aged 3 years & 7 months
 <!------>
 Harriet H . Hill / Dec 6th A . D. 1837 / aged 31 [?] years
 <!------>
-Archibald / son of / Charles W . and Sarah H . Coxe / died February 25th 1850 / aged 2 months and 9 days
+Archibald [Coxe] / died February 25th 1850 / aged 2 months and 9 days
 <!------>
 Henry B . Tiller / October 30, 1831 / in the 10th year of his age
-Henrietta B . Wife of / Thomas Stillman and daughter of / Samuel and Christiana Tiller / Died March 13th 1866 Aged 28 years Christiana / Wife of Samuel Tiller / Died May 15th 1875 / in the 77th year of her age Charlton Henry Stillman / Son of Thomas and Henrietta B . Stillman / Born May 28, 1863 / Died August 12, 1867 / in the 5th year of his age Samuel Tiller / Born January 8, 1798 / Died July 29, 1880 / in the 83rd year of his age. 
+Henrietta B. [Stillman] [nee Tiller] /Died March 13th 1866 Aged 28 years
+Christiana [Tiller] / Died May 15th 1875 / in the 77th year of her age
+Charlton Henry Stillman / Born May 28, 1863 / Died August 12, 1867 / in the 5th year of his age
+Samuel Tiller / Born January 8, 1798 / Died July 29, 1880 / in the 83rd year of his age. 
 <!------>
 Alexander Bobb / December 10th 1840 / aged 31 years 4 months / and 4 days
-of / Georgianna / daughter of / James and Penelope Bay / late of Wilmington, Del. / April 4th 1833 / in the 19th year / of her age
+Georgianna [Bay] /April 4th 1833 / in the 19th year / of her age
 <!------>
 Joseph Roberts / July 30th 1853 / in the 63rd year of his age
 <!------>
-A . C. H . McLanahan / July 22d 1847 / aged 33 years 9 months / and 15 [?] days
+A.C.H. McLanahan / July 22d 1847 / aged 33 years 9 months / and 15 [?] days
 <!------>
 William Caull / June 12th 1846 / aged 76 years
 <!------>
 Francis Ropes / October 13th [ ?] ... / in the 2 ...
 <!------>
-Julia A . / daughter of B . M . and A . E . Schofield / Died May 1, 1852 / in the 3d year of her age
+Julia A . [Schofield] / Died May 1, 1852 / in the 3d year of her age
 <!------>
-Lizzie L . wife of / Chas. F . Shaler [?] Daughter of / Lane and Mary Schofield / July 25th i860 / in the 29th year of her age
+Lizzie L . [Shaler [?]] [nee Schofield] / July 25th i860 / in the 29th year of her age
 <!------>
-Sacred to the memory of M y Husband / Lane Schofield / Oct. 10th 1866 / In the 78 year of his age
-his wife / Mary B . Schofield / Died March 2nd 1869 / Aged 66 years
+Lane Schofield / Oct. 10th 1866 / In the 78 year of his age
+Mary B . Schofield / Died March 2nd 1869 / Aged 66 years
 <!------>
-Capt. Robert P. Phillips / died March 5th 1839 / aged 38 years Ann L. / wife of / Robert P . Phillips / died September 28th 1889 / aged 84 years
+Capt. Robert P. Phillips / died March 5th 1839 / aged 38 years
+Ann L. [Phillips] / died September 28th 1889 / aged 84 years
 <!------>
 Joseph Thomson / May 30th 1815 aged 60 years
-William Henry / son of William & Margaret / Thomson, March 19th 1815 aged 3 [ ?] years / and 8 months
+William Henry [Thomson]/ March 19th 1815 aged 3 [ ?] years / and 8 months
 <!------>
-In memory of Robert L . Irvine / Died December 11th 1845 / aged 25 years / 2 mo & 2 days
+Robert L. Irvine / Died December 11th 1845 / aged 25 years / 2 mo & 2 days
 <!------>
-Kingston.
+Kingston
 <!------>
-Ch_______S N____son / [buried from here, and illegible]
+Ch_______S N____son
 <!------>
 Edward K . Prichett / September 15, 1839 / aged 33 years 11 months 22 days
 <!------>
-Margaret / wife of James Hinchman / who departed this life on / the 20. of the 10 month 1857 / in the 28 year of her age
+Margaret [Hinchman] / died Oct. 20 1857 / in the 28 year of her age
 <!------>
-Also / Emeline Hanes / wife of Henry L . Priedlein / May 24th 1879 / in the 52nd year of her age
-Catharine / wife of Seneca Yapp / died May 27th 1886 / in the 68th year of her age
+Emeline Hanes / May 24th 1879 / in the 52nd year of her age
+Catharine [Yapp] / died May 27th 1886 / in the 68th year of her age
 <!------>
 John Hanes / May 15th 1841 / in the 57th year of his age
-of / Ann Hanes / daughter of / John and Elizabeth Hanes / who died November 22nd 1835 / in the 13th year of her age
+Ann Hanes /  died November 22nd 1835 / in the 13th year of her age
 Elizabeth Hanes / wife of John Hanes / April 20th 1870 / in the 78th year of her age
 <!------>
-Mary Todd / died / Dec. 21, 1875 / Aged 70 years
+Mary Todd / died Dec. 21, 1875 / Aged 70 years
 <!------>
 Katie
 <!------>
-William Bowland Jr / Family Vault Mary A . / Wife of / William Bowland Jr / Died Jan. 31, 1866 / aged 53 years and 16 days William Bowland, Jr. / Born 22, 1810 / Died A ? 9, 1871 / aged 60 years 9 months and 18 days
+Mary A . [Bowland] / Died Jan. 31, 1866 / aged 53 years and 16 days
+William Bowland, Jr. / Born 22, 1810 / Died A ? 9, 1871 / aged 60 years 9 months and 18 days
 <!------>
-Elizabeth Spencer Bowland / Died Jan. 25th 1836 / Aged 2 years 2 months & 7 days Benjamin Bowland / Died Oct. 18th 1811 / Aged 2 years 2 months & 29 days James Asa Bowland / Died Jan. 12th 1851 / Aged 3 years & 25 days
+Elizabeth Spencer Bowland / Died Jan. 25th 1836 / Aged 2 years 2 months & 7 days
+Benjamin Bowland / Died Oct. 18th 1811 / Aged 2 years 2 months & 29 days
+James Asa Bowland / Died Jan. 12th 1851 / Aged 3 years & 25 days
 <!------>
-Sacred / Catharine Jane / [wife of?] / Charles S. / ... 1838 / Aged 28 years 2 months / and — days
+Catharine Jane [...] / 1838 / Aged 28 years 2 months / and — days
 <!------>
 Ebenezer Martin / April 9th 1833 [ ?] / Aged 81 years and 19 days.
 <!------>
-Father & Mother / James Martin / died June 3th 1844 / age 38 years/ A n honest man is the / noblest work of God. Eliza Wife of / James Martin / died June 12th 1882 / age 76 years / at rest Margaret Martin / died June 9th 1839 / age 7 years
+James Martin / died June 3th 1844 / age 38 years/ 
+Eliza [Martin] / died June 12th 1882 / age 76 years 
+Margaret Martin / died June 9th 1839 / age 7 years
 <!------>
 who departed this life [ ?] / August [ ?] — 1835 / ... years
 <!------>
-James Wheaton Smith / Born June 26, 1823 / Died May 5, 1900 Sarah Wilbur Smith / Born Nov. 14, 1831 / Died July 20, 1899 Henry W. Smith / Born Feb. 27, 1853 / Died June 1, 1863 Emma W. Smith / Born June 9, 1855 / Died July 16, 1870 MilaFrances Smith / Born Jan. 2, 1860 / Died March 25, 1908
+James Wheaton Smith / Born June 26, 1823 / Died May 5, 1900
+Sarah Wilbur Smith / Born Nov. 14, 1831 / Died July 20, 1899
+Henry W. Smith / Born Feb. 27, 1853 / Died June 1, 1863
+Emma W. Smith / Born June 9, 1855 / Died July 16, 1870
+MilaFrances Smith / Born Jan. 2, 1860 / Died March 25, 1908
 <!------>
-Margie Price / Called suddenly from / Earth on the 19th of July / 1853 in the 18th year of / her age: Kate Price / Born Feb. 22nd 1852 / Died April 19th 1860
+Margie Price / died 19th of July / 1853 in the 18th year of her age
+Kate Price / Born Feb. 22nd 1852 / Died April 19th 1860
 <!------>
-To our Parents / in / memory of / John Evil / who died / February 28th 1813 [?] / in the 56th [9] year of his age Mary Ann Evil / wife of / John E v i l / who died / August 28th 1819 / in the 56th [ ?] year of her age
+John Evil /died February 28th 1813 [?] / in the 56th [9] year of his age
+Mary Ann Evil / died August 28th 1819 / in the 56th [ ?] year of her age
 <!------>
 Eliza Lower / Died June 8th 1868 / aged 53 years
 <!------>
@@ -897,19 +978,23 @@ Charlotte Smith / Died Aug. 21st 1851 / in the 53d year of her age
 <!------>
 Joseph Ashton Dean / late [obliterated] / Born September 18 [?], 1797 / Died April 3 [?], 1817
 <!------>
-Lydia S. Moore / Died / August 2, 1857 / Aged 76 years / A Son's Tribute Charles G. Moore / Capt. of Co. A . 3rd. Maryland / Cav. Wounded in Bed Biver / Expedition May 17, 1864 / died Aug. 30, 1864 / aged 22 years / ouly child of Caroline E . & / C. G. Moore
+Lydia S. Moore / Died August 2, 1857 / Aged 76 years 
+Charles G. Moore / died Aug. 30, 1864 / aged 22 years
 <!------>
-Lieut. Marine C. Moore / 71st Regt. P. V . / Born July 24, 1837 / Killed June 8, 1862 / on the Battle Field of / Fair Oaks, V a . A . D. K . Moore / Died Jany. 8, 1866 / Aged 63
-his wife / Phebe C. Moore / Died March 4, 1871 / aged 70 years
+Lieut. Marine C. Moore / Born July 24, 1837 / Killed June 8, 1862 
+K. Moore / Died Jany. 8, 1866 / Aged 63
+Phebe C. Moore / Died March 4, 1871 / aged 70 years
 <!------>
-Caroline R. Estlaek / wife of Thomas Estlack / Born March 2, 1812 / Died July 25, 1881
+Caroline R. Estlaek / Born March 2, 1812 / Died July 25, 1881
 <!------>
-My Daughter / in memory of / Sarah E . / wife of / James E . Kelter / and daughter of / Peter D. & Anna L . Hewlings / Born March 17, 1846 / Died March 9, 1874 / Best in Peace
+Sarah E. [Kelter] [nee Hewlings] / Born March 17, 1846 / Died March 9, 1874
 <!------>
-Capt. William McFaden's Vault / Sacred to the Memory of / Sarah McFaden / beloved daughter of / Capt. Wm. McFaden / who died Sept. 15, 1836 / in the 18th year of her age Capt. William McFaden / Born in Dublin, Ireland / May 20th 1753 ( f) / Died in Philada. August 27th 1839 / in the 87th Year of his Age Sarah / wife of the late Captain / William McFaden / Died Nov. 21st 1857 / in the 70th year of her age
+Sarah McFaden / died Sept. 15, 1836 / in the 18th year of her age
+Capt. William McFaden / born May 20th 1753 (?) / Died August 27th 1839 / in the 87th Year of his Age
+Sarah [McFaden] / Died Nov. 21st 1857 / in the 70th year of her age
 <!------>
 Henry Tolbert / August 29th 1855 / aged 53 years
-Sarah / wife of / Henry Tolbert / Died June 10th 1874 / aged 86 years
+Sarah / wife of / Henry Tolbert / Died June 10th 1874 aged 86 years
 <!------>
 Jacob Tolbert / Died Deer 21, 1865 / in the 43rd year of his age
 Peter Tolbert / Died March 24, 1868 / in the 37th year of his age
@@ -928,7 +1013,7 @@ Robert Bates / Died July 16th 1871 / Aged 65 years
 Mary [Bates] / Died March 8th 1879 / Aged 34 year
 Mary [Bates] / in her 89th year
 <!------>
-Emma [Bates] / Born Oet. 9, 1839 / Died Sept. 28, 1870
+Emma [Bates] / Born Oct. 9, 1839 / Died Sept. 28, 1870
 <!------>
 Margaret [ Shaw] / Died 1863 
 John E. [ Shaw] 1840 / 
@@ -938,7 +1023,7 @@ Wm. H . Harrison / 1859
 Edgar Davlin  /1862
 <!------>
 William Graham / Died June 14th, 1842 (?) / Aged 51 years
-Mary / wife of William Graham / Died May 2nd 1847 (?) / in the 37th year of her age 
+Mary [Graham] / Died May 2nd 1847 (?) / in the 37th year of her age 
 <!------>
 Emma...
 <!------>
@@ -952,14 +1037,14 @@ Mrs. Jane Page / died / March 12, 1892
 Emma A . Snyder  / died Nov. 21st. 1874 / aged 23 years
 <!------>
 John Henry Ashton / November 2nd 1833 / Aged 2 years and 22 days
-of / William Ashton / November 1, 1833 (?) / Aged 3 ( ?) Months and 26 ( ?) days / Sons of / Jonathan & Mary Ashton
+of / William Ashton / November 1, 1833 (?) / Aged 3 ( ?) Months and 26 ( ?) days
 <!------>
-Erected / by the / Phoenix Hose Company / To the memory of / ... / who was killed while in / the discharge of his duties / As a Member / by the fallof a wall / at the fire / in Market St. above Sixth / June 21st (?) A . D. 1841 (?) / AET 21.
+... / died June 21st (?) A . D. 1841 (?) / AET 21.
 <!------>
 Judith / Beloved / Wife, Mother, Daughter, Sister / Tarswell [?]
 <!------>
-In Memory / of / Joseph Wiltberger / February 3rd 1836 / Aged 38 Years
-Bebecca / wife of Joseph Wiltberger / Jan. 20th 1840 / in the 38th year of her age
+Joseph Wiltberger / February 3rd 1836 / Aged 38 Years
+Bebecca [Wiltberger] / Jan. 20th 1840 / in the 38th year of her age
 Mary C. Wiltberger / their daughter / Dec. 26tn 1839 / in the 17th year of her age.
 <!------>
 Joseph E . Huekel / on the 10th day of October 1833 [ ?] / in the 18th year of his age
@@ -1078,7 +1163,7 @@ Robert Diamond / Born Jany. 1st 1792 / Died March 22d 1812 Eleanor Diamond / Bor
 <!------>
 Hugh Diamond Sr / a native of Ireland / Died October 17, 1837 / aged 81 years Alexander Diamond / Born Anno Domini 1797 / Died January 12, 1850 [?] Hugh son of Alexander & / Joanna Diamond / Born Oct. 31, 1841 [?]. Died March 19th 1845 [ i ] George Humes Diamond / Died August 26, 1836 [ t] / aged 29 years & 4 months Hugh Diamond J r / Died October 19, 1842 / aged 37 years 2 months & 19 days Rebecca daughter of Hugh Jr / & Lydia Diamond / Died September 8, 1844 [ f] / aged 2 years & 11 days
 <!------>
-Thomas M . / only child of / Benjamin F . and / Eliza L . Brown / Died Oet. 13, 1877 / age 26 George W . Brown / Died Oct. 21, 1880 / Aged 67 years Mary C. / Wife of / George W . Brown / Died Oct. 13, 1900 Thomas Brown sr / Died Nov. 5th 1836 / Aged 68 years
+Thomas M . / only child of / Benjamin F . and / Eliza L . Brown / Died Oct. 13, 1877 / age 26 George W . Brown / Died Oct. 21, 1880 / Aged 67 years Mary C. / Wife of / George W . Brown / Died Oct. 13, 1900 Thomas Brown sr / Died Nov. 5th 1836 / Aged 68 years
 <!------>
 Catharine / wife of / Thomas Brown sr / Died Nov. 27th 1856 / Aged 78 years Harriet / wife of / Thomas Brown Jr / Died April 17th 1853 / Aged 46 years
 <!------>
@@ -1161,7 +1246,7 @@ James F . Gallbreath / died / Oct. 26th 1874 / in his 85th year
 Thomas T. / Died Aug. 4th 1853 / in his 6th year
 Harry B . / Died Dec. 9th 1878 / in his 19th year Sons of / James F & Lucy W. / Gallbreath.
 <!------>
-David Thaeher / Oet. 17th 1830 / In the 64th year of his age
+David Thaeher / Oct. 17th 1830 / In the 64th year of his age
 Eunice Noble Thaeher / Dec. 1st., 1842 / Consort of David Thaeher / In the 68th year of her age [verses]
 <!------>
 Peter L . Combe / May 11th 183— / in the 7— year of his age Auguste DeSentuary / Died September 23rd 1858 / Aged 32.
@@ -1686,7 +1771,7 @@ Mary Ann Lawrence / who died September 10th / 1838 aged 31 years / & 6 months
 <!------>
 Samuel Cass / Died August 4 [?] 1840 [?] / aged 28 years & 6 months
 <!------>
-Mary Helwick / Died December 15th A . D. 1837 / aged 49 years Erected / to the memory of / Charles Mercier / Died April 27th A . D . 1852 / aged 75 years
+Mary Helwick / Died December 15th A . D. 1837 / aged 49 years Erected / to the memory of / Charles Mercier / Died April 27th A.D. 1852 / aged 75 years
 Jane / wife of Charles Mercier / Died December 31st A . D. 1848 / aged 81 years
 <!------>
 Augustine Carri [?] / May the 4th [ f] A.D. 1836 [ ?] / In the year of his age.
