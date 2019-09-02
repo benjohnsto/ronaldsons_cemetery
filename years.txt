@@ -1,1689 +1,1690 @@
 
-Sarah [Tallman] | 1795 | 1861
-Sarah Tallman Arrison | 1825 | 1901
-John Chalmers Arrison | 1825 | 1911
+Sarah [Tallman]|1795|1861
+Sarah Tallman Arrison|1825|1901
+John Chalmers Arrison|1825|1911
 <!------>
-John Tallman | 1833 | 1836
+John Tallman|1833|1836
 <!------>
-George Ervin | 1814 | 1872
-Elizabeth Erazier | 1817 | 1886
-Thomas Ervin | 1853 | 1881
+George Ervin|1814|1872
+Elizabeth Erazier|1817|1886
+Thomas Ervin|1853|1881
 <!------>
-Elizabeth Frazier |  1855 | 1783
-Anthony Frazier | 1866 | 1778
+Elizabeth Frazier|1855|1783
+Anthony Frazier|1866|1778
 <!------>
-John Barnwell | 1849 | -56 
-Mary Ann Hunter | 1886 | -77
+John Barnwell|1849|1793
+Mary Ann Hunter|1886|1809
 <!------>
-Sarah Catherwood |  1844 | -67 
-Abraham Hunter | 1851 | -79 
-Jane Hunter | 1870 | -67
+Sarah Catherwood|1844|1777
+Abraham Hunter|1851|1772
+Jane Hunter|1870|1803
 <!------>
-Margaret | 1839 | -21 
-Matilda Hunter | 1840 | -19 
-Eliza Hunter | 1874 | -69 
-John C. Hunter | 1877 | -65
+Margaret|1839|1818
+Matilda Hunter|1840|1821
+Eliza Hunter|1874|1805
+John C. Hunter|1877|1812
 <!------>
-Robert Johnston | 1847 | -61 
-Frances Johnson | 1856 | -77
-James Sproul | 1829 | -14
+Robert Johnston|1847|1786
+Frances Johnson|1856|1779
+James Sproul|1829|1815
 <!------>
-Josephine MeKeever | 1822 | 1890 
-Melinda [Diezel] | 1848 | 1894
+Josephine MeKeever|1822|1890
+Melinda [Diezel]|1848|1894
 <!------>
-Jesse Bowers | 1856 | -68 
-Margaret Bowers | 1829 | -37
+Jesse Bowers|1856|1788
+Margaret Bowers|1829|1792
 <!------>
-George White | 1847 | -43 
-Henry G. White | 1877 | -37 
-Matilda [White] | 1891 | -84
-Wardell White | 1867 | -25
+George White|1847|1804
+Henry G. White|1877|1840
+Matilda [White]|1891|1807
+Wardell White|1867|1842
 <!------>
-Evelina Stratton | June  2, 1827 | -19
-Henry Wordell | 1829 | -48
-George Henry White | 1855 | -18
-Emma White | 1856 | -23
+Evelina Stratton|1827|1808
+Henry Wordell|1829|1781
+George Henry White|1855|1837
+Emma White|1856|1833
 <!------>
-Rebecca Wilhelmina | 1846  | -22
+Rebecca Wilhelmina|1846|1824
 <!------>
 
-Emily Louisa [Jones] | 1849 | -11
+Emily Louisa [Jones]|1849|1838
 <!------>
-Mary [Webb] | 1833 | -35 
-John [Webb] | 1852 | -34 
-Samuel Webb | 1872 | -77
+Mary [Webb]|1833|1798
+John [Webb]|1852|1818
+Samuel Webb|1872|1795
 <!------>
-Eliza [Whiteman, nee Hobb]   | 1865 | -28 
-Sarah [Whiteman] | 1833
+Eliza [Whiteman, nee Hobb]|1865|1837
+Sarah [Whiteman]|1833|0
 <!------>
-John Jones | 1859 | -69
+John Jones|1859|1790
 <!------>
-Ward C. Butler | 1795 | 1861
-Margaret Butler | 1799 | 1869 
-William H. Butler | 1833 | 1900
+Ward C. Butler|1795|1861
+Margaret Butler|1799|1869
+William H. Butler|1833|1900
 <!------>
-Martha [Murphy] | 1873 | -85 
-John Murphy | 1873 | -84 
-Moses Murphy |  1884 | -92
+Martha [Murphy]|1873|1788
+John Murphy|1873|1789
+Moses Murphy|1884|1792
 <!------>
-William Swift | 1865
+William Swift|1865|0
 <!------>
-Ann [Murphy] | 1829 | -40 
-Elizabeth [Murphy] | 1835 | -35 
-Eliza Ann [Murphy]| 1825 | 1849
+Ann [Murphy]|1829|1789
+Elizabeth [Murphy]|1835|1800
+Eliza Ann [Murphy]|1825|1849
 <!------>
-John Kirkpatrick | 1881 | -85
-James Kirkpatrick | 1899 | -76
+John Kirkpatrick|1881|1796
+James Kirkpatrick|1899|1823
 <!------>
-C. M. Z. [Zollikoffer] |  Nov 29 | 1848
+C. M. Z. [Zollikoffer]|?|1848
 <!------>
-Mary L. Kelter | 1857 | -24 
-Alfred Kelter | 1859 | -20 
-Martha | |0
-Washington | | -1
+Mary L. Kelter|1857|1833
+Alfred Kelter|1859|1839
+Martha||0
+Washington||-1
 <!------>
-David Kelter | 1854 | -64
-Susanna Kelter | 1796 | 1870 
+David Kelter|1854|1790
+Susanna Kelter|1796|1870
 <!------>
-Annie Burwell | 1829 | 1904
+Annie Burwell|1829|1904
 <!------>
-John William [Zollikofer] | 1850 | 1851
+John William [Zollikofer]|1850|1851
 <!------>
-Elizabeth Johnson | 1788 | 1828
-Samuel Johnson | 1781 | 1873
+Elizabeth Johnson|1788|1828
+Samuel Johnson|1781|1873
 <!------>
-Col. George E. Johnson | 1824 | 1880
+Col. George E. Johnson|1824|1880
 <!------>
-Charles P. Eushton | 1907 | -63
+Charles P. Eushton|1907|1844
 <!------>
-Christianna [Etris] | 1756|1883
-William Etris | -66|
+Christianna [Etris]|1756|1883
+William Etris|-66|
 <!------>
-Rev. Joseph Lybrand |1844 | -51 
-Isabella W. Lybrand |  1865 |  -64
+Rev. Joseph Lybrand|1844|1793
+Isabella W. Lybrand|1865|1801
 <!------>
-Mrs. Isabella G. Hartman | 1852 | -30 
-Mary Lybrand | 1846 | -19 
-Joanna | 1852 | -19
-Wesley | 1838 | -8
-Edward |1842 | -2
-Lizzie H. | 1863
+Mrs. Isabella G. Hartman|1852|1822
+Mary Lybrand|1846|1827
+Joanna|1852|1833
+Wesley|1838|1830
+Edward|1842|1840
+Lizzie H.|1863|0
 <!------>
-William F. Barr | 1834 | 
+William F. Barr|1834|0
 <!------>
-Conrad Siples | 1873 | -65 
-Conrad Siples Jr. | 1887 | -48
-Mary [Siples] | 1890 | -85
+Conrad Siples|1873|1808
+Conrad Siples Jr.|1887|1839
+Mary [Siples]|1890|1805
 <!------>
-Francis Hindman | 1834 |-80
-Elizabeth Hindman |  1846 | -79
+Francis Hindman|1834|1754
+Elizabeth Hindman|1846|1767
 <!------>
-Caleb Dobbins | 1847 | -73
-Ann Dobbins | 1870 | -83
+Caleb Dobbins|1847|1774
+Ann Dobbins|1870|1787
 <!------>
-Margaret Collins |  1876 | 1791
+Margaret Collins|1876|1791
 <!------>
-William Patterson
-Margaret
-Robert Hearst
+William Patterson||
+Margaret||
+Robert Hearst||
 <!------>
-M. Elizabeth Hickinbottom
+M. Elizabeth Hickinbottom||
 <!------>
-Elizabeth Fricke | 1870 | 1779
+Elizabeth Fricke|1870|1779
 <!------>
-Sarah [Butler] | 1832  | 1794 
-Henry [Butler] | 1836 | -10
-Edmund Sterry | 1849  | 1821 
+Sarah [Butler]|1832|1794
+Henry [Butler]|1836|1826
+Edmund Sterry|1849|1821
 <!------>
-Mary E. Lawrence | 1838 | -17
+Mary E. Lawrence|1838|1821
 <!------>
 Mrs. Mary Dull
 <!------>
-William Perry | 1834 |  -23  -23 
+William Perry|1834|1811
 <!------>
-Hester A. [Harrington] | 1872 | 1851
-William G. Hawkins | 1899| 1867 
+Hester A. [Harrington]|1872|1851
+William G. Hawkins|1899|1867
 <!------>
-Mary B. [Harrington] | 1858 | 37
+Mary B. [Harrington]|1858|37
 <!------>
-Anna E. [Markly] |  1870. |  1868 
-Gerald H. Owen | 1874| 1873 
+Anna E. [Markly]|1870|1868
+Gerald H. Owen|1874|1873
 <!------>
 Mary [Headman]
-George Headman | 1861 | -78 and 28 days
+George Headman|1861|1783
 <!------>
-Eli L. Hawkins | 1847 | -67.
-Fredericka [Hawkins] | 1881 | 1799 
+Eli L. Hawkins|1847|1780
+Fredericka [Hawkins]|1881|1799
 <!------>
-Samuel B. Headman | 1836 | -26
-Maria Headman | 1871| 1818
-William F. Headman | 1815 | 1885
+Samuel B. Headman|1836|1810
+Maria Headman|1871|1818
+William F. Headman|1815|1885
 <!------>
-Elizabeth Young | 1830 | 1890
+Elizabeth Young|1830|1890
 Thomas Young
 <!------>
-William E. Tatem |  1854 | -52
-Mary E. [Tatem] | 1807 | 1876
-George H. Tatem |  1828 |  1883
+William E. Tatem|1854|1802
+Mary E. [Tatem]|1807|1876
+George H. Tatem|1828|1883
 <!------>
-Julia E. A. Saffin | 1817 | 1900
-Wm. Baffin | 1862
+Julia E. A. Saffin|1817|1900
+Wm. Baffin|1862|0
 <!------>
-James Gaw | 1832 (?) -60
-James Gaw | 1827 | 
+James Gaw|1832|1772
+James Gaw|1827|
 Robert M. Gaw
 Emma Gaw
 <!------>
-Maria W. Murphy | 1794 | 1866
+Maria W. Murphy|1794|1866
 <!------>
-Arthur B. Murphy | -35
-Elizabeth J. Murphy | 1896
+Arthur B. Murphy|0|-35
+Elizabeth J. Murphy|1896|0
 <!------>
-Mary [Wheaton] | 1858 | -70
+Mary [Wheaton]|1858|1788
 <!------>
-Theresa [Brown] | 1799 | 1848
-John Brown Senr. | 1782 | 1864
+Theresa [Brown]|1799|1848
+John Brown Senr.|1782|1864
 <!------>
-John Taylor | 1832. 
-Mary Jane Nice | 1849. 
-James Finley Forrest | 1861
+John Taylor|1832|?
+Mary Jane Nice|1849|?
+James Finley Forrest|1861|0
 <!------>
-Edward P. Vollum | 1768 | 1872
-Rachel Vollum | 1774 | 1872
+Edward P. Vollum|1768|1872
+Rachel Vollum|1774|1872
 <!------>
-Amy Roberts | 1847? | -55
-Wm. D. Roberts | 1858 | -66 
-Euphemia [Bamage] | 1846 | -70
+Amy Roberts|1847?|1792
+Wm. D. Roberts|1858|1792
+Euphemia [Bamage]|1846|1776
 <!------>
-Adam Bamage | 1850 | -78
+Adam Bamage|1850|1772
 <!------>
-Enphemia Bamage | 1890
+Enphemia Bamage|1890|0
 <!------>
-William S. Linton | 1865 | -22 
-Samuel Linton | 1872 | -75
-Eliza [Linton] | 1878 | -73
+William S. Linton|1865|1843
+Samuel Linton|1872|1797
+Eliza [Linton]|1878|1805
 <!------>
-Anna P. Patton | 1804 | 1883
-Euphemia Ferguson | 1903
+Anna P. Patton|1804|1883
+Euphemia Ferguson|1903|0
 <!------>
-Adam Bamage Patton | 1865 | -23
+Adam Bamage Patton|1865|1842
 <!------>
-John McNamee |  1842 | -65
+John McNamee|1842|1777
 <!------>
-Arthur Murphy | 1854 | -60
+Arthur Murphy|1854|1794
 <!------>
-Ruhama E. Murphy | 1879 | -32
+Ruhama E. Murphy|1879|1847
 <!------>
-Walter J. Franklin | 1846 | -50
+Walter J. Franklin|1846|1796
 <!------>
-Mary Franklin | 1890 | -94
+Mary Franklin|1890|1796
 <!------>
 Henry Franklin
 <!------>
 Rush Johnson
 <!------>
-Anna B. Carter | 1874 | 1880
+Anna B. Carter|1874|1880
 <!------>
-Frederick Juppenlatz | 1780 | 1855
-Catharine [Juppenlatz] | 1869 | -98
+Frederick Juppenlatz|1780|1855
+Catharine [Juppenlatz]|1869|1771
 <!------>
 Martha Curry [Beatty]
 Bllie
 <!------>
-Caroline B. Murphy | June 1, 18— | 1833?
-Jane [Murphy] | 1841? | -80
+Caroline B. Murphy|18--|1833
+Jane [Murphy]|1841|1761
 <!------>
-Christiana B. W. [Jahraus] | 1815 | 1846
-Catharine Wolfer | 1843 | 1847
+Christiana B. W. [Jahraus]|1815|1846
+Catharine Wolfer|1843|1847
 <!------>
-Edward Turner | 1790 | 1852
-Eliza Turner |  1800 | 1888
+Edward Turner|1790|1852
+Eliza Turner|1800|1888
 <!------>
-Louisa S. Turner |  1841 | -28 
-Charlotte M. Adams | 1843 | -32
+Louisa S. Turner|1841|1813
+Charlotte M. Adams|1843|1811
 <!------>
-Deborah A. Myers | 1851 | -49
-Jacob H. Myers | Feb, 19, 1855 | -55
+Deborah A. Myers|1851|1802
+Jacob H. Myers|1855|1800
 <!------>
-Sarah Craig [Dickson] |  1876 | -85
+Sarah Craig [Dickson]|1876|1791
 <!------>
-Theodore Varney | 1855. 
-Margaretta F. [Varney] | 1892
+Theodore Varney|1855|?
+Margaretta F. [Varney]|1892|0
 <!------>
-Andrew Flick | 1851 | -67
+Andrew Flick|1851|1784
 William T. [Flick]
 <!------>
-Joseph Govett | 1875 | -77
-Mary B.[Govett] | 1885 | -80
+Joseph Govett|1875|1798
+Mary B.[Govett]|1885|1805
 <!------>
-Anna Jane [Govett] | 1854 | -51
-Maria G. Govett | 1891
+Anna Jane [Govett]|1854|1803
+Maria G. Govett|1891|0
 <!------>
 D.B. McGregor
 <!------>
-James Clark |1843 -54 
-Ellen [Clark] | 1844 -53
+James Clark|1843|1789
+Ellen [Clark]|1844|1791
 <!------>
-George Gulton | 1862 | -59
-Ann J. [Gulton] | 1863 | -54
-Mary J. [Gulton] | 1847
+George Gulton|1862|1803
+Ann J. [Gulton]|1863|1809
+Mary J. [Gulton]|1847|0
 <!------>
 Joseph Haigh
 <!------>
-Elizabeth [Stuart] | 1854 | -3
-Albert [Stuart] | 1856 | -2.
-Mary Stuart | 1860 | -70
-Albert Stuart | 1823 | 1873
+Elizabeth [Stuart]|1854|1851
+Albert [Stuart]|1856|1854
+Mary Stuart|1860|1790
+Albert Stuart|1823|1873
 <!------>
-John D. Craig | 1846 | -80
-John D. Craig | -25
+John D. Craig|1846|1766
+John D. Craig|0|-25
 <!------>
-Thomas Dickson | 1847 | 70
+Thomas Dickson|1847|70
 <!------>
-Anson Gray  | 1857 | 1813
-Andrew Gray | 1862 | 1842 
+Anson Gray|1857|1813
+Andrew Gray|1862|1842
 <!------>
-Margaret [Varley]  | 1877| 1829
+Margaret [Varley]|1877|1829
 <!------>
-Elizabeth C. Flick | 1844 | -64
+Elizabeth C. Flick|1844|1780
 <!------>
-William H. Gray| 1837 | 1868
-Anson Southard Gray | 1869 | -21
+William H. Gray|1837|1868
+Anson Southard Gray|1869|1848
 <!------>
-Michael Bice | -56 | 1844
+Michael Bice|-56|1844
 <!------>
-William Eice | 1825
+William Eice|1825|0
 <!------>
-Catharine Eice | 1867 | -84
+Catharine Eice|1867|1783
 <!------>
-Emily McGuigan | 1842 | -24
-William Emily McGuigan |  1842 | 1842
+Emily McGuigan|1842|1818
+William Emily McGuigan|1842|1842
 <!------>
-Isabella Taylor [nee Thomson] | 1840 | -35
+Isabella Taylor [nee Thomson]|1840|1805
 <!------>
-William Clew |  1846 | -74 
-Elizabeth Clew |  1855 | -80
+William Clew|1846|1772
+Elizabeth Clew|1855|1775
 <!------>
-Sarah Singleton Bedditt | 1836 | -30
-Mrs. Mary Eedditt | 1840 | -76
+Sarah Singleton Bedditt|1836|1806
+Mrs. Mary Eedditt|1840|1764
 <!------>
-John Shon |  1831 | -54
-Margaret Shon | 1831.
+John Shon|1831|1777
+Margaret Shon|1831|0
 ____________
 <!------>
-Silas W. Williams | 1836 | 1872
+Silas W. Williams|1836|1872
 <!------>
-John Lucas | 1881 | -67
+John Lucas|1881|1814
 <!------>
-Francis Lucas |  1843 | -67
-Elizabeth Lucas | 1848 | -56.
+Francis Lucas|1843|1776
+Elizabeth Lucas|1848|1792
 Helen G. Lunde
 William C. Lunde
 <!------>
-Jane [Frazier] 1809|
-Mary Ann [Frazier]
+Jane [Frazier] 1809||
+Mary Ann [Frazier]||
 <!------>
-Martha Hopson | 1873
+Martha Hopson|1873|0
 <!------>
-Cameron McGregor
+Cameron McGregor||
 <!------>
-William McGuigan | 1853 | -39
+William McGuigan|1853|1814
 <!------>
-Alliee Adelia Steiner | 1839 | 1839
+Alliee Adelia Steiner|1839|1839
 <!------>
-John Strickland | 1827 | [1811]
+John Strickland|1827|1811
 <!------>
-William Henry Kochersperger | 1862 | -33
+William Henry Kochersperger|1862|1829
 <!------>
-Margaret [Kochersperger] | 1847 | -56
+Margaret [Kochersperger]|1847|1791
 <!------>
-Daniel Kochersperger | 1862 | -72
+Daniel Kochersperger|1862|1790
 <!------>
-Samuel A. Hac ... |
+Samuel A. Hac ... ||
 <!------>
-Capt. A. J. Clifton |  1863 |  -48 
+Capt. A. J. Clifton|1863|1815
 <!------>
-Louisa Missouri [Miller] | 1838 | -17 
+Louisa Missouri [Miller]|1838|1821
 <!------>
-George Yohe | Jan 17, 18—
+George Yohe|18--|
 <!------>
-Elizabeth H. Donaghy | 1906 | -53
+Elizabeth H. Donaghy|1906|1853
 <!------>
-Hellen M. Donaghy | 1862 | -34
-William [Donaghy] | 1862 | 1862
-William Donaghy | 1865 | -38
+Hellen M. Donaghy|1862|1828
+William [Donaghy]|1862|1862
+William Donaghy|1865|1827
 <!------>
-Elizabeth B. Spear  | 1809 1863
+Elizabeth B. Spear|1809|1863
 <!------>
-Spear | Florence Newton | 1839 1842
+Spear Florence Newton|1839|1842
 <!------>
-Capt. John J. Garvin Sen.| 1858 | -72
-Sarah Garvin | 1875 | -88.
-Sarah Garvin |  1892 | -64 
+Capt. John J. Garvin Sen.|1858|1786
+Sarah Garvin|1875|1787
+Sarah Garvin|1892|1828
 <!------>
-Isaac P. Kester | 1814 | 1875. 
-Mary J. [Kester] |  1815 | 1883
-Garvin Kester | 1848 | 1849.
-Paul Garvin Kester | 1858 | 1862 
+Isaac P. Kester|1814|1875
+Mary J. [Kester]|1815|1883
+Garvin Kester|1848|1849
+Paul Garvin Kester|1858|1862
 <!------>
-John Myers | 1838 | -30
-Isaac Myers | 1866 | -83
+John Myers|1838|1808
+Isaac Myers|1866|1783
 <!------>
-Susannah Yeates | 1782 | 1858
-A.W. Rushton | 1773 | 1859
+Susannah Yeates|1782|1858
+A.W. Rushton|1773|1859
 <!------>
-Mary P. [Bushton] | 1867. 
-Randolph Eyre | 1886
+Mary P. [Bushton]|1867|0
+Randolph Eyre|1886|0
 <!------>
-Mrs. Hannah S. [Hobbs] | 1877 | -64
-Joshua Scattergood | 1807 | 1887
+Mrs. Hannah S. [Hobbs]|1877|1813
+Joshua Scattergood|1807|1887
 <!------>
-John Y. Bushton | 1808 | 1859
-Ellen H. Bushton |  1811 |  1886
-Francis Cleaver | 1838 | 1838
-Ellen Roberts | 1840 | 1855 
+John Y. Bushton|1808|1859
+Ellen H. Bushton|1811|1886
+Francis Cleaver|1838|1838
+Ellen Roberts|1840|1855
 <!------>
-Frances Y. Cleaver | 1846 | -42
+Frances Y. Cleaver|1846|1804
 <!------>
-Sarah Scattergood | 1861 | -86.
-Jane Scattergood | 1805 | 1892
+Sarah Scattergood|1861|1775
+Jane Scattergood|1805|1892
 <!------>
-Beuben Gilder | 1851 | 1852
+Beuben Gilder|1851|1852
 <!------>
-Mrs. Susan Allison | 1838 | -58
+Mrs. Susan Allison|1838|1780
 <!------>
-Samuel Chapman | 1830
+Samuel Chapman|1830|0
 <!------>
-J. Birkett Bradley | 1844 | 1863
+J. Birkett Bradley|1844|1863
 <!------>
-Philadelphia Bradley | 1829 | -34.
-Capt. Birkett | 1846 | -62
-Sarah Birkett | 1874 | -79
+Philadelphia Bradley|1829|1795
+Capt. Birkett|1846|1784
+Sarah Birkett|1874|1795
 <!------>
-Capt. John J. Bradley | 1895 | -80 
-Sarah W. | 1817 | 1907
+Capt. John J. Bradley|1895|1815
+Sarah W.|1817|1907
 <!------>
-Caleb Scattergood | 1814 | 1870. 
-A. Emaline [Scattergood] | 1819 | 1877
+Caleb Scattergood|1814|1870
+A. Emaline [Scattergood]|1819|1877
 <!------>
-Jane [Bradley] | 1830 | 1850
+Jane [Bradley]|1830|1850
 <!------>
-Harriett Bell |  1803 |  1871
+Harriett Bell|1803|1871
 <!------>
-William Bell | 1781 |  1845
+William Bell|1781|1845
 <!------>
-John F. Stanton | 1816-1890.
-Harriet B. Stanton | 1836-1902
+John F. Stanton |1816|1890
+Harriet B. Stanton|1836|1902
 <!------>
-Eli H. Pinkerton | 1817 | 1816
+Eli H. Pinkerton|1817|1816
 <!------>
-____ Bees Ward | 1811 | aged ____
+____ Bees Ward|1811|?
 <!------>
-John Stratton | 1817 | -67.
-Mary D. Cook. | 1839 | 1897
-Harry B. Cook | 1848-1908
-Sarah Cook |  1833 | -64
+John Stratton|1817|1750
+Mary D. Cook.|1839|1897
+Harry B. Cook |1848|1908
+Sarah Cook|1833|1769
 <!------>
-Mary Gouldey | 1847 | -85
-William Cook | 1855 | -55
-Mary Nutter | 1898. -70
+Mary Gouldey|1847|1762
+William Cook|1855|1800
+Mary Nutter|1898|1828
 <!------>
-Mrs. Isabella Doherty | 1870
+Mrs. Isabella Doherty|1870|0
 <!------>
 Felix Tribault
 Anna [Tribault]
 <!------>
-John Cook | 1876 
-Christiana [Cook] | 1810 | 1849.
+John Cook ||1876 
+Christiana [Cook]|1810|1849
 <!------>
-William Y. Cook |  1832 | 1857
-Eliza D. Cook | 1841 | 1858
+William Y. Cook|1832|1857
+Eliza D. Cook|1841|1858
 <!------>
-Father John Doherty. | 1888 | -81.
-Jane | 1829 | 1863.
-John | 1836 | 1864
-Samuel |  1834 | 1843.
-Jackson | 1843 | 1874
+Father John Doherty.|1888|1807
+Jane|1829|1863
+John|1836|1864
+Samuel|1834|1843
+Jackson|1843|1874
 <!------>
-John Selkirk | 1844 | -58.
+John Selkirk|1844|1786
 <!------>
-John C. Selkirk. | 1860 | -16
-Edmond Bobinson Selkirk | 1861 | -4
+John C. Selkirk.|1860|1844
+Edmond Bobinson Selkirk|1861|1857
 <!------>
 Mrs. Ellen Lane
 <!------>
-James H.C. Howard | 18 ... .
+James H.C. Howard|18--|
 <!------>
 Ezra F. Baymond
 Mary Josophene Cornelia
 <!------>
-Bichard B. Keys | 1811 | -11
+Bichard B. Keys|1811|1800
 <!------>
-David Thompson |  1811 | -56
+David Thompson|1811|1755
 <!------>
-Sarah [Smith] | 1888 | -62.
-Philip Smith | 1897. | -77.
+Sarah [Smith]|1888|1826
+Philip Smith|1897|1820
 <!------>
-Bichard Ellis | 1878 | -58
+Bichard Ellis|1878|1820
 <!------>
-Ann Jane Stewart | 1811 | -19
-William Stewart | 1817 | -50
+Ann Jane Stewart|1811|1792
+William Stewart|1817|1767
 <!------>
-Mrs. Elizabeth Trotter | 1850 | -81.
+Mrs. Elizabeth Trotter|1850|1769
 <!------>
-Corp. G. W. Young | Co. H. 33rd Penn. Inf.
+Corp. G. W. Young Co. H. 33rd Penn. Inf.||
 <!------>
-John. Hemphell. | 1854 | -28.
+John. Hemphell.|1854|1826
 <!------>
 Sarah Biehman.
 <!------>
-Susan Bates | 1819 | -27
+Susan Bates|1819|1792
 <!------>
-Charles. H. Jones. | 1911 | -19.
+Charles. H. Jones.|1911|1892
 <!------>
-Ann Francis | 1834 | -69.
-David Edwin | 1844 | -64.
+Ann Francis|1834|1765
+David Edwin|1844|1780
 <!------>
-Catharine [Edwin] | 1850| -65
+Catharine [Edwin]|1850|1785
 <!------>
-Anthony Sague | 1791. | 1857.
-Walter. A. Sague | 1861.
+Anthony Sague|1791|1857
+Walter. A. Sague|1861|
 <!------>
-Cornelia. F. Jefferson. | Charles Burke.
+Cornelia. F. Jefferson.||
+Charles Burke.||
 <!------>
 
-Sarah Walton| June ... 1827 | Age, ... .
+Sarah Walton|1827|?
 <!------>
-Sarah [Smith] | 1888| -62.
-Philip Smith | 1897 | -77.
+Sarah [Smith]|1888|1826
+Philip Smith|1897|1820
 <!------>
-Mrs Ann Vanzant | 1843 | -65
+Mrs Ann Vanzant|1843|1778
 <!------>
-______ Patterson | _______ | _______
+______ Patterson|_______|_______
 <!------>
-Ann Catharine Lane | ... | ...
+Ann Catharine Lane|...|...
 <!------>
-John Jacob Lane | ... | ... 1841
+John Jacob Lane|...|... 1841
 <!------>
-George Hollson | ... | ...
+George Hollson|...|...
 <!------>
-Robert Campbell | 1846 | in the ... year of his age.
+Robert Campbell|1846|0
 <!------>
-Francis Clime | 1814 | 1845
+Francis Clime|1814|1845
 <!------>
-James Howard | 1841 | -19
+James Howard|1841|1822
 <!------>
-Mrs Ellen. Lane.
+Mrs Ellen. Lane
 <!------>
-Edward. J. B. Thomas. | 1881 | -50
-Edward. J. B. Thomas. | 1881 | 
+Edward. J. B. Thomas.|1881|1831
+Edward. J. B. Thomas.|1881|?
 <!------>
-Ann Louisa ... | 1832 | 
+Ann Louisa|?|1832|
 <!------>
-Ella ... | ...
+Ella|?|?
 <!------>
-... Martin. | ...
+... Martin.|?|?
 <!------>
 Robert Downer. M.D.
 <!------>
-Adeline Mann [Baylis]| 1815. | -1
+Adeline Mann [Baylis]|1815|1814
 <!------>
-Laura. M. [Baylis] |  1820 | 1885
-Henry Bayliss |  1810 | 1889.
+Laura. M. [Baylis]|1820|1885
+Henry Bayliss|1810|1889
 <!------>
-Joseph Baylis | 1819 | -1
+Joseph Baylis|1819|1818
 <!------>
-Harriet Marshall Bayliss |  1861| -6
+Harriet Marshall Bayliss|1861|1855
 <!------>
-Isabella Bayliss | 1841 | 1875.
-John Baylis. | 1815 | 1891. 
-Harriet [nee Marshall] [Baylis] | 1787 | 1834.
-Joseph Baylis |  1787 |  1867. 
+Isabella Bayliss|1841|1875
+John Baylis.|1815|1891
+Harriet [nee Marshall] [Baylis]|1787|1834
+Joseph Baylis|1787|1867
 <!------>
-Catharine Snyder | 1865 | -56.
+Catharine Snyder|1865|1809
 <!------>
-Nathaniel Gordon | 1860 | -61; 
-Maggie. E. Gordon | 1862 -21
-Caroline. E Gordon | 1851 -6
-Nat. Evans Gordon | 1851 -4
-John E. Gordon | 1838 | 1837
+Nathaniel Gordon|1860|1799
+Maggie. E. Gordon|1862|1841
+Caroline. E Gordon|1851|1845
+Nat. Evans Gordon|1851|1847
+John E. Gordon|1838|1837
 <!------>
-Margaret Cunningham |1855. | -21
-Eliza [Cunningham] | | -1
-Hollson | ... | ...
+Margaret Cunningham|1855|1834
+Eliza [Cunningham]|0|-1
+Hollson|...|...
 <!------>
-William Penn Finney. | 1882 | -75
-Mary. J. Finney | 1888 | -74.
+William Penn Finney.|1882|1807
+Mary. J. Finney|1888|1814
 <!------>
-Joseph Baylis |   1837 | 1838.
-Joseph Baylis | 1816 | 1817
+Joseph Baylis|1837|1838
+Joseph Baylis|1816|1817
 <!------>
-... Donnell. | 1854 | 1854 
-W. S. | 1869 | [1798]
+... Donnell.|1854|1854
+W. S.|1869|[1798]
 <!------>
-Samuel Hankinson | 1854 | 
+Samuel Hankinson|1854|
 <!------>
-William Weaver | 1868 | -75
-Catharine [Weaver] | -76 
-Mrs Dorathea Dryner | 1844 | -62
+William Weaver|1868|1793
+Catharine [Weaver]|0|-76
+Mrs Dorathea Dryner|1844|1782
 <!------>
-George Poppal | 1851 | -80
-Catharine [Poppal] -84.
+George Poppal|1851|1771
+Catharine [Poppal]|0|-84
 <!------>
-William Buffs | Family Vault
+William Buffs Family Vault
 <!------>
-Augusta. L. [Turner] | 1889 | -53.
+Augusta. L. [Turner]|1889|1836
 <!------>
-Frances Lammey |  1856 | -38
+Frances Lammey|1856|1818
 <!------>
-John Crawford. | 1853 | -23.
+John Crawford.|1853|1830
 <!------>
-Francis Lyons | 1801 | 1849 
-Mary Anne [Lyons] | 1804 | 1878.
+Francis Lyons|1801|1849
+Mary Anne [Lyons]|1804|1878
 <!------
-William ___ Ramsey | 1834 | -47
+William ___ Ramsey|1834|1787
 <!------>
-Robert Niblock | 1872 | -75.
+Robert Niblock|1872|1797
 <!------>
-Rachael [Niblock] | 1873 | -85.
-Eliza Jane Wilson | 1858 | -27.
+Rachael [Niblock]|1873|1788
+Eliza Jane Wilson|1858|1831
 <!------>
-William McIlvaine. | ... 1810
+William McIlvaine.|1810|0
 <!------>
 George Cly ____
 <!------>
-Mary Bussell West | 1812 | -70
+Mary Bussell West|1812|1742
 <!------>
-Thomas Stevenson | 1810 | -52
-William [Stevenson]  | 1840 | -17 and 12 days 
-Jane Stevenson| 1800 | Died. 1879.
+Thomas Stevenson|1810|1758
+William [Stevenson]|1840|1823
+Jane Stevenson|1800|1879
 <!------>
-Benjamin [Tage] | 1832 | 1832
-Henrietta  [Tage] | 1833 | -7
+Benjamin [Tage]|1832|1832
+Henrietta  [Tage]|1833|1826
 <!------>
-William McNalley | 1826 | 1855
-Elizabeth McNalley | 1894 | -70.
+William McNalley|1826|1855
+Elizabeth McNalley|1894|1824
 <!------>
-Sarah Armstrong | 1881.
+Sarah Armstrong|1881|0
 <!------>
-Peter Bousquet.
+Peter Bousquet.|?|?
 <!------>
-Susanna Biley | ... 1852.
+Susanna Biley|?|1852
 <!------>
-Jules Bomain Fiot| 1878. Age 72.
+Jules Bomain Fiot|1878|1806
 <!------>
-Aimee M. Fiot. nee Prat | 1883. Age 72. |
-Charles Jules Fiot | 1842 | 1871.
+Aimee M. Fiot. nee Prat|1883|1811
+Charles Jules Fiot|1842|1871
 <!------>
-Arthur Pigolet d'Hermillon | Jan 1st. 1828 | 1911.
+Arthur Pigolet d'Hermillon|1828|1911
 <!------>
-Clara Josephene Pigolet. nee Fiot. |  1848 | 1913.
-Jules. W. A. Pigolet d'Hermillion | 1867. 1883.
+Clara Josephene Pigolet. nee Fiot.|1848|1913
+Jules. W. A. Pigolet d'Hermillion|1867|1883
 <!------>
-Mary. A. Chown | 1850.
-William Chown | 1853 | -33
+Mary. A. Chown|1850|0
+William Chown|1853|1820
 <!------>
-William Henry Brown | 1855 | -66
-Elizabeth [Brown] | -46
+William Henry Brown|1855|1789
+Elizabeth [Brown]|0|-46
 <!------>
-Emma Jane, -9 | 
-James | aged ... | 
-Henry William | aged ...
+Emma Jane,|0|-9
+James|0|?
+Henry William|0|?
 <!------>
-Grace. E. [Govan] 1861 | -14
-George. A. [Govan] 1860 | -2
-Anna. E  [Govan]. 1868 | -21
+Grace. E. [Govan]|1861|-14
+George. A. [Govan]|1860|-2
+Anna. E  [Govan]|1868|-21
 <!------>
-Elizabeth [Wilson]
-Isaac. B. Baxter | 1786 | 1866
-George. W.  [Baxter] | 1825 | 1866 
-M. Jane Barren. | ... 1760 | ... 1830.
-Daniel Gray | ... | ... 1830
+Elizabeth [Wilson]|?|?
+Isaac. B. Baxter|1786|1866
+George. W.  [Baxter]|1825|1866
+M. Jane Barren.|1760|1830
+Daniel Gray|?|1830
 <!------>
-Mary Catharine [Scattergood] | 1823 | 1862
-Joseph S. Scattergood | 1809 | 1886
+Mary Catharine [Scattergood]|1823|1862
+Joseph S. Scattergood|1809|1886
 <!------>
-Bennet Wilson | 1862 | -63
-Eliza C. Wilson | 1874 | -74
+Bennet Wilson|1862|1799
+Eliza C. Wilson|1874|1800
 <!------>
-David C. Fulton | 1869 | -61
-Caroline A. Fulton | 1871 | -50
-Theodore F. Fulton | 183— |  18—2
+David C. Fulton|1869|1808
+Caroline A. Fulton|1871|1821
+Theodore F. Fulton|183--|18--2
 <!------>
-Mary Ana St.Clair | 1867 | -73
+Mary Ana St.Clair|1867|1794
 <!------>
-Charlotte Fuller Marsh | 1790 | 1861 
-James Marsh |  1792 | 1878
+Charlotte Fuller Marsh|1790|1861
+James Marsh|1792|1878
 <!------>
-Anna Sweazey | 1832 | 1861
-Fred. S. Sweazey | obliterated | 1862
+Anna Sweazey|1832|1861
+Fred. S. Sweazey|obliterated|1862
 <!------>
-Chandler Price MeCorkle | 1820 | 1850
+Chandler Price MeCorkle|1820|1850
 <!------>
-Emma J. [Wright] | 1825 | 1853.
+Emma J. [Wright]|1825|1853
 Annie Butler
 <!------>
-J. - Wright | 1852 | 1853.
-Annie [Butler] | 1819 | 1851
+J. - Wright|1852|1853
+Annie [Butler]|1819|1851
 <!------>
-Emma [Briggs] | 1859 | 1859 
-Charles [Briggs] | 1856 | 1862
+Emma [Briggs]|1859|1859
+Charles [Briggs]|1856|1862
 <!------>
-Ann Warnick | Jan 3rd, 1793 | 1865
-Charles Peters |  1878 | -85
+Ann Warnick|1793|1865
+Charles Peters|1878|1793
 <!------>
-Charles [ ? ] ... |  1836 | 1836
+Charles [ ? ] ...|1836|1836
 <!------>
-Katie [Robertson] | 1876 | 1875
+Katie [Robertson]|1876|1875
 <!------>
-Robert Symington | 1869 | 1873
-Samuel Symington | 1867 | 1868
+Robert Symington|1869|1873
+Samuel Symington|1867|1868
 <!------>
-James Barker | 1853, age 70 yrs.
-Hannah [Barker] | 1856 | age 75 yrs.
-Isabella [Worthington] | 1889 | -72
+James Barker|1853|1783
+Hannah [Barker]|1856|1781
+Isabella [Worthington]|1889|1817
 <!------>
-Capt. Henry C. Henry | 1787 | 1850
-Harriet H. Henry | 1800 | 1874
+Capt. Henry C. Henry|1787|1850
+Harriet H. Henry|1800|1874
 <!------>
- Jacob Bretz | Jany. 5, 1842 | -71 
-Eve Elizabeth [Bretz] | 1850 | -76
+Jacob Bretz|1842|1771
+Eve Elizabeth [Bretz]|1850|1774
 <!------>
-William Henry | 1768 | 1846.
-Jane [Henry] | 1852 | -86.
-William Henry Jr. | 1799 |  1829 
-Elizabeth Gray |  1827 | 1827
-Samuel W. Henry | 1801 | 1817
+William Henry|1768|1846
+Jane [Henry]|1852|1766
+William Henry Jr.|1799|1829
+Elizabeth Gray|1827|1827
+Samuel W. Henry|1801|1817
 <!------>
-James Day | 1792 |  1832. 
-Margaret Eagen Day |  1798 | 1843 
-Jane M. Day | 1821 | 1823 
-Elizabeth H. Day |  1827 | 1829 
-James H. Day | 1831 | 1831
+James Day|1792|1832
+Margaret Eagen Day|1798|1843
+Jane M. Day|1821|1823
+Elizabeth H. Day|1827|1829
+James H. Day|1831|1831
 <!------>
-Isaac Addis | 1832 | 1808
+Isaac Addis|1832|1808
 <!------>
-Catharine [Addis] | 1872 | -56
-Charles Addis | 1808 | 1875
+Catharine [Addis]|1872|1816
+Charles Addis|1808|1875
 <!------>
-John Murgitroyde | 1820 | 1884
-Ann [Murgitroyde] | 1832 | -43.
-Wm. T. Murgitroyde | 1832 | -2
-Bichard Murgitroyde | 1865 | -67.
+John Murgitroyde|1820|1884
+Ann [Murgitroyde]|1832|1789
+Wm. T. Murgitroyde|1832|1830
+Bichard Murgitroyde|1865|1798
 <!------>
-Martha Ann [Sterne] [nee Matthews] | 1843| -34
-Mary A. Garachon | 1886
+Martha Ann [Sterne] [nee Matthews]|1843|1809
+Mary A. Garachon|1886|0
 <!------>
-Christiana Garachon |  1827 | 1802
+Christiana Garachon|1827|1802
 <!------>
-William [Wilson] | 1828 -3
-Sarah Wilson | 1857 | -8
-Margaret Wilson | 1859 | -70
-James Wilson | 1859 | -11
-B. Stirling Wilson | 1859 | -37
-Charles Bea Wilson | 1827 | 1869
-Robert Wilson, Sr. |  1871. -88
-James George Wilson | 1875. -52.
-Sarah [Wilson] | 1800. 1876
+William [Wilson]|1828|1825
+Sarah Wilson|1857|1849
+Margaret Wilson|1859|1789
+James Wilson|1859|1848
+B. Stirling Wilson|1859|1822
+Charles Bea Wilson|1827|1869
+Robert Wilson, Sr.|1871|1783
+James George Wilson|1875|1823
+Sarah [Wilson]|1800|1876
 <!------>
-William Kinley | 1849 | 1848
-Hugh Washington Kinley | 1853 | -4
-Agnes B. Kinley | 1854 | 1853
+William Kinley|1849|1848
+Hugh Washington Kinley|1853|1849
+Agnes B. Kinley|1854|1853
 <!------>
-Jacob Keyser | 1836 | -56
-Ann [Keyser] | 1859 | -73
+Jacob Keyser|1836|1780
+Ann [Keyser]|1859|1786
 <!------>
-Elizabeth Henby |1831 | -44
-Thomas Henby | 1855 | -63
-Lucy Henby | 1839 | -26
+Elizabeth Henby|1831|1787
+Thomas Henby|1855|1792
+Lucy Henby|1839|1813
 <!------>
-Eliza Buck | 1851| -65
-Hugh Buck | 1776 | 1866
-Mrs. Mary Alburtson [nee Mrs. Mary Buck] | 1867 | -76.
+Eliza Buck|1851|1786
+Hugh Buck|1776|1866
+Mrs. Mary Alburtson [nee Mrs. Mary Buck]|1867|1791
 <!------>
-James Buck | 1798 |  1859
-Ann Buck | 1862 | -60
-Annie [Buck] | 1868 | -31
+James Buck|1798|1859
+Ann Buck|1862|1802
+Annie [Buck]|1868|1837
 <!------>
-Elizabeth Hunter | 1830 | -63 
+Elizabeth Hunter|1830|1767
 <!------>
-James Howard [Buck] | 1862 | 1862
+James Howard [Buck]|1862|1862
 <!------>
-Mrs. Anna Haig | 1840 | -79 & 30 days
+Mrs. Anna Haig|1840|1761
 <!------>
-Thomas Haig Potter | 1831 | -59
+Thomas Haig Potter|1831|1772
 <!------>
-Ann Haig | Feb 3rd. 1858 | -54
+Ann Haig|1858|1804
 <!------>
-Josephine [Smith] |1842 | -20
-Ann W. [...] | 1842 | -29
+Josephine [Smith]|1842|1822
+Ann W. [...]|1842|1813
 <!------>
-Thomas Smith | 68 years;
-Ann Smith | 76 years;
-John Smith | 37 years;
-Emma [!] M. Smith | 22 years;
-Sarah Smith | 69 years;
-Marry G. Smith | 1861 | 1831 
+Thomas Smith |0|-68
+Ann Smith |0|-76
+John Smith |0|-37
+Emma [!] M. Smith |0|-22
+Sarah Smith |0|-69
+Marry G. Smith|1861|1831
 <!------>
-Charles A. Smith | -21
+Charles A. Smith|0|-21
 <!------>
-John Heazlitt | 1836 | -57
-Hannah D. Heazlitt | 1840 | -44
+John Heazlitt|1836|1779
+Hannah D. Heazlitt|1840|1796
 <!------>
-Bebecca Hewston | 1831 | -91
-Mary Hewston | 1867 | -73
-Catharine Hewston | 1875 | -78
+Bebecca Hewston|1831|1740
+Mary Hewston|1867|1794
+Catharine Hewston|1875|1797
 <!------>
-Bebecca Hewston | 1838 | -68
+Bebecca Hewston|1838|1770
 <!------>
-John Hewston | 1871, -76
+John Hewston|1871|1795
 <!------>
-Peter Hinkel | 1780 | 1835
+Peter Hinkel|1780|1835
 <!------>
-Margaret [Coulter] |  1870 | -72
-Samuel [Coulter] | 1830 | -5
+Margaret [Coulter]|1870|1798
+Samuel [Coulter]|1830|1825
 <!------>
-Robert Black | 1873 | -70.
+Robert Black|1873|1803
 <!------>
-[Bernard?] Richard Hoopes | 1850 | -31
+[Bernard?] Richard Hoopes|1850|1819
 <!------>
-Robert Brown | 1845 | -78
+Robert Brown|1845|1767
 <!------>
-Evan Jones | 1846
-Hannah Jones | 1858
-Anna E. Jones | 1865
-Deborah Jones | 1886
+Evan Jones|1846|0
+Hannah Jones|1858|0
+Anna E. Jones|1865|0
+Deborah Jones|1886|0
 <!------>
-John Houser | 1808 | [1747]
-Margaretta Houser | 1840 | 1753
+John Houser|1808|[1747]
+Margaretta Houser|1840|1753
 Catharine Houser
 Anna Mary Houser
 <!------>
-Daniel Nichol | 1891 | [1799]
-Isabella [Nichol] | 1876 | [1801]
-Samuel [Nichol] | 1843 | 1844
-Daniel [Nichol] | 1837 | 1849
-Isabella [Nichol] | 1844 | 1852
-Sarah Jane [Nichol] | 1847 | 1852
+Daniel Nichol|1891|[1799]
+Isabella [Nichol]|1876|[1801]
+Samuel [Nichol]|1843|1844
+Daniel [Nichol]|1837|1849
+Isabella [Nichol]|1844|1852
+Sarah Jane [Nichol]|1847|1852
 <!------>
-Robert H. Latimer | 1874 | [1842]
-Arthur [Latimer] | 1849 | [1846]
-Andrew John [Latimer] | 1849 | [1840]
-William [Latimer] | 1850 | [1844]
-Eliza Latimer | 1902
+Robert H. Latimer|1874|[1842]
+Arthur [Latimer]|1849|[1846]
+Andrew John [Latimer]|1849|[1840]
+William [Latimer]|1850|[1844]
+Eliza Latimer|1902|0
 <!------>
-Frederic William Rogers | 1832 | 1831
-William Frederick Rogers | in Paris  1857 | -23
-Alfred William Rogers | 1864 | -31
-Samuel B. Slocomb | 1834 | -33
-Oliver Ruggles | 1850 | -83
-Phebe Ruggles | Mar 10, i860 | -85
-Wm E. Rogers | 1845 | -46
-M. Edward Rogers | 1839 | 1884
-George N. Bogers | 1833 | -35 
+Frederic William Rogers|1832|1831
+William Frederick Rogers|1857|1834
+Alfred William Rogers|1864|1833
+Samuel B. Slocomb|1834|1801
+Oliver Ruggles|1850|1767
+Phebe Ruggles|1860|1775
+Wm E. Rogers|1845|1799
+M. Edward Rogers|1839|1884
+George N. Bogers|1833|1798
 <!------>
-William Fryer Sen-r, |  1849 | [1784]
-Armer Patten Fryer | 1866 | [1856]
-William Fryer | 1822 | 1885
-Matilda Oakford Fryer | 1849 | -2
+William Fryer Sen-r,|1849|1784
+Armer Patten Fryer|1866|1856
+William Fryer|1822|1885
+Matilda Oakford Fryer|1849|1847
 <!------>
-George Fryer  | 1880 | 1824
-Mary Jane Fryer | 1896 | 1832
-Armer Patten Fryer | 1866 | 1858
-Roberta Maud Fryer | 1875 | 1857
+George Fryer|1880|1824
+Mary Jane Fryer|1896|1832
+Armer Patten Fryer|1866|1858
+Roberta Maud Fryer|1875|1857
 <!------>
-Mattie May [Smith] | 1865 | 1888
+Mattie May [Smith]|1865|1888
 <!------>
-James Murray |  1847 | -43
-Jane D. Murray | 1840 | -65
+James Murray|1847|1804
+Jane D. Murray|1840|1775
 <!------>
-Edward Croft | 1825 | -59
-Susan D. Croft | 1825 | -25.
+Edward Croft|1825|1766
+Susan D. Croft|1825|1800
 <!------>
 Mrs. Ellen Lane
 <!------>
-Mrs. Mary Fagan | 1807 | 1836
-Mary [Fagan] | 1836 | 1836
+Mrs. Mary Fagan|1807|1836
+Mary [Fagan]|1836|1836
 <!------>
-Robert Barr | 1845 | -52
+Robert Barr|1845|1793
 <!------>
-Robert Andrews | 1859 | -57
-Joseph Andrews | 1865 | -22
+Robert Andrews|1859|1802
+Joseph Andrews|1865|1843
 <!------>
-Samuel Clendenin| 1859|
+Samuel Clendenin|1859|
 <!------>
-Edward Freeman | 1836 |  1864
+Edward Freeman|1836|1864
 <!------>
-J. Miller Freeman | 1823 | 1856
-Elizabeth H. Freeman | 1821 | 1879
-J.M. Freeman | 1854-1896
+J. Miller Freeman|1823|1856
+Elizabeth H. Freeman|1821|1879
+J.M. Freeman|1854|1896
 <!------>
-Lucretia Maclællan | 18__ | -3
+Lucretia Maclaellan|18__|15
 <!------>
-Rebecca Paysont | 1861. | -75
+Rebecca Paysont|1861|1786
 <!------>
-[No name found on this stone] | 1801 | 1849
+[No name found on this stone]|1801|1849
 <!------>
-John M. Mcintosh | 1829 | -49
-Joseph Mcintosh | 1841 |-32
+John M. Mcintosh|1829|1780
+Joseph Mcintosh|1841|1809
 <!------>
-Samuel Taylor | 1816 |-34
+Samuel Taylor|1816|1782
 <!------>
-Elizabeth [Porter] | 1851 | -71
+Elizabeth [Porter]|1851|1780
 <!------>
 Elizabeth daughter of (Indecipherable) 
 <!------>
-Charles W. Stevens, Sr. | 1810 |  1887
-Anna E. Stevens |  1832 | 1900
+Charles W. Stevens, Sr.|1810|1887
+Anna E. Stevens|1832|1900
 <!------>
-Martha Melntire | 1846
-Thomas Mclntire | 1873 | -60
+Martha Melntire|1846|0
+Thomas Mclntire|1873|1813
 <!------>
 [An indecipherable stone]
 <!------>
-Captn Robert Bae | 1839 | -54 [monument] 
-Jane Inness | 1856 | -56
-Sallie Bae | 1853 | -20 
-John S. Henry Bae | 1823 | -5
-Emma M. Bae | 1828 | 1827
-Mary Olivia Bae | 1836 | -6
-Anna Jennette Bae | 1836 | -9
+Captn Robert Bae|1839|1785
+Jane Inness|1856|1800
+Sallie Bae|1853|1833
+John S. Henry Bae|1823|1818
+Emma M. Bae|1828|1827
+Mary Olivia Bae|1836|1830
+Anna Jennette Bae|1836|1827
 <!------>
-John Henry Bae | 1823 | -4
+John Henry Bae|1823|1819
 <!------>
-Harriet H. Hill | 1837 | -31
+Harriet H. Hill|1837|1806
 <!------>
-Archibald [Coxe] | 1850 | 1850
+Archibald [Coxe]|1850|1850
 <!------>
-Henry B. Tiller | 1831 | -10
-Henrietta B. [Stillman] [nee Tiller] | 1866  | -28
-Christiana [Tiller] | 1875 | -77
-Charlton Henry Stillman | 1863 | 1867
-Samuel Tiller | 1798 | 1880
+Henry B. Tiller|1831|1821
+Henrietta B. [Stillman] [nee Tiller]|1866|1838
+Christiana [Tiller]|1875|1798
+Charlton Henry Stillman|1863|1867
+Samuel Tiller|1798|1880
 <!------>
-Alexander Bobb |  1840 | -31
-Georgianna [Bay] |1833 | -19
+Alexander Bobb|1840|1809
+Georgianna [Bay]|1833|1814
 <!------>
-Joseph Roberts | 1853 | -63
+Joseph Roberts|1853|1790
 <!------>
-A.C.H. McLanahan | July 22d 1847 | -34
+A.C.H. McLanahan|1847|1813
 <!------>
-William Caull | 1846 | -76
+William Caull|1846|1770
 <!------>
-Francis Ropes | |
+Francis Ropes||
 <!------>
-Julia A. [Schofield] | 1852 | -3
+Julia A. [Schofield]|1852|1849
 <!------>
-Lizzie L. [Shaler [?]] [nee Schofield] | July 25, i860 | -29
+Lizzie L. [Shaler [?]] [nee Schofield]|1860|1831
 <!------>
-Lane Schofield | 1866 |-78
-Mary B. Schofield | 1869 | -66
+Lane Schofield|1866|1788
+Mary B. Schofield|1869|1803
 <!------>
-Capt. Robert P. Phillips | 1839 | -38
-Ann L. [Phillips] | 1889 | -84
+Capt. Robert P. Phillips|1839|1801
+Ann L. [Phillips]|1889|1805
 <!------>
-Joseph Thomson | 1815 -60
-William Henry [Thomson]| 1815 | 1811
+Joseph Thomson|1815|1755
+William Henry [Thomson]|1815|1811
 <!------>
-Robert L. Irvine |  1845 | -25 2 mo & 2 days
+Robert L. Irvine|1845|1820
 <!------>
 Kingston
 <!------>
 Ch_______S N____son
 <!------>
-Edward K. Prichett | 1839 | -34
+Edward K. Prichett|1839|1805
 <!------>
-Margaret [Hinchman] | 1857 | -28
+Margaret [Hinchman]|1857|1829
 <!------>
-Emeline Hanes | 1879 | -52
-Catharine [Yapp] | 1886 | -68
+Emeline Hanes|1879|1827
+Catharine [Yapp]|1886|1818
 <!------>
-John Hanes | 1841 | -57
-Ann Hanes |  1835 | -13
-Elizabeth Hanes | 1870 | -78
+John Hanes|1841|1784
+Ann Hanes|1835|1822
+Elizabeth Hanes|1870|1792
 <!------>
-Mary Todd | 1875 | -70
+Mary Todd|1875|1805
 <!------>
 Katie
 <!------>
-Mary A. [Bowland] | 1866 | -53 and 16 days
-William Bowland, Jr. | 1810 | 1871
+Mary A. [Bowland]|1866|1813
+William Bowland, Jr.|1810|1871
 <!------>
-Elizabeth Spencer Bowland | 1836 | -2
-Benjamin Bowland | 1811 | -2
-James Asa Bowland | 1851 | -3
+Elizabeth Spencer Bowland|1836|1834
+Benjamin Bowland|1811|1809
+James Asa Bowland|1851|1848
 <!------>
-Catharine Jane [...] | 1838 | -28
+Catharine Jane [...]|1838|1810
 <!------>
-Ebenezer Martin | 1833| -81
+Ebenezer Martin|1833|1752
 <!------>
-James Martin | 1844 | -38
-Eliza [Martin] | 1882 | -76
-Margaret Martin | 1839 | -7
+James Martin|1844|1806
+Eliza [Martin]|1882|1806
+Margaret Martin|1839|1832
 <!------>
-______ ______ | 1835 |
+______ ______|1835|
 <!------>
-James Wheaton Smith | 1823 | 1900
-Sarah Wilbur Smith |  1831 | 1899
-Henry W. Smith | 1853 | 1863
-Emma W. Smith | 1855 | 1870
-MilaFrances Smith | 1860 | 1908
+James Wheaton Smith|1823|1900
+Sarah Wilbur Smith|1831|1899
+Henry W. Smith|1853|1863
+Emma W. Smith|1855|1870
+MilaFrances Smith|1860|1908
 <!------>
-Margie Price |  1853 | -18
-Kate Price | 1852 | 1860
+Margie Price|1853|1835
+Kate Price|1852|1860
 <!------>
-John Evil | 1813 | -56
-Mary Ann Evil | 1819 | -56
+John Evil|1813|1757
+Mary Ann Evil|1819|1763
 <!------>
-Eliza Lower | 1868 | -53
+Eliza Lower|1868|1815
 <!------>
-Noah Smith |  1846 | -43
-Charlotte Smith | 1851 | -53
+Noah Smith|1846|1803
+Charlotte Smith|1851|1798
 <!------>
-Joseph Ashton Dean | 1797 | 1817
+Joseph Ashton Dean|1797|1817
 <!------>
-Lydia S. Moore | 1857 | -76 
-Charles G. Moore | 1864 | -22
+Lydia S. Moore|1857|1781
+Charles G. Moore|1864|1842
 <!------>
-Lieut. Marine C. Moore | 1837 | 1862 
-K. Moore | 1866 | -63
-Phebe C. Moore | 1871 | -70
+Lieut. Marine C. Moore|1837|1862
+K. Moore|1866|1803
+Phebe C. Moore|1871|1801
 <!------>
-Caroline R. Estlaek | 1812 | 1881
+Caroline R. Estlaek|1812|1881
 <!------>
-Sarah E. [Kelter] [nee Hewlings] | 1846 | 1874
+Sarah E. [Kelter] [nee Hewlings]|1846|1874
 <!------>
-Sarah McFaden | 1836 | -18
-Capt. William McFaden | 1753 (?) | 1839
-Sarah [McFaden] |  1857 | -70
+Sarah McFaden|1836|1818
+Capt. William McFaden|1753 (?)|1839
+Sarah [McFaden]|1857|1787
 <!------>
-Henry Tolbert | 1855 | -53
-Sarah [Tolbert] | 1874 -86
+Henry Tolbert|1855|1802
+Sarah [Tolbert]|1874|1788
 <!------>
-Jacob Tolbert | 1865 | -43
-Peter Tolbert | 1868 | -37
-Henry Tolbert | 1883 | -63
+Jacob Tolbert|1865|1822
+Peter Tolbert|1868|1831
+Henry Tolbert|1883|1820
 <!------>
-Mary A. [Stineford] | 1865 | -48
-William Stineford | 1871 | -60
+Mary A. [Stineford]|1865|1817
+William Stineford|1871|1811
 <!------>
-our Children |
+our Children ||
 <!------>
-James McCauley | 1866 | -36
+James McCauley|1866|1830
 <!------>
-Samuel Davidson | 1856| -25
+Samuel Davidson|1856|1831
 <!------>
-Robert Bates | 1871 | -65
-Mary [Bates] | 1879 | -34
-Mary [Bates] | | -89
+Robert Bates|1871|1806
+Mary [Bates]|1879|1845
+Mary [Bates]|0|-89
 <!------>
-Emma [Bates] | 1839 | 1870
+Emma [Bates]|1839|1870
 <!------>
-Margaret [ Shaw] | 1863 
-John E. [ Shaw] 1840 | 
-ohn Tyler [ Shaw] 1841
-Charies Owen | 1849 | 
-Wm. H. Harrison | 1859 
-Edgar Davlin  |1862
+Margaret [ Shaw]|1863|0
+John E. [ Shaw]|1840|0
+ohn Tyler [ Shaw]|1841|0
+Charies Owen|1849|0
+Wm. H. Harrison|1859|0
+Edgar Davlin|1862|0
 <!------>
-William Graham | 1842 (?) | -51
-Mary [Graham] | 1847 (?) | -37 
+William Graham|1842|1791
+Mary [Graham]|1847|1810
 <!------>
 Emma...
 <!------>
-Mr. James Black | 1843 (?) | -42 [Verse]
+Mr. James Black|1843|1801
 <!------>
-James Page | 1853 | 
-Thomas Page | 1849 | 
-Robert Page | 1852 | 
-Mrs. Jane Page | 1892
+James Page|1853|
+Thomas Page|1849|
+Robert Page|1852|
+Mrs. Jane Page|1892|0
 <!------>
-Emma A. Snyder  |  Nov 21st. 1874 | -23
+Emma A. Snyder|1874|1851
 <!------>
-John Henry Ashton | 1833 | -2 and 22 days
-William Ashton | 1833 | 1833
+John Henry Ashton|1833|1831
+William Ashton|1833|1833
 <!------>
-... | June 21st (?) 1841 (?) | AET 21.
+...|1841|1820
 <!------>
 Judith [Tarswell]
 <!------>
-Joseph Wiltberger | 1836 | -38
-Bebecca [Wiltberger] | 1840 | -38
-Mary C. Wiltberger | 1839 | -17.
+Joseph Wiltberger|1836|1798
+Bebecca [Wiltberger]|1840|1802
+Mary C. Wiltberger|1839|1822
 <!------>
-Joseph E. Huekel | 1833| -18
+Joseph E. Huekel|1833|1815
 <!------>
-William Sheldon | 1851 | 1857
-Herbert Bradford | 1856 | 1857
+William Sheldon|1851|1857
+Herbert Bradford|1856|1857
 <!------>
-Mrs Isabella G. Hartman | 1852 | -30
-Mary Lybrand | 1846 | -19
-Joanna | 1852 | -19
-Wesley | 1838 | -8
-Edward | 1842 | -2
-Lizzie H. | 1863
+Mrs Isabella G. Hartman|1852|1822
+Mary Lybrand|1846|1827
+Joanna|1852|1833
+Wesley|1838|1830
+Edward|1842|1840
+Lizzie H.|1863|0
 <!------>
-John Lachaussee Bujac | 1844 | -82
+John Lachaussee Bujac|1844|1762
 <!------>
-P. Julius Bujac | 1854 | -52
+P. Julius Bujac|1854|1802
 <!------>
-Celeste Bobein Bujac | 1833 | -57
+Celeste Bobein Bujac|1833|1776
 <!------>
 [Monument: single name; indecipherable]
 <!------>
-Sarah B. [Dito] | 1835| -17.
-Sherry Dito |  1853| -61.
-John M. Dito | 1860| -30
-Sarah | Sherry Dito | 1796
+Sarah B. [Dito]|1835|1818
+Sherry Dito|1853|1792
+John M. Dito|1860|1830
+Sarah Sherry Dito|1796|
 <!------>
-William Jones | 1842 | -64
-Julia [Jones] | 1847 | -51
+William Jones|1842|1778
+Julia [Jones]|1847|1796
 <!------>
-John Reynolds Jr. | -17 
-John Reynolds | -57 
-Marion R. Stuart | -25
-William Reynolds | -32
-Marion S. Reynolds | -64
-Kate W. Reynolds | -42
-Wm Reynolds | -45
-Ann Reynolds || -1
-John Read | -30
-Josiah Warren | -39
-Wm Reynolds Jr. | -13
-Hugh Reynolds | -21
+John Reynolds Jr.|0|-17
+John Reynolds|0|-57
+Marion R. Stuart|0|-25
+William Reynolds|0|-32
+Marion S. Reynolds|0|-64
+Kate W. Reynolds|0|-42
+Wm Reynolds|0|-45
+Ann Reynolds|0|-1
+John Read|0|-30
+Josiah Warren|0|-39
+Wm Reynolds Jr.|0|-13
+Hugh Reynolds|0|-21
 <!------>
-Margaret [Keyser] | 1781|184—
-Jacob Keyser |  1859 | -79
+Margaret [Keyser]|1781|184--
+Jacob Keyser|1859|1780
 <!------>
-Ann Eliza [Palmer] | 1837 | 1841 [ ?]
-William G. Palmer | 1804 | 1847
-Mrs Eliza Bartling | 1788 | 1837
+Ann Eliza [Palmer]|1837|1841 [ ?]
+William G. Palmer|1804|1847
+Mrs Eliza Bartling|1788|1837
 <!------>
-John Newell |  | -50
+John Newell|0|-50
 <!------>
-Robert Leemming Newell | 18— | -3
-Charles C. Henry |  1850| -3
+Robert Leemming Newell|18--|15
+Charles C. Henry|1850|1847
 <!------>
-Susanna Lee | 1834 | -89.
+Susanna Lee|1834|1745
 <!------>
-John Floyd | 1847 | -70
-Mrs. Ann Floyd | 1777 | 1876
-William Taylor | 1805 | 1869
-Jane Taylor | 1817 | 1894
-Ellen L. Taylor | 1907
+John Floyd|1847|1777
+Mrs. Ann Floyd|1777|1876
+William Taylor|1805|1869
+Jane Taylor|1817|1894
+Ellen L. Taylor|1907|0
 <!------>
-Rudolph Dietz | 1858 | -68
-Marie Anne Cesarine |  1854 | -72
-Marie Emma [Dietz] |  1874 | -58
+Rudolph Dietz|1858|1790
+Marie Anne Cesarine|1854|1782
+Marie Emma [Dietz]|1874|1816
 <!------>
-Ann Phyfe | 1830 | -25
-William F. Phyfe | 1842 | -40.
-Jane Phyfe | 1845 | -78
+Ann Phyfe|1830|1805
+William F. Phyfe|1842|1802
+Jane Phyfe|1845|1767
 <!------>
-Catharine McMillin |  1825 | -82
-Catharine Monroe | 1827 | -45
-John Gordon | 1810 | -32.
-Catharine Gordon | 1829 | -20
-Catharine A. Phyfe | 1830 | 1909
+Catharine McMillin|1825|1743
+Catharine Monroe|1827|1782
+John Gordon|1810|1778
+Catharine Gordon|1829|1809
+Catharine A. Phyfe|1830|1909
 <!------>
-Susannah Paul |  1845 | -84
-Thomas Lancaster | 1771 | 1858
+Susannah Paul|1845|1761
+Thomas Lancaster|1771|1858
 <!------>
-Mary Elizabeth Paul |  1838 | -24
-Robert Sturgeon | 1837 | 1836
+Mary Elizabeth Paul|1838|1814
+Robert Sturgeon|1837|1836
 <!------>
-John Stowers | |
+John Stowers||
 <!------>
-Jacob Miller | 18— | -59
-Henry Carey McKean | 1850|
+Jacob Miller|18??|13
+Henry Carey McKean|1850|
 <!------>
-Henry Carey McKean | 1825 | 1830
-Elizabeth Maria McKean | 1834 | 1836
-William McKean | 1794 | 1845
-William Henry McKean | 1836 | 1854
+Henry Carey McKean|1825|1830
+Elizabeth Maria McKean|1834|1836
+William McKean|1794|1845
+William Henry McKean|1836|1854
 <!------>
-Bartholomew Bees | 1839 | -40
-Margaret [Bees] | 1850 | -43
-Francis Bitchie | 1856 | -78
-Margaret C. Bees | 1856 | 1854
-Margaret C. Bees | 1858 | 1857
-Isabella Bees | 1887 | -51
+Bartholomew Bees|1839|1799
+Margaret [Bees]|1850|1807
+Francis Bitchie|1856|1778
+Margaret C. Bees|1856|1854
+Margaret C. Bees|1858|1857
+Isabella Bees|1887|1836
 <!------>
-William A.E. Bees | 1872 | 1875
-Andrew J. Bees | 1828 | 1881
-William A. E. Bees | 1830 | 1890
-Adaline Baird Bees | 1832 | 1901
-Alexander Baird Bees | 1852 | 1901
-Louisa E. Bees | 1859 | 1902
+William A.E. Bees|1872|1875
+Andrew J. Bees|1828|1881
+William A. E. Bees|1830|1890
+Adaline Baird Bees|1832|1901
+Alexander Baird Bees|1852|1901
+Louisa E. Bees|1859|1902
 <!------>
-Isaiah Dixey | Age 97 
-Mary Dixey | age 77
-Charles Goldey | 1882 | Age 57
-Charles A. Goldey | 1887 | Age 34
-Mary Goldey Stokes | 1909 | Age 82
+Isaiah Dixey|0|-97
+Mary Dixey|0|-77
+Charles Goldey|1882|1825
+Charles A. Goldey|1887|1853
+Mary Goldey Stokes|1909|1827
 <!------>
-Bosanna [Bell] | 1832 | -28
+Bosanna [Bell]|1832|1804
 <!------>
-George C. [Bell] | 1858 | -10 7 mo.
-Nina Esler [Bell]| 1871 | 1871
+George C. [Bell]|1858|1848
+Nina Esler [Bell]|1871|1871
 <!------>
 Scottish Strangers
 <!------>
-John Bell | 1841 | -52
-Julia Ann Bell |1798 | 1855
+John Bell|1841|1789
+Julia Ann Bell|1798|1855
 <!------>
-Anthony B. Gemeny | 1800 | 1852
+Anthony B. Gemeny|1800|1852
 <!------>
-Martha Watson | 1847 | -38
+Martha Watson|1847|1809
 <!------>
-Juliana Simpson | 1836 | -84
-Juliana Wood | 1836 | -58
-<!------>
-[An indecipherable stone]
-<!------>
-Bichard Colvin | 1830
-<!------>
-Margaret Barnholt | 1838| -49
-Dorothy Barnholt | 1842 | -49
-<!------>
-Sarah [Rennie] | 1837 | -3
-Arthur [Rennie] | 1823 | 1841
-Sarah James | 1843; -47
-Jane [Rennie] | 1847 | -28
-James Rennie | 1864 | -34
-<!------>
-Peter H. Scull | 1815 | 1866
-Joseph Davis | 1825 | 1888
-Margaret [Davis] | 1827 | 1895
-<!------>
-Melina [Bobb] | 1821 | 1848
-Thomas Bobb |  1811 |  1872 
-Charles South Bobb | 1845 | 1853
-Charles C. [Bobb] |  1843 | 1845
-Annie Cope  [Bobb] | | -1
-Henry Eagleson [Bobb] | 1863 | -3
-<!------>
-Anna M. Griffis | 1812 | 1872
-John L. Griffis, Jr. | 1847 | 1856
-<!------>
-Hannah Clark | 1780 | 1830
-Margaret Q. Clark |  1811 | 1875
-Elizabeth Eyre Griffis | 1806 | 1890
-<!------>
-Martha Weigand |  1850 | -17
-<!------>
-Hannah Coates | 1828 | -43
-<!------>
-Edwin A. Tresse | 1866 | -40
-Catharine S. Cathell | 1893
-<!------>
-James McKibbin | 1828 -47
-Francis Wrigly  | 1829 -86
-John Johnson | 1829 -42
-Elias S. Pennell | 1833 -25
-Charles Dyball | 1834 -34
-Nicholas Fink | July, 1836 -57
-John Mcllvane |  1836 | -57
-John Colerick | 1837 | -33
-George Jacobs | 1841 | -27
-Samuel E. Piper |  1843 | -24
-James McCarran |  1845 | -26
-Cornelia Mellvaine |  1828 | -6
-Catherine Wrigly | 1851 | -80
-Catharine Colerick | 1857 | -61
-Susan Johnston | 1839  |-53
-Arthur Colerick | 1812 |-37
-T. Peter Delas | 1851 | -32  
-<!------>
-Hannah Diamond | 1821 | -31
-Robert Diamond | Mar 22d 1812
-Eleanor Diamond | 1792 | 1818
-<!------>
-Hugh Diamond Sr | 1837 | -81
-Alexander Diamond | 1797 | 1850
-Hugh [Diamond] | 1841 | 1845
-George Humes Diamond | 1836 | -29
-Hugh Diamond Jr | 1842 | -37
-Rebecca [Diamond] | 1844 | -2
-<!------>
-Thomas M. [Brown] | 1877 | age 26
-George W. Brown | 1880 | -67
-Mary C. [Brown] | 1900
-Thomas Brown sr |  1836 | -68
-<!------>
-Catharine [Brown] |  1856 | -78
-Harriet [Brown] | 1853 | -46
-<!------>
-Ann Louisa [Wright] | 1835 | -5 & 24 days
-Samuel Paul [Wright] | 1837 | -2 2 mos. & 2 days
-Mary Ann [Wright] | 1840 | 1838 
-John Wright | 1788 | 1861
-<!------>
-Edmund Wright | 1828 | -32
-<!------>
-Elizabeth Wright | 1804 | 1850
-Robert J. Wright. D.D.L.L.D. | 1824 | 1890
-Joseph Wright | 1792 | 1858
-Josephine A. Wright | 1830 | 1863
-<!------>
-Alexander M. Mairs | 1841 |  1874
-<!------>
-John Mercer | 1795 | 1867 
-Jane Mercer | 1803 | 1886
-<!------>
-George D. Otter |  1871 | 1883
-Jane E. Hand | 1836 | 1886
-<!------>
-Henry A. Pintard | 1822—1913 |
-<!------>
-Capt Michael Hopkins | 1841 | -85
-Eliza Hopkins | 1773 | 1846
-Stephen Henry Pintard | 1813 | 1851
-Jacques Henry Pintard | 1784 | 1868.
-<!------>
-Mary Richardson [Miller] | 1869 | -11
-<!------>
-Georgianna S. Luzenburg | 1836 | 1872 
-<!------>
-William [Blackburne] | 1834 | 1877
-<!------>
-William Blackburne |  1783 | 1858
-James [Blackburne] | 1838 | 1875.
-<!------>
-Sarah Blackburne | 1828
-<!------>
-Catharine Peterman  |   1843 | -63 & 9 days
-George Peterman, Sr. | 1772 | 1863 
+Juliana Simpson|1836|1752
+Juliana Wood|1836|1778
 <!------>
 [An indecipherable stone]
 <!------>
-Mary Sullivan | 1838 | -34
+Bichard Colvin|1830|0
+<!------>
+Margaret Barnholt|1838|1789
+Dorothy Barnholt|1842|1793
+<!------>
+Sarah [Rennie]|1837|1834
+Arthur [Rennie]|1823|1841
+Sarah James|1843|1796
+Jane [Rennie]|1847|1819
+James Rennie|1864|1830
+<!------>
+Peter H. Scull|1815|1866
+Joseph Davis|1825|1888
+Margaret [Davis]|1827|1895
+<!------>
+Melina [Bobb]|1821|1848
+Thomas Bobb|1811|1872
+Charles South Bobb|1845|1853
+Charles C. [Bobb]|1843|1845
+Annie Cope  [Bobb]|0|-1
+Henry Eagleson [Bobb]|1863|1860
+<!------>
+Anna M. Griffis|1812|1872
+John L. Griffis, Jr.|1847|1856
+<!------>
+Hannah Clark|1780|1830
+Margaret Q. Clark|1811|1875
+Elizabeth Eyre Griffis|1806|1890
+<!------>
+Martha Weigand|1850|1833
+<!------>
+Hannah Coates|1828|1785
+<!------>
+Edwin A. Tresse|1866|1826
+Catharine S. Cathell|1893|0
+<!------>
+James McKibbin|1828|1781
+Francis Wrigly|1829|1743
+John Johnson|1829|1787
+Elias S. Pennell|1833|1808
+Charles Dyball|1834|1800
+Nicholas Fink|1836|1779
+John Mcllvane|1836|1779
+John Colerick|1837|1804
+George Jacobs|1841|1814
+Samuel E. Piper|1843|1819
+James McCarran|1845|1819
+Cornelia Mellvaine|1828|1822
+Catherine Wrigly|1851|1771
+Catharine Colerick|1857|1796
+Susan Johnston|1839|1786
+Arthur Colerick|1812|1775
+T. Peter Delas|1851|1819
+<!------>
+Hannah Diamond|1821|1790
+Robert Diamond |1812|0
+Eleanor Diamond|1792|1818
+<!------>
+Hugh Diamond Sr|1837|1756
+Alexander Diamond|1797|1850
+Hugh [Diamond]|1841|1845
+George Humes Diamond|1836|1807
+Hugh Diamond Jr|1842|1805
+Rebecca [Diamond]|1844|1842
+<!------>
+Thomas M. [Brown]|1877|1851
+George W. Brown|1880|1813
+Mary C. [Brown]|1900|0
+Thomas Brown sr|1836|1768
+<!------>
+Catharine [Brown]|1856|1778
+Harriet [Brown]|1853|1807
+<!------>
+Ann Louisa [Wright]|1835|1830
+Samuel Paul [Wright]|1837|1835
+Mary Ann [Wright]|1840|1838
+John Wright|1788|1861
+<!------>
+Edmund Wright|1828|1796
+<!------>
+Elizabeth Wright|1804|1850
+Robert J. Wright. D.D.L.L.D.|1824|1890
+Joseph Wright|1792|1858
+Josephine A. Wright|1830|1863
+<!------>
+Alexander M. Mairs|1841|1874
+<!------>
+John Mercer|1795|1867
+Jane Mercer|1803|1886
+<!------>
+George D. Otter|1871|1883
+Jane E. Hand|1836|1886
+<!------>
+Henry A. Pintard|1822|1913
+<!------>
+Capt Michael Hopkins|1841|1756
+Eliza Hopkins|1773|1846
+Stephen Henry Pintard|1813|1851
+Jacques Henry Pintard|1784|1868
+<!------>
+Mary Richardson [Miller]|1869|1858
+<!------>
+Georgianna S. Luzenburg|1836|1872
+<!------>
+William [Blackburne]|1834|1877
+<!------>
+William Blackburne|1783|1858
+James [Blackburne]|1838|1875
+<!------>
+Sarah Blackburne|1828|0
+<!------>
+Catharine Peterman|1843|1780
+George Peterman, Sr.|1772|1863
 <!------>
 [An indecipherable stone]
 <!------>
-Samuel Carels, Senr | 18— | -68
-Samuel [Carels] | 1826| -31
-Joseph [Carels] | 1835| -30
-Mary [Carels] | 1840 | -74
-Margaret H. Carels | 1850 | 1849
-Frank H. Carels | 1853 | 1853
-William Carels | 1854. -11
-George G.N. Carels, Jr. | 1867 | -25
-George Carels, Sr. | 1857 | -47.
-Ann E. Carels | 189 look this up |  -79
-Hannah Edwards |  1798 | 1888.
+Mary Sullivan|1838|1804
 <!------>
-James Edwards | ... . 1837 | -45
+[An indecipherable stone]
 <!------>
-Charles Titus | |-4
+Samuel Carels, Senr|18--|-68
+Samuel [Carels]|1826|1795
+Joseph [Carels]|1835|1805
+Mary [Carels]|1840|1766
+Margaret H. Carels|1850|1849
+Frank H. Carels|1853|1853
+William Carels|1854|1843
+George G.N. Carels, Jr.|1867|1842
+George Carels, Sr.|1857|1810
+Ann E. Carels|189 look this up|110
+Hannah Edwards|1798|1888
 <!------>
-Darius Hutchinson | 1868 | -65
-Rebecca Hutchinson | 1874 | -65
-Benjamin S. Hutchinson | 1868 | -26
-Joseph H. Hutchinson | 1864 | -18
-Lewetta P. Hutchinson | 1865 | -15
+James Edwards|1837|1792
 <!------>
-David W. Prescott | 1800 | 1874
-Susan Austin [Prescott] | 1805 | 1893
+Charles Titus|0|-4
 <!------>
-Martha Prescott | 1828 | 1852 
+Darius Hutchinson|1868|1803
+Rebecca Hutchinson|1874|1809
+Benjamin S. Hutchinson|1868|1842
+Joseph H. Hutchinson|1864|1846
+Lewetta P. Hutchinson|1865|1850
 <!------>
-James Wm. [Prescott] | J u ... 1856 | A ... 8 mo. & ... 
+David W. Prescott|1800|1874
+Susan Austin [Prescott]|1805|1893
 <!------>
-Lucy T. Prescott | 1833 | -35[verse]
+Martha Prescott|1828|1852
 <!------>
-Mrs Margaret Hopson | 1856 | -65
+James Wm. [Prescott]|1856|?
 <!------>
-Sarah Ann Kelly | 1851 | -26
+Lucy T. Prescott|1833|1798
 <!------>
-James B. Campbell | 1835 | 1848
+Mrs Margaret Hopson|1856|1791
 <!------>
-James Banford | 1848 | -67
-Martha [Banford] | 1856 | -68
+Sarah Ann Kelly|1851|1825
 <!------>
-Lewis Roberts | June 14, (?) 1835 | -53
+James B. Campbell|1835|1848
 <!------>
-Sophia C. Alexander | 1856| -19
+James Banford|1848|1781
+Martha [Banford]|1856|1788
 <!------>
-James Skerrett | 1815 | -78
-Elizabeth [Skerrett] | 1844 | -79
-Elizabeth A. Bonsall | 1848 | -24
-William A. Skerrett | 1831 | -61 
-Elizabeth Skerrett | 1800 | 1879
+Lewis Roberts|1835|1782
 <!------>
-James F. Gallbreath | 1874 | in his 85, year
+Sophia C. Alexander|1856|1837
 <!------>
-Thomas T. [Gallbreath] | 1853 | in his 6, year
-Harry B. [Gallbreath] | 1878 | in his 19, year
+James Skerrett|1815|1737
+Elizabeth [Skerrett]|1844|1765
+Elizabeth A. Bonsall|1848|1824
+William A. Skerrett|1831|1770
+Elizabeth Skerrett|1800|1879
 <!------>
-David Thaeher | 1830 | -64
-Eunice Noble Thaeher | 1842 | -68
+James F. Gallbreath|1874|1789
 <!------>
-Peter L. Combe | 183— | 
-Auguste DeSentuary | 1858 | -32.
+Thomas T. [Gallbreath]|1853|1847
+Harry B. [Gallbreath]|1878|1859
 <!------>
-David McClean | 1869 | -68
-Martha [McClean] | 1854 | -54
-Ann [McClean] | 1840 | -17
-John Parr [McClean] | 1851 | -14
-David Parker [McClean] | 1864 | -4
+David Thaeher|1830|1766
+Eunice Noble Thaeher|1842|1774
 <!------>
-J. Christian Kline | 1850 | -56
-Catharine Kline |  1806 | 1876 
+Peter L. Combe|183-|176
+Auguste DeSentuary|1858|1826
 <!------>
-Benoit B. Bolin | 1792 |  1852
-Abelard [Bolin] |  1849 | 1850
+David McClean|1869|1801
+Martha [McClean]|1854|1800
+Ann [McClean]|1840|1823
+John Parr [McClean]|1851|1837
+David Parker [McClean]|1864|1860
+<!------>
+J. Christian Kline|1850|1794
+Catharine Kline|1806|1876
+<!------>
+Benoit B. Bolin|1792|1852
+Abelard [Bolin]|1849|1850
 <!------>
 Capt. Benj. Brooker
 Elizabeth Brooker
 <!------>
 George Son of
 <!------>
-Mr. John Watkins | -50
-Mrs. Margaret Watkins | 1833 | -36.
+Mr. John Watkins|0|-50
+Mrs. Margaret Watkins|1833|1797
 <!------>
 Bernard Connor
-Margaret Connor | 1830
+Margaret Connor|1830|0
 <!------>
-Samuel [Gordon] | 1806 | 1805
-Rebecca Ann [Gordon] | 1825 | -16
-Sarah [Gordon] | 1828 | -54
-Thomas S. [Gordon] | 1829 | -26
-Robert [Gordon] | 1841 | -32
-Ann Jane [Gordon] |  1856| -22
-Margaret  [Gordon] | 1847 | -53
-Henry Gordon | 1866 | -91
+Samuel [Gordon]|1806|1805
+Rebecca Ann [Gordon]|1825|1809
+Sarah [Gordon]|1828|1774
+Thomas S. [Gordon]|1829|1803
+Robert [Gordon]|1841|1809
+Ann Jane [Gordon]|1856|1834
+Margaret  [Gordon]|1847|1794
+Henry Gordon|1866|1775
 <!------>
-Mary [Solomon] | 1829 | -46
-Edward King [Solomon] | |-1
+Mary [Solomon]|1829|1783
+Edward King [Solomon]|0|-1
 <!------>
-Benjamin Caullet | 1831 | -58
-Victor Caullet | 1832 | 1868
+Benjamin Caullet|1831|1773
+Victor Caullet|1832|1868
 <!------>
-Sarah [Caullet] | 1859 | -66
-Mary Ann [Caullet] | 1859 | -35
+Sarah [Caullet]|1859|1793
+Mary Ann [Caullet]|1859|1824
 <!------>
-Benjamin Caullet | 1882 | -48 
-Elizabeth Dewees | 1788 | 1861
-John Tennent | 1786 |  1873
+Benjamin Caullet|1882|1834
+Elizabeth Dewees|1788|1861
+John Tennent|1786|1873
 <!------>
-George Morkman |  1832 | -42
-Martha J. Stevens | 1815 | 1874
-Rev. Thomas G. Allen | 1794 | 1868
-Margaret O. [Allen] | 1792 | 1860
+George Morkman|1832|1790
+Martha J. Stevens|1815|1874
+Rev. Thomas G. Allen|1794|1868
+Margaret O. [Allen]|1792|1860
 <!------>
-Col. Bichard Anderson | 1752 | 1836
+Col. Bichard Anderson|1752|1836
 <!------>
-John D. Wickham | 1829 |-11
-Oswald [Wickham] | 1854 | -30
-Jane M. Jaques [Wickham] | 1862 | -76
+John D. Wickham|1829|1818
+Oswald [Wickham]|1854|1824
+Jane M. Jaques [Wickham]|1862|1786
 <!------>
-John Barber | 1780 | 1838
-Hannah [Barber]| 1782 | 1853
-John Walter [Barber]| 1836 | 1860 
-Hannah N. Barber | 1881 | -60
+John Barber|1780|1838
+Hannah [Barber]|1782|1853
+John Walter [Barber]|1836|1860
+Hannah N. Barber|1881|1821
 <!------>
-James Birch | 1847
+James Birch|1847|0
 <!------>
-John Hamilton |1844 | -55
-Thomas B. Harned | 1837 | -23
-John B. Harned | 1841 | -25
-Harriet Murrow | 1845 | -49
+John Hamilton|1844|1789
+Thomas B. Harned|1837|1814
+John B. Harned|1841|1816
+Harriet Murrow|1845|1796
 <!------>
-Virginia Mary Brooks | 1832 | 1837
+Virginia Mary Brooks|1832|1837
 <!------>
-Geni. Bichard Charles Parish | 1837 | -32
+Geni. Bichard Charles Parish|1837|1805
 <!------>
-Ella [Steeb] | |-1
-Adele Justina [Steeb] | | 0
+Ella [Steeb]|0|-1
+Adele Justina [Steeb]|0|0
 <!------>
-Frederick Steeb | 1795 |  1852
-Justina Steeb | 1787 | 1870
+Frederick Steeb|1795|1852
+Justina Steeb|1787|1870
 <!------>
-James Summerfield | 1834 | -70
-Nathaniel Wyman | -8 and 3 days
-Elizabeth [Summerfield] |  1863 | 1763
+James Summerfield|1834|1764
+Nathaniel Wyman|0|-8
+Elizabeth [Summerfield]|1863|1763
 <!------>
-James Summerfield | 1843 | -44
-Hannah [Summerfield] | 1806 | 1861
-Rosanna [Hines] | 1851 | -7
+James Summerfield|1843|1799
+Hannah [Summerfield]|1806|1861
+Rosanna [Hines]|1851|1844
 <!------>
-Henry E. Berrell |  1847 | -25
+Henry E. Berrell|1847|1822
 <!------>
-Mary Lytle | Feby 1st 1861 | -76
-Mary D. Morrison | 1867 | -45
+Mary Lytle|1861|1785
+Mary D. Morrison|1867|1822
 <!------>
-William Morrison | 1837 | -8
-Thomas Morrison |  1873 | -74
-Sarah Morrison |  1879 | -54
+William Morrison|1837|1829
+Thomas Morrison|1873|1799
+Sarah Morrison|1879|1825
 <!------>
-Mrs Mary Drummond | 1837 | -77 
+Mrs Mary Drummond|1837|1760
 <!------>
-Eliza [Gable] | 1834 
-_____ Eliza Gable
+Eliza [Gable] |1834|
+_____ Eliza Gable||
 <!------>
-Benjamin Sexton | 1852 | -56
-George Washington Sexton | 1854 | -51
-Mary Thaw | 1794 | 1882
+Benjamin Sexton|1852|1796
+George Washington Sexton|1854|1803
+Mary Thaw|1794|1882
 <!------>
-Jared Sexton |1817
+Jared Sexton |1817|
 <!------>
-Emeline B. Sexton |  1810 | 1857
-Stephen B. Sexton | 1804 | 1872
+Emeline B. Sexton|1810|1857
+Stephen B. Sexton|1804|1872
 <!------>
-Mrs Margaret Brooks | 1832 ...
-Jane Lewis | 1834| -23
+Mrs Margaret Brooks|1832|0
+Jane Lewis|1834|1811
 <!------>
-Samuel Gouldy | 1824 | 1847
-Mary Gouldy |  1847 | -63
+Samuel Gouldy|1824|1847
+Mary Gouldy|1847|1784
 <!------>
-Rebecca [Gouldey] | 1876 | -70
-Charles Gouldey | 1878 | -74. 
-Samuel Bumm | 1827 | -34
-Sarah [Bumm] | 1841 | -43
-Joseph Surridge | 1834 | -38.
+Rebecca [Gouldey]|1876|1806
+Charles Gouldey|1878|1804
+Samuel Bumm|1827|1793
+Sarah [Bumm]|1841|1798
+Joseph Surridge|1834|1796
 <!------>
-Thomas Rogers |  1801 | 1848
+Thomas Rogers|1801|1848
 <!------>
-Mary Rogers | 1880 | -80
-Thomas W. Rogers | 1834 | 1905
+Mary Rogers|1880|1800
+Thomas W. Rogers|1834|1905
 <!------>
-John Rogers |  1881 | -54
+John Rogers|1881|1827
 <!------>
-John Martin | 1822 | -41
-John S. [Martin] | 1833 | -11
-Elizabeth D. [Whitford] [nee Martin] | 1844 | -24
+John Martin|1822|1781
+John S. [Martin]|1833|1822
+Elizabeth D. [Whitford] [nee Martin]|1844|1820
 <!------>
-William H. Imlay | 1837 | -15
+William H. Imlay|1837|1822
 <!------>
-George J. Ewing | 1830 | -32.
+George J. Ewing|1830|1798
 <!------>
-Thomas Edward Wills | 1808 | 1872
-Mary Louisa Wills | 1830 | 1877
-Martha [Wills] [nee Veacock] | 1809 | 1844
+Thomas Edward Wills|1808|1872
+Mary Louisa Wills|1830|1877
+Martha [Wills] [nee Veacock]|1809|1844
 <!------>
-Capt Thos Wills | 1830 | -6
+Capt Thos Wills|1830|1824
 <!------>
-Alexander E. Lipman | 1834 | -15
-Mary Louise [Earle] | 1848 | -3
-George Earle | 1851 | -35.
+Alexander E. Lipman|1834|1819
+Mary Louise [Earle]|1848|1845
+George Earle|1851|1816
 <!------>
-Phoebe [Lipman] | 1840 | -18
-Lewis Lipman | 1842 | -62
+Phoebe [Lipman]|1840|1822
+Lewis Lipman|1842|1780
 <!------>
-Eliza [Earle] | 1906 | -84
-Emily [Earle] | 1868 | -18
+Eliza [Earle]|1906|1822
+Emily [Earle]|1868|1850
 <!------>
-Archibald W. [Burns] | 1865
-Gertrude P. [Burns] | 1867
-Mary [Burns] | 1873.
+Archibald W. [Burns]|1865|0
+Gertrude P. [Burns]|1867|0
+Mary [Burns]|1873|0
 <!------>
-William Burns M.D. | 1831 | -75
-Sarah Burns | 1839 | -72 
-Isaac Wilkins Burns | 1840 | -46
-Bethea [Burns] | 1854
+William Burns M.D.|1831|1756
+Sarah Burns|1839|1767
+Isaac Wilkins Burns|1840|1794
+Bethea [Burns]|1854|0
 <!------>
-Frederick Gantzert | 1849 | -46
+Frederick Gantzert|1849|1803
 <!------>
-Catharine [Greble] | 1836 | -66
-William Greble | 1852 | -83
-James Greble | 1833 | -40
-Louisa [Greble] | 1833 | 1832
-Lewis Greble | 1812 | 1844
+Catharine [Greble]|1836|1770
+William Greble|1852|1769
+James Greble|1833|1793
+Louisa [Greble]|1833|1832
+Lewis Greble|1812|1844
 <!------>
-Willie | -5
+Willie|0|-5
 <!------>
-Rebecca S. Philley  | 1816 | 1846
+Rebecca S. Philley|1816|1846
 their infant daughter [Philley]
 <!------>
 [An indecipherable stone]
 <!------>
-William Dick | 1831 | -55
-Dr John B. Dick | Novr 17, 1803 | 1833
-Margaret Dick |  1851 | -76.
+William Dick|1831|1776
+Dr John B. Dick|1803|1833
+Margaret Dick|1851|1775
 <!------>
-John Savage | 1854 | -69 
-John Savage | 1853 | -52
-Adelaide H. Savage | 1882 | -73
-Anne Dana Savage | 1859 | 1879
-John Savage | 1896 | -64 
-Isabella Swift Savage | 1903 | -70
+John Savage|1854|1785
+John Savage|1853|1801
+Adelaide H. Savage|1882|1809
+Anne Dana Savage|1859|1879
+John Savage|1896|1832
+Isabella Swift Savage|1903|1833
 <!------>
-John Goodin | 1856 | -63 
-Elizabeth Goodin | 1855 | -61.
-Wm Harry [Goodin] | 1850 | 1850
-Emily [Goodin] | 1852 | 1852
+John Goodin|1856|1793
+Elizabeth Goodin|1855|1794
+Wm Harry [Goodin]|1850|1850
+Emily [Goodin]|1852|1852
 <!------>
-Eleanor Williamson | 1828 | -40
-Edward L. Williamson | 1845 | -27
-Loranah Tittermary | 1832 | -71
-Thomas Jefferson | 1863 | -61
+Eleanor Williamson|1828|1788
+Edward L. Williamson|1845|1818
+Loranah Tittermary|1832|1761
+Thomas Jefferson|1863|1802
 <!------>
-Jeremiah James | 1795 | 1851
-Amanda Dugan | 1827 | 1827
-Washington Nice | 1831 | 1836
+Jeremiah James|1795|1851
+Amanda Dugan|1827|1827
+Washington Nice|1831|1836
 <!------>
 John ___art___fass____||
 <!------>
-Susan Polhemus | 1832 | -82
-Major John Polhemus | 1740 | 1831
+Susan Polhemus|1832|1750
+Major John Polhemus|1740|1831
 <!------>
-Udizinga Mosschert | 1808 | 1831
+Udizinga Mosschert|1808|1831
 ____castina Heroicam.one [?]
 <!------>
-Alice [Bockius] |  1836 | -32
-William Bockius | 1848 | -68
-Jane W. [Bockius] |  1856 | -31
-Mary Ann  [Bockius] | 1857 | -40
+Alice [Bockius]|1836|1804
+William Bockius|1848|1780
+Jane W. [Bockius]|1856|1825
+Mary Ann  [Bockius]|1857|1817
 <!------>
-Julia E. [Johnston] | 1823 | -21
+Julia E. [Johnston]|1823|1802
 Isabella I.
 <!------>
-Michael Powers | 1835 | -20.
+Michael Powers|1835|1815
 <!------>
-John Hardy | 1787 | 1869
-Ann Crockett | 1870 | -73
-John Crockett Hardy | 1875 | -51
+John Hardy|1787|1869
+Ann Crockett|1870|1797
+John Crockett Hardy|1875|1824
 <!------>
-John Hardy Senr | 27, 1832 [I] | -68
+John Hardy Senr|1832|1791
 <!------>
-Amelia Louderback | 1851 | -75
-Harris Louderback | 1800 | 1866
+Amelia Louderback|1851|1776
+Harris Louderback|1800|1866
 <!------>
-Mary M. Femington | 1837 | -31
-George W. Pascal | 1875 | -24
-Ann [Pascal] | 1853 | -70
-Captain John Pascal | 1784| 1806
-Thomas M. Femington | 1806 | 1862
+Mary M. Femington|1837|1806
+George W. Pascal|1875|1851
+Ann [Pascal]|1853|1783
+Captain John Pascal|1784|1806
+Thomas M. Femington|1806|1862
 <!------>
-Lydia Morris Shields [Malcom] | 1797 | 1832
-Thomas Morris Shields | 1799 | 1845
-Robert Shields | 1771 [ r 1774] | 1816
-Mary H. Shields | 1777 | 1827
-Sarah A. Shields | 1889 | -82
-William J. Shields | 1890 | -84
+Lydia Morris Shields [Malcom]|1797|1832
+Thomas Morris Shields|1799|1845
+Robert Shields|1771 [ r 1774]|1816
+Mary H. Shields|1777|1827
+Sarah A. Shields|1889|1807
+William J. Shields|1890|1806
 <!------>
-Johnston Skinner | 1828 | -45
-Sarah Galbraith Phyfe | 1839 | 1838
-James Greig Skinner | 1842 | -21
-Helen G. English | 1837 | 1895
+Johnston Skinner|1828|1783
+Sarah Galbraith Phyfe|1839|1838
+James Greig Skinner|1842|1821
+Helen G. English|1837|1895
 <!------>
-Edward Lane Glentworth | 1838 | 1836
-Agnes G. Glentworth | 1841 |  1865
-Jennet Glentworth | 1807 | 1872
-Sarah Galbraith | 1804 | 1876
-Anna G. Galbraith | 1814 | 1882
-Annie Wylie Phyfe | 1851 | 1872
+Edward Lane Glentworth|1838|1836
+Agnes G. Glentworth|1841|1865
+Jennet Glentworth|1807|1872
+Sarah Galbraith|1804|1876
+Anna G. Galbraith|1814|1882
+Annie Wylie Phyfe|1851|1872
 <!------>
-Patrick Galbraith | 1832 | -66
-Elizabeth Galbraith | 1849 | -72
-William Forbes Phyfe | 1839 | 1839
-The Babe | 1849 | 1849
-Helen T. Phyfe | 1817 | 1884
-Robert Phyfe | 1805 | 1890
+Patrick Galbraith|1832|1766
+Elizabeth Galbraith|1849|1777
+William Forbes Phyfe|1839|1839
+The Babe|1849|1849
+Helen T. Phyfe|1817|1884
+Robert Phyfe|1805|1890
 <!------>
-Peter Galbraith | 1826 | -17
-Mrs Ann Wylie | 1851 | -89
+Peter Galbraith|1826|1809
+Mrs Ann Wylie|1851|1762
 <!------>
-Mary [Peale] | 1829 | -76
-James Peale | 1831 | -82
-Maria G. Peale | 1866, -78
-James Peale | 1876 |-88
-Sophonisba Peale | 1878 | -78
-Anna G. Duncan |  1878 | -87
-Margaretta A. Peale | 1882. -86
-Sarah M. Peale | 1885. -85
+Mary [Peale]|1829|1753
+James Peale|1831|1749
+Maria G. Peale|1866|1788
+James Peale|1876|1788
+Sophonisba Peale|1878|1800
+Anna G. Duncan|1878|1791
+Margaretta A. Peale|1882|1796
+Sarah M. Peale|1885|1800
 <!------>
-Jane McLaughlein | 1827 | -29
+Jane McLaughlein|1827|1798
 <!------>
-Capt. Albert Coffin | 1811 | -68
-Capt. James A. Coffin | 1801 | 1847
-Martha G. Coffin | 1858 -80
-Lewis B. Coffin | 1859| -39
+Capt. Albert Coffin|1811|1743
+Capt. James A. Coffin|1801|1847
+Martha G. Coffin|1858|1778
+Lewis B. Coffin|1859|1820
 <!------>
-Almira [Coffin] | 1828 | 1828
-Louis A. Coffin | 
+Almira [Coffin]|1828|1828
+Louis A. Coffin ||
 <!------>
-Samuel [Fiss] | 1840 | 1839
-Eleanor Fiss | 1848 | -5
-Susanna [Fiss] | 1855 | -10.
+Samuel [Fiss]|1840|1839
+Eleanor Fiss|1848|1843
+Susanna [Fiss]|1855|1845
 <!------>
-Andrew Esterlon | 1830 | -62
-Ann [Esterlon] | 1866 | -81
+Andrew Esterlon|1830|1768
+Ann [Esterlon]|1866|1785
 <!------>
-Margaret C.A. [Dickson] | 1849 | -38
-Thomas H. Dickson | Mar 2d 1806 | 1861
-Hugh Beid [Dickson] | Jan 22d 1841 | 1871.
+Margaret C.A. [Dickson]|1849|1811
+Thomas H. Dickson|1806|1861
+Hugh Beid [Dickson]|1841|1871
 <!------>
-Elizabeth W. Dickson | 1850 | -78
-Hugh Dickson | 1856 | -85.
+Elizabeth W. Dickson|1850|1772
+Hugh Dickson|1856|1771
 <!------>
-Joseph B. Dickson | 1827 | -25
-Samuel C. Dickson | 1829 | -26
-Alexander W. Dickson |  1841| -22
+Joseph B. Dickson|1827|1802
+Samuel C. Dickson|1829|1803
+Alexander W. Dickson|1841|1819
 <!------>
-William P. Beard | 1845 | -18
-Mrs Ann Beard | 1868 | -74
+William P. Beard|1845|1827
+Mrs Ann Beard|1868|1794
 <!------>
-Charles C. Mansell | 1845 | -18.
+Charles C. Mansell|1845|1827
 <!------>
-P. E. Meinadier | 1844 |
+P. E. Meinadier|1844|
 <!------>
-Josh Commarque | 1844 | -90	
+Josh Commarque|1844|1754
 <!------>
-James Gibson | 1853 | -94.
+James Gibson|1853|1759
 <!------>
-[An indecipherable stone] | 1828
+[An indecipherable stone]|1828|0
 <!------>
-Captn Thomas Taylor |  1854 | -67.
+Captn Thomas Taylr|1854|1787
 <!------>
-Mary | 1828, | -32
+Mary|1828,|1796
 <!------>
-Alexander Malloch | 1797|1841 
+Alexander Malloch|1797|1841
 <!------>
-William H. [Malloch] | 1821|1848
+William H. [Malloch]|1821|1848
 <!------>
-Joseph M. La____ | | -31
+Joseph M. La____|0|-31
 <!------>
 Richard Merrick
 Samuel Louderback 
@@ -1697,616 +1698,622 @@ Robert M. Patton
 <!------>
 Eleanor [Conner]
 Alice [Conner]
-Thomas Conner |  1802 | 1877
-Mary Louisa [Conner] | 1802 |   1895
-Maria Theresa | 1827 | 1900
-Ellen Josephine | 1836 | 1910
-Marcella | 1831 | 1912
+Thomas Conner|1802|1877
+Mary Louisa [Conner]|1802|1895
+Maria Theresa|1827|1900
+Ellen Josephine|1836|1910
+Marcella|1831|1912
 <!------>
-Thomas Durant | 1798 | 1842
-Anne Durant | 1801 | 1866
-Elizabeth A. Bolin | 1822 | 1848
-John B. Durant | 1828 | 1854
-William H. Durant | 1830 | 1858
-Charles Durant | 1837 | 1872
-Thomas F. Durant | 1826 | 1886
+Thomas Durant|1798|1842
+Anne Durant|1801|1866
+Elizabeth A. Bolin|1822|1848
+John B. Durant|1828|1854
+William H. Durant|1830|1858
+Charles Durant|1837|1872
+Thomas F. Durant|1826|1886
 Maria (infant)
 Emily L. (infant)
 <!------>
-Matthias B. Clark | 1811|1834
-Mary Baser | 1815 | 1834
-Elizabeth Wall | 1771 | 1840 
-Charles W. Clark | Feb 1st. 1851 | 1851
-George Wall | 1771 | 
-Eliza Wall |1797 | 1876
+Matthias B. Clark|1811|1834
+Mary Baser|1815|1834
+Elizabeth Wall|1771|1840
+Charles W. Clark|1851|1851
+George Wall|1771|
+Eliza Wall|1797|1876
 <!------>
-Ann Clark | 1793 | 1872
-John C. Clark | 1787 | 1882
-Mary A. Clark | 1884
+Ann Clark|1793|1872
+John C. Clark|1787|1882
+Mary A. Clark|1884|0
 <!------>
-Elizabeth H. [Birch] | 1851
+Elizabeth H. [Birch]|1851|0
 <!------>
 Lizzie
 <!------>
-James Armstrong | 1841 | -56
-Bebecca Armstrong | 1860|-91
+James Armstrong|1841|1785
+Bebecca Armstrong|1860|1769
 <!------>
-[Stone broken off] | 185 loop up
+[Stone broken off]|185-loop up|
 <!------>
-Elizabeth [Cornell] | 1836 | 1843
-Albert Cornell |
+Elizabeth [Cornell]|1836|1843
+Albert Cornell||
 <!------>
-John Wilbank | 1830 | -13
-Emma Matilda Wilbank |  1832 | -7
-Clara Caroline Wilbank | 1863 | -4
+John Wilbank|1830|1817
+Emma Matilda Wilbank|1832|1825
+Clara Caroline Wilbank|1863|1859
 <!------>
-Tirzah Brooks| Jan 22nd. 1831 | -76
-Elizabeth Brooks Thompson | 1801 | 1889
+Tirzah Brooks|1831|1755
+Elizabeth Brooks Thompson|1801|1889
 <!------>
-James E. Brooks | 1799 | 1850
-Mary | 1807 | 1832
-Capt. Oliver Brooks | 1796 |1848
-Sarah [Brooks] | 1802 | 1847
+James E. Brooks|1799|1850
+Mary|1807|1832
+Capt. Oliver Brooks|1796|1848
+Sarah [Brooks]|1802|1847
 <!------>
-Samuel [Brooks] | 1839 | -11
+Samuel [Brooks]|1839|1828
 <!------>
-Sarah Cornish | 1839 | -2
-Benjamin Allen | 1839 | 1839
-Henry Clay | 1845 | 1845
+Sarah Cornish|1839|1837
+Benjamin Allen|1839|1839
+Henry Clay|1845|1845
 <!------>
-John McFee Jr. | 1863 | -39.
-Frances L.C. McFee | 1887 | -55
+John McFee Jr.|1863|1824
+Frances L.C. McFee|1887|1832
 <!------>
-Little Cynthia | 1851 | 1855
+Little Cynthia|1851|1855
 <!------>
-Charles B. Corson | |
-Charles S. Corson | 18— | 0
-Hamilton Corson | |0
-James J. Corson | 1842 | 0
-Adaline F. Corson | 1848 | 1
+Charles B. Corson||
+Charles S. Corson|18--|17
+Hamilton Corson||0
+James J. Corson|1842|0
+Adaline F. Corson|1848|1
 <!------>
-Charles Harvey | 1783 | 1831
-Mary Harvey | 1790 | 1868
+Charles Harvey|1783|1831
+Mary Harvey|1790|1868
 <!------>
-James _____ | | -4
+James _____||-4
 <!------>
-Napoleon Stanton | 1833 |  1855
+Napoleon Stanton|1833|1855
 <!------>
-James C. Boyd | 1838 | 1808
-Clara [Boyd] | 1838 |
+James C. Boyd|1838|1808
+Clara [Boyd]|1838|
 <!------>
-Isaac B. De-Young | 1867 | -71
-Mary A. [De-Young] | 1844 | -39
+Isaac B. De-Young|1867|1796
+Mary A. [De-Young]|1844|1805
 <!------>
-Elizabeth [Deyoung] | 1855 | -2
-Mary De-Young | | -2
+Elizabeth [Deyoung]|1855|1853
+Mary De-Young||-2
 <!------>
-Robert Sims | 1837 | -68
-Elizabeth Sims | 1834 | -55
+Robert Sims|1837|1769
+Elizabeth Sims|1834|1779
 <!------>
-George ____ Johnson | 1838 | -2
+George ____ Johnson|1838|1836
 <!------>
-Thomas Hill | 1837 | -44
-Samuel Say | 1815 | -42
-Samuel [Say] |  1829 | -25
-Mary [Say] | 1830 | -50.
-Mary [Hill] | 1842 | -36. 
-Rebecca [Say] | 1836 | -28.
+Thomas Hill|1837|1793
+Samuel Say|1815|1773
+Samuel [Say]|1829|1804
+Mary [Say]|1830|1780
+Mary [Hill]|1842|1806
+Rebecca [Say]|1836|1808
 <!------>
-Helen [Trask] | 1844 | -31.
+Helen [Trask]|1844|1813
 <!------>
-Barry Hartwell | 1835 | -36
+Barry Hartwell|1835|1799
 <!------>
-John Tompson | 1856 | -50
+John Tompson|1856|1806
 |
 <!------>
-Thomas I Bi—rk—t [sic] | 1856
+Thomas I Bi--rk--t [sic]|1856|
 <!------>
-Charles H. Evans | 1836 | -36
+Charles H. Evans|1836|1800
 <!------>
-Elizabeth Ducamp | 1771 | 1851
-George P. Headman | 1832 | 1859
+Elizabeth Ducamp|1771|1851
+George P. Headman|1832|1859
 <!------>
-Jacob Strembeck | 1841 | -86
-Catharine [Strembeck] |  1846 | -81
+Jacob Strembeck|1841|1755
+Catharine [Strembeck]|1846|1765
 <!------>
 Otho Hamilton Wemyss
 Iolia Mary Strembeck Wemyss
 <!------>
-John H. Alcock | 1827 | -33
-Mary W. [Alcock] | 1849 | -48
-Robert T. Pancoast | 1852 | -37.
+John H. Alcock|1827|1794
+Mary W. [Alcock]|1849|1801
+Robert T. Pancoast|1852|1815
 <!------>
-Rachel [Innes] | 1830 | -54
-Joseph Innes | 1830 | -54
-Joseph Innes | 1834 | -70
+Rachel [Innes]|1830|1776
+Joseph Innes|1830|1776
+Joseph Innes|1834|1764
 <!------>
-R. S. Potter | 1854 | -47.
+R. S. Potter|1854|1807
 <!------>
-Jamesanna [Matlack] | 1859 | 1859
-Anna S. Matlack | 1844 | -6
+Jamesanna [Matlack]|1859|1859
+Anna S. Matlack|1844|1838
 <!------>
-Peter Agustus | 1833 | 1835
-George H. Kerrison | 1831 | 1837
+Peter Agustus|1833|1835
+George H. Kerrison|1831|1837
 <!------>
-Ann Priest | 1839 | -68
-George Priest | 1845 | -70
-Aaron Priest | 1846 | -31
+Ann Priest|1839|1771
+George Priest|1845|1775
+Aaron Priest|1846|1815
 <!------>
-Anne Seguin |  1842| -6
-Arthur Seguin | 1843 | -2
+Anne Seguin|1842|1836
+Arthur Seguin|1843|1841
 <!------>
-James W. Eccles | 1843 | -48
-Elizabeth [Eccles] | 1858 | -58
-James Eccles | 1845 | -18
+James W. Eccles|1843|1795
+Elizabeth [Eccles]|1858|1800
+James Eccles|1845|1827
 <!------>
-Henry Eolfe | 1848 | -51.
+Henry Eolfe|1848|1797
 <!------>
-Isabell McDonald |1837 | 1839
-Samuel Smith | 1830 | -57
+Isabell McDonald|1837|1839
+Samuel Smith|1830|1773
 <!------>
-Amelia [Cronin] | 1846 | -62
+Amelia [Cronin]|1846|1784
 <!------>
-Miss Jane S. Burke | 1844 | -15
+Miss Jane S. Burke|1844|1829
 <!------>
-Mrs. Mary Gamble | 1845 | -47.
+Mrs. Mary Gamble|1845|1798
 <!------>
-Samuel L. Garrett | 1818 | 1881
-Mary A. Garrett | 1823 | 1884
+Samuel L. Garrett|1818|1881
+Mary A. Garrett|1823|1884
 <!------>
-Ellen Duane Steedman | 1851 | -3
+Ellen Duane Steedman|1851|1848
 <!------>
-James Ronaldson | 1841 | -72
+James Ronaldson|1841|1769
 <!------>
-Janet Bonaldson | 1834 |
+Janet Bonaldson|1834|
 <!------>
-Richard Ronaldson | 1863, | -91
+Richard Ronaldson|1863,|1772
 <!------>
-William Pusey | 1839
-Mary A. Pusey Meeds | 1876
+William Pusey|1839|0
+Mary A. Pusey Meeds|1876|0
 <!------>
 Elizabeth Fult | [indecipherable]
 <!------>
-Thomas Andrews[?] ||
+Thomas Andrews[?]||
 <!------>
-Frances Andrews[?] | 1834
+Frances Andrews[?]|1834|0
 <!------>
-Elizabeth Levis Tanner | 1819 | 1877
-John Tanner. M.D. | 1809 | 1892
+Elizabeth Levis Tanner|1819|1877
+John Tanner. M.D.|1809|1892
 <!------>
-John Barney | 1778 | 1844
-Margaret Barney |  1853 | -76
+John Barney|1778|1844
+Margaret Barney|1853|1777
 <!------>
-Augustine E. Peale |  1819 | 1856
-Virginia Peale | 1867 | -39
+Augustine E. Peale|1819|1856
+Virginia Peale|1867|1828
 <!------>
-Hannah Perkins  | 1841 [9] | -63.
-Charles Perkins |  1834 | -11
-William A.[?] Perkins | 1833 | -10
-Thomas J. Perkins | 1847 | -31
+Hannah Perkins|1841 [9]|1778
+Charles Perkins|1834|1823
+William A.[?] Perkins|1833|1823
+Thomas J. Perkins|1847|1816
 <!------>
-John B. Bernadou | 1860 | -85.
-Henriette Fontaine [Bernadou] | 1867 |
+John B. Bernadou|1860|1775
+Henriette Fontaine [Bernadou]|1867|
 <!------>
-Frances Adele [Bernadou] |  1815 | -17
-John B. [Bernadou] | 1816 | -30
-Edward [Bernadou] | 1850 | -31
+Frances Adele [Bernadou]|1815|1798
+John B. [Bernadou]|1816|1786
+Edward [Bernadou]|1850|1819
 <!------>
 Edward G. Harris |  1852
 Caroline C. Harris |  1871
 J. Bernadou Harris |  1871
-Virginia M. Harris | 1872
+Virginia M. Harris|1872|0
 <!------>
-Frances Louise Sarmiento [Grimm] | 1892
+Frances Louise Sarmiento [Grimm]|1892|0
 <!------>
-Ezekiel Harlan | 1797 | 1835
+Ezekiel Harlan|1797|1835
 <!------>
-John Lewis |  1845 | -31.
+John Lewis|1845|1814
 John
 <!------>
-Sarah Lewis | 1844 | 1844
-Catharine [_____]| 1850 | -34.
+Sarah Lewis|1844|1844
+Catharine [_____]|1850|1816
 <!------>
-Eliza [Levy] | 181847 | -42
-Abraham Levy | 1847 | -45
-Charles Henry Levy | 1853 | -20.
+Eliza [Levy]|181847|181805
+Abraham Levy|1847|1802
+Charles Henry Levy|1853|1833
 <!------>
-Mrs. Sarah Phillips |  1750 | 1800
-Elisha H. Allen | | -2
-[A blank line] | 1839 | -19
+Mrs. Sarah Phillips|1750|1800
+Elisha H. Allen||-2
+[A blank line]|1839|1820
 Lucy B. [Marks]
-Elizabeth Lusk || -75
+Elizabeth Lusk||-75
 <!------>
 Mrs Ann Catharine Neville
 Adelaide Olivia Neville
 Imogene Alcesta Neville
 Mrs Aurelia Neville
-Frederick A. Neville | 1877 | -73
+Frederick A. Neville|1877|1804
 <!------>
-Sophia Dickinson |  1800 | 1842
+Sophia Dickinson|1800|1842
 <!------>
-Matthew Porter | 1836.| -29
+Matthew Porter|1836|1807
 <!------>
-Daniel Morrison | 1836 | -25
+Daniel Morrison|1836|1811
 <!------>
-William Henry [Williams] | -6
+William Henry [Williams]|0|-6
 Thomas N [Williams]
 Charles [Williams]
 Eliza Ann [Williams]
 <!------>
-John A. Hamilton | 1843 | -49
+John A. Hamilton|1843|1794
 <!------>
-Andrew Hamilton |  1839 -28
+Andrew Hamilton|1839|1811
 <!------>
-Samuel C. Atkinson | 1862 | -68
-Capt. Geo. P. Finney | 1891 | -64
+Samuel C. Atkinson|1862|1794
+Capt. Geo. P. Finney|1891|1827
 <!------>
-James Campbell | 1794 | 1874
+James Campbell|1794|1874
 <!------>
-Malvina A. [Campbell] | 1804 | 1849
+Malvina A. [Campbell]|1804|1849
 <!------>
-Virginia | 1840 | 1847
+Virginia|1840|1847
 <!------>
-Hermann Jansen | 1813 |  1840
+Hermann Jansen|1813|1840
 <!------>
-Ann Crosby |  1842 -48
+Ann Crosby|1842|1794
 <!------>
 Lewis
 <!------>
-Benjamin F. Perry | 1842 | -26.
+Benjamin F. Perry|1842|1816
 <!------>
-Maria Snider |  1835 | -51
-Jacob Snider, Sr. | 1786 | 1871
+Maria Snider|1835|1784
+Jacob Snider, Sr.|1786|1871
 <!------>
-Susie L. [Whelan] | 1874 | -16
-Eli W. Whelan |  1880 | -65
-Mariann C. [Whelan] | 1899 | -79
+Susie L. [Whelan]|1874|1858
+Eli W. Whelan|1880|1815
+Mariann C. [Whelan]|1899|1820
 <!------>
-Sarah [Lafferty] [nee Shisler] | 1837 | -30
+Sarah [Lafferty] [nee Shisler]|1837|1807
 <!------>
-John Wiley | 1864 | -75
-Elizabeth [Wiley] | 1859 | -65
-Miss Eliza J.I. Wiley | 1837 | -24.
+John Wiley|1864|1789
+Elizabeth [Wiley]|1859|1794
+Miss Eliza J.I. Wiley|1837|1813
 <!------>
-Bebecca Biddle | 1837 | -64.
+Bebecca Biddle|1837|1773
 <!------>
-Bosanas Arthurs | 1843| -23
+Bosanas Arthurs|1843|1820
 <!------>
-Leonora S. Price | 1841 | 1841
-Josephine L. Price | 1843 | 1843
-Capt. Joseph G. Price | 1844 | -29
+Leonora S. Price|1841|1841
+Josephine L. Price|1843|1843
+Capt. Joseph G. Price|1844|1815
 <!------>
-James Saunders | 1841 | -26
+James Saunders|1841|1815
 <!------>
-George D. Biggar | 1847 | -33
+George D. Biggar|1847|1814
 <!------>
-James ____ Weaver | |
+James ____ Weaver||
 <!------>
-Isabella Weaver | 1806 | 1865
-Elija h J. Weaver | 1804 | 1874
+Isabella Weaver|1806|1865
+Elija h J. Weaver|1804|1874
 <!------>
-James B. Frampton | 1812 | 1847
+James B. Frampton|1812|1847
 <!------>
-William H. Boyd | 1841|-35
+William H. Boyd|1841|1806
 <!------>
-Albert Duy Oat | 1844 | 1843
-Bichard L. Oat | 1843 | -33
-Bichard L. Oat | 1850 | -5
+Albert Duy Oat|1844|1843
+Bichard L. Oat|1843|1810
+Bichard L. Oat|1850|1845
 <!------>
-Annie G. Sproule | | 0
+Annie G. Sproule||0
 <!------>
-Jane [Stuart] | 1848 -28
-Mary Jane Stuart | 1845 |  1861
+Jane [Stuart]|1848|1820
+Mary Jane Stuart|1845|1861
 <!------>
-Eliza [Simons] | 1840 | -30
+Eliza [Simons]|1840|1810
 <!------>
-Cornelia Smith | 1865
+Cornelia Smith|1865|0
 <!------>
-Harrison Hudson Rowbotham | 1837 | -42
+Harrison Hudson Rowbotham|1837|1795
 <!------>
-Imogene L. McClellan | Jan 9, 18_9 | 1862
+Imogene L. McClellan|18_9|1862
 <!------>
-Frederick Seiser | 1777 | 1858
-John Seiser | 1799 | 1880
-Julianna Seiser |  1803 | 1888
-William F. Seiser | 1835 | 1860
-Emma Louisa Seiser | A u g 3, 1837 |  1841
+Frederick Seiser|1777|1858
+John Seiser|1799|1880
+Julianna Seiser|1803|1888
+William F. Seiser|1835|1860
+Emma Louisa Seiser|1837|1841
 <!------>
-Mary Jane Crease | 1838 | 1837
+Mary Jane Crease|1838|1837
 <!------>
-William C. Freeman |  1831 | 1825
-Joseph B. Freeman | 1836 | 1803
-John Freeman | 1841 | 1835
+William C. Freeman|1831|1825
+Joseph B. Freeman|1836|1803
+John Freeman|1841|1835
 <!------>
-William H. Clark |  1812 | 1842
+William H. Clark|1812|1842
 <!------>
-Robert S. Munier | 1840 | 1818
+Robert S. Munier|1840|1818
 <!------>
-Robert King | 1803 | 1832
+Robert King|1803|1832
 <!------>
-Mary Ann Lawrence | 1838 | -32
+Mary Ann Lawrence|1838|1806
 <!------>
-Samuel Cass | 1840 | -29
+Samuel Cass|1840|1811
 <!------>
-Mary Helwick |  1837 | -49 
-Charles Mercier | 1852 | -75
-Jane [Mercier] |  1848 | -81
+Mary Helwick|1837|1788
+Charles Mercier|1852|1777
+Jane [Mercier]|1848|1767
 <!------>
-Augustine Carri[?] | 1836| 
+Augustine Carri[?]|1836|
 <!------>
-Henry Freenman [Baler[?]] | 1843 | 1843
+Henry Freenman [Baler[?]]|1843|1843
 <!------>
-Jemima Wamaling [Andrews] | 1884 | -78
-Mary Andrews |  1870 | -96.
+Jemima Wamaling [Andrews]|1884|1806
+Mary Andrews|1870|1774
 <!------>
-William Otter | 1829 | 1875
-Sarah Jane Otter |  1831 | 1862
-Emma Jane Otter | 1850 | 1857
-Bachael Gallagher | 1799 | 1875
-Elizabeth Evans | 1765 | 1862
+William Otter|1829|1875
+Sarah Jane Otter|1831|1862
+Emma Jane Otter|1850|1857
+Bachael Gallagher|1799|1875
+Elizabeth Evans|1765|1862
 <!------>
-John Cross | 1801 | 1830
+John Cross|1801|1830
 <!------>
-William B. Norfleet |  1848 | -21
+William B. Norfleet|1848|1827
 <!------>
-Archibald Sloan | 1811| 1851 
+Archibald Sloan|1811|1851
 <!------>
-Emureth A. Ferguson | 1852 | -45
+Emureth A. Ferguson|1852|1807
 <!------>
-Nicolas Constant G-auvin | 1847 | -82.
+Nicolas Constant G-auvin|1847|1765
 <!------>
 Hypolite Martin
 <!------>
 Harriet M. Williams
-Capt. Andrew M. Williams | 1844 | -76.
+Capt. Andrew M. Williams|1844|1768
 <!------>
 ________ Thomas _____tghel _____ 
-Elijah Johnson | 1842 | -61 6 mo. & 29 days.
+Elijah Johnson|1842|1781
 <!------>
-Grace [Brown[?]] | 1839 | -36
+Grace [Brown[?]]|1839|1803
 <!------>
-George F. Lehman, M.D. | 1859
-Catharine [Lehman] | 1875
-Lehman F. Gurney | 1896
-Frances Lehman | 1835
-Catharine Taylor [nee Lehman] | 1880
-Caroline M. Pancoast [nee Lehman] | 1900.
-H. DeCourcy Brolasky |  1887
+George F. Lehman, M.D.|1859|0
+Catharine [Lehman]|1875|0
+Lehman F. Gurney|1896|0
+Frances Lehman|1835|0
+Catharine Taylor [nee Lehman]|1880|0
+Caroline M. Pancoast [nee Lehman]|1900|0
+H. DeCourcy Brolasky|1887|0
 <!------>
-Thaddeus Wentworth | 1867 | -74
-Albert S. Wentworth | 1859 | -25
-Thaddeus C. Wentworth |1836 | -12
-Watson W. Wentworth | 1841 | -19
+Thaddeus Wentworth|1867|1793
+Albert S. Wentworth|1859|1834
+Thaddeus C. Wentworth|1836|1824
+Watson W. Wentworth|1841|1822
 <!------>
-William Henry [Thompson] | 1846 | 
-Eliza Morasso | 1863 | -60
+William Henry [Thompson]|1846|0
+Eliza Morasso|1863|1803
 <!------>
-Lewis Grousillat | 1836
-Lewis Grousillat | 1848
-Margaret Grousillat | 1868
+Lewis Grousillat|1836|0
+Lewis Grousillat|1848|0
+Margaret Grousillat|1868|0
 <!------>
-Mason Hutchins | 1796 | 1866
+Mason Hutchins|1796|1866
 <!------>
-James Thompson | 1799 | 1837
+James Thompson|1799|1837
 <!------>
-Mrs Mary Livingston | 1830 | -46
+Mrs Mary Livingston|1830|1784
 <!------>
-Martha Mayberry | July | -71
-Robert Mayberry | 1854 | -48
+Martha Mayberry|?|-71
+Robert Mayberry|1854|1806
 <!------>
 Mrs Margaret [Ansler] | 1842 [ ?]
 <!------>
-John Malcom |  ------, 1836| -36
+John Malcom|------|1836
 <!------>
-James Conley | _____ | ______
+James Conley|_____|______
 <!------>
-Hannah Perkins | Jan 17 | -63
+Hannah Perkins|?|-63
 <!------>
 Charles Perkins
 <!------>
 William A. Perkins
 <!------>
-Thomas J. Perkins | 1847 | 1843
+Thomas J. Perkins|1847|1843
 <!------>
-Juliana North |  1837 | 1853
+Juliana North|1837|1853
 <!------>
-Catharine Marshall | 1832| -46
+Catharine Marshall|1832|1786
 <!------>
-Foxhall Alexander Parker, Sen. | 1788 | 1830
-Sarah Jay Parker |  1793 | 1860
+Foxhall Alexander Parker, Sen.|1788|1830
+Sarah Jay Parker|1793|1860
 <!------>
-Juliet Oetavia [Parker] | 1820 |  1836
-Virginia Adela [Eldridge] | 1841 | 1842
-Robert Bogardus [Parker] | 1818 | 1842
+Juliet Oetavia [Parker]|1820|1836
+Virginia Adela [Eldridge]|1841|1842
+Robert Bogardus [Parker]|1818|1842
 <!------>
-Foxhall Parker Smith | 1863 | -16
-Virginia Adela Wainwright | 1904.
+Foxhall Parker Smith|1863|1847
+Virginia Adela Wainwright|1904|0
 <!------>
-William Stout | 1820  | -86
+William Stout|1820|1734
 <!------>
-Joseph Morkman[?] | 1823 | -21
+Joseph Morkman[?]|1823|1802
 <!------>
-William Roach | 1841 | -29
-James Stuart | 1849 | -36
+William Roach|1841|1812
+James Stuart|1849|1813
 Elizabeth Fult
 <!------>
-Samuel [Burgin] | 1849 | -11
+Samuel [Burgin]|1849|1838
 <!------>
 [broken stone] | July 
-Michael Sick Kerr | Mar 3—, 1851 | -60
+Michael Sick Kerr|1851|1791
 <!------>
-Sarah [Hanndy] | Novr 12, 1843 | -44
+Sarah [Hanndy]|1843|1799
 <!------>
-Septimus Brooks[?] | 1829 [ ?]
+Septimus Brooks[?] | 1829|0
 <!------>
-Hetty E , Perry | 1828 | -20
-Frances S. Perry | 1798 | 1849
+Hetty E , Perry|1828|1808
+Frances S. Perry|1798|1849
 <!------>
-George Lynch | 1839 | -28
+George Lynch|1839|1811
 <!------>
-Bebecca Elizabeth Goodyear | 1804 | 1852
-George Singer | | 
+Bebecca Elizabeth Goodyear|1804|1852
+George Singer||
 <!------>
-John B. Rodgers | 1829 | ________
-Mary [Rodgers] | 1839 | -85.
+John B. Rodgers|1829|0
+Mary [Rodgers]|1839|1754
 <!------>
-Robert Storey | 1836 | -19.
+Robert Storey|1836|1817
 <!------>
-George _________ | 1820 | 
-John Eckert | Novr 30, 1842| -6
-Ann C. Eckert | Novr 30, 1842| -3
+George _________|1820|0
+John Eckert|1842|1836
+Ann C. Eckert|1842|1839
 <!------>
-Ann Maria Johnston | 1836 | -24
-Nancy Johnston | 1850 | -62
+Ann Maria Johnston|1836|1812
+Nancy Johnston|1850|1788
 <!------>
-Maria [Wheater] | 1849 | -28
+Maria [Wheater]|1849|1821
 <!------>
-Frances [Biblett] | 1845 | 
+Frances [Biblett]|1845|
 Peter Biblett (infant)
 <!------>
-John Hubie | 1837 | -48
-Sarah Louisa [Hubie] | 1831 | -2
-Thomas [Hubie] | 1832 | 1831
+John Hubie|1837|1789
+Sarah Louisa [Hubie]|1831|1829
+Thomas [Hubie]|1832|1831
 <!------>
-Matilda [White] | 1837 | -48 & 4 days
+Matilda [White]|1837|1789
 <!------>
-Caroline [Potter] | 1852 | -26
-Abdiel W. Potter | 1814 | 1855
+Caroline [Potter]|1852|1826
+Abdiel W. Potter|1814|1855
 <!------>
-Stephens | 1846
+Stephens|1846|0
 <!------>
-Jonathan Beere | 1769 | 1838
+Jonathan Beere|1769|1838
 <!------>
-Andrew Busch | 1st of 1763 | 11, of 1836
+Andrew Busch|1763|1836
 <!------>
-James Patterson | 1832 | -21
+James Patterson|1832|1811
 <!------>
-John Nelson | 1833 | -33
+John Nelson|1833|1800
 <!------>
 Ann P. Davis | [obliterated]
 <!------>
-Robert Ross |_____ | _______
+Robert Ross|_____|_______
 <!------>
-Lafayette M. Whitehead | 1843
-Thomas Jones |  1834 | -49
-Catharine Jones | 1835 | -45.
+Lafayette M. Whitehead|1843|0
+Thomas Jones|1834|1785
+Catharine Jones|1835|1790
 <!------>
-Elizabeth [_____] | ---- |-1
-Benjamin W. Nicholson | |
+Elizabeth [_____]|----|-1
+Benjamin W. Nicholson||
 <!------>
-Edward B. Young | 1861 | -40.
-Mary H. Young | 1887 | -63
+Edward B. Young|1861|1821
+Mary H. Young|1887|1824
 <!------>
-Anna Allen | 1810 | 1850
+Anna Allen|1810|1850
 <!------>
-Nathaniel [McOay] | 1836 | 1869
-Nathaniel S. Richardson | 1828 | 1866
-Kate [Richardson] | 1825 |  1871
+Nathaniel [McOay]|1836|1869
+Nathaniel S. Richardson|1828|1866
+Kate [Richardson]|1825|1871
 <!------>
-Martha [Black] | 1796 | 1846
-Isaac Black |  1793 | 1874
-Samuel [Black] | 1816. 1833
-Ellen B. [Macky] 1831. | 1857.
+Martha [Black]|1796|1846
+Isaac Black|1793|1874
+Samuel [Black]|1816|1833
+Ellen B. [Macky] 1831|1857|0
 <!------>
-Ellen [Black] |  1828 | -65
-Sarah Jane Black | 1854. 1856.
+Ellen [Black]|1828|1763
+Sarah Jane Black|1854|1856
 <!------>
-Mrs Frances Scarfe | 1831 | -76
+Mrs Frances Scarfe|1831|1755
 <!------>
-Emily Grace [Collins] | 1834 | 1832
+Emily Grace [Collins]|1834|1832
 <!------>
-Robert Rice |  1838 |
-Catharine [Rice]| 1864 | -73. 
+Robert Rice|1838|
+Catharine [Rice]|1864|1791
 <!------>
 James K. Rogers | 
 Fannie M. Rogers 
 Frank M. Rogers
 Fannie A. Rogers
 <!------>
-Sarah Marsh | 1776 | 1844 
+Sarah Marsh|1776|1844
 <!------>
-Matthew C. Jenkins | 1855 | -64
+Matthew C. Jenkins|1855|1791
 <!------>
-Cornelius Trimnel | 1851 | -65
-Sarah [Trimnel] | 1862 | -61
+Cornelius Trimnel|1851|1786
+Sarah [Trimnel]|1862|1801
 <!------>
-David S. Trimnel | 1850 | -21
-Samuel S. Trimnel | 1853
-Rachel S. Trimnel | 18— | in the — year of her age
+David S. Trimnel|1850|1829
+Samuel S. Trimnel|1853|0
+Rachel S. Trimnel|18--|?
 <!------>
-Anna Spangler | 1828 | -68
-George Spangler | 1855 | -92
-George M. Spangler  1843 | -7
+Anna Spangler|1828|1760
+George Spangler|1855|1763
+George M. Spangler  1843|-7
 <!------>
-Emily ______ Moore | 1815
+Emily ______ Moore|1815|0
 <!------>
-William Moody | 1816 | -69
+William Moody|1816|1747
 <!------>
-John Crawford | 1859 | -76
+John Crawford|1859|1783
 <!------>
-Henry E. Smith | 1889 | -72 
-Sarah M  [Smith] | 1895
+Henry E. Smith|1889|1817
+Sarah M  [Smith]|1895|0
 <!------>
-John W. [Hayward] | 1830. | -27 8 Mo. & 23 days. 
-Elizabeth [Hale] | 1812 | -86
+John W. [Hayward]|1830|1803
+Elizabeth [Hale]|1812|1726
 <!------>
 Eliza | Joel _______ Hayward [obliterated]
 <!------>
-Conrad Bard | Oetr 13 1800 | 1854
+Conrad Bard|1800|1854
 <!------>
-Darius Henry Bard | 1838 | 1837
+Darius Henry Bard|1838|1837
 <!------>
-Capt. William Moore |-86
-Rebecca | -63
-Anna Moore | 1845 | -56
-William Alexander Moore | 1845 | -24
+Capt. William Moore||-86
+Rebecca|0|-63
+Anna Moore|1845|1789
+William Alexander Moore|1845|1821
 <!------>
-Robinson Rochambeau | 1810 | 1809
-Emily Carter | 1810 | -29
-Callender Irvine Moore | 1816 | -28
-Evans B.  | 1841 | 1851
+Robinson Rochambeau|1810|1809
+Emily Carter|1810|1781
+Callender Irvine Moore|1816|1788
+Evans B.|1841|1851
 <!------>
-James Stuart Moore |  1833 | -21
-Evans Burch Moore | 1844 | -25
-Anna Marion Moore | 1843 | -17
-Mary Douglass Moore | 1844 | -10
-Robinson R. Moore | 1847 | -63
+James Stuart Moore|1833|1812
+Evans Burch Moore|1844|1819
+Anna Marion Moore|1843|1826
+Mary Douglass Moore|1844|1834
+Robinson R. Moore|1847|1784
 <!------>
-_____ _____ Moore | 1862 |  1834
-____ _____ Moore | 1837 | 1837
-Martha B. Moore | 1847 | 1844
+_____ _____ Moore|1862|1834
+____ _____ Moore|1837|1837
+Martha B. Moore|1847|1844
 <!------>
-Robert Miller |  1834 | -32
+Robert Miller|1834|1802
 <!------>
-George Miley | 1846 | -56
-Hannah [Miley] | 1871 | -73
+George Miley|1846|1790
+Hannah [Miley]|1871|1798
 <!------>
-John M. Hamilton | 1804 | 1853 
+John M. Hamilton|1804|1853
 <!------>
-John Jeffrey [Allen] | 1845 | 1845
+John Jeffrey [Allen]|1845|1845
 <!------>
-Christiana [George]| 1814 | -61
-Alexander [George] | -5
-Anthony George Sr | 1845 | -58
+Christiana [George]|1814|1753
+Alexander [George]|0|-5
+Anthony George Sr|1845|1787
 <!------>
 Below is handwritten - need to transcribe
 <!------>
 
 Elizabeth Earp Shallcross Benson
 Mary Shallcross
-Mary Ann Benson| 1835 | -26
+Mary Ann Benson|1835|1809
 Catherine Smith
-Richard H. Benson | 1842 | -51
+Richard H. Benson|1842|1791
 Gustavus E. [Benson]
-Richard Benson | 1844 | -72
+Richard Benson|1844|1772
 Gerald Dale [Benson]
-Catherine Benson | 1854 | -84
-George E. Benson | 1866 | -33
+Catherine Benson|1854|1770
+George E. Benson|1866|1833
 <!------>
-Emma Louise Bollon | 1834 | 1833
-John Edgar [Bollon]  | 1840 | 1790
-James M. Bollon | 1846| -40
-Abel J. Bollon | 1858 | -86
-Waller Moore Warren | 1862 | 1982
-unnamed infant Warren | 1880 |
-Rachel Ann Warren  | 1880 | -38
+Emma Louise Bollon|1834|1833
+John Edgar [Bollon]|1840|1790
+James M. Bollon|1846|1806
+Abel J. Bollon|1858|1772
+Waller Moore Warren|1862|1982
+unnamed infant Warren|1880|
+Rachel Ann Warren|1880|1842
+
+
+
+
+
+

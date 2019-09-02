@@ -230,7 +230,7 @@ Catharine [Juppenlatz] | Feb 9, 1869 | Aged 98 years
 Martha Curry [Beatty]
 Bllie
 <!------>
-Caroline B. Murphy | born June 1, 18— | died Mar 6, 1833?
+Caroline B. Murphy | born June 1, 18-- | died Mar 6, 1833?
 Jane [Murphy] | died Jan 26 1841? | Aged 80 years 5 months and 21 days
 <!------>
 Christiana B. W. [Jahraus] | born Mar 13, 1815 | died July 17, 1846
@@ -339,13 +339,13 @@ Margaret [Kochersperger] | died Apr 18, 1847 | aged 56 years
 <!------>
 Daniel Kochersperger | died Dec 20, 1862 | aged 72 years
 <!------>
-Samuel A. Hac ... |
+Samuel A. Hac ... |||
 <!------>
 Capt. A. J. Clifton |  Jan 30 1863 |  Aged 48 years 
 <!------>
 Louisa Missouri [Miller] | died in New York June 16 1838 | aged 17 years 
 <!------>
-George Yohe | Jan 17, 18—
+George Yohe | Jan 17, 18--
 <!------>
 Elizabeth H. Donaghy | died Oct 14, 1906 | aged 53 years
 <!------>
@@ -645,7 +645,7 @@ Eliza C. Wilson | died Dec 7, 1874 | aged 74 years
 <!------>
 David C. Fulton | died Sept 17, 1869 | aged 61 years
 Caroline A. Fulton | died Apr  2, 1871 | aged 50 years
-Theodore F. Fulton | born Sep 20,  183—[ ?] | died  Dec 3rd 18—2 [?]
+Theodore F. Fulton | born Sep 20,  183--[ ?] | died  Dec 3rd 18--2 [?]
 <!------>
 Mary Ana St.Clair | Jan 6tn, 1867 | Aged 73 years
 <!------>
@@ -950,7 +950,7 @@ Elizabeth Spencer Bowland | died Jan 25, 1836 | Aged 2 years 2 months & 7 days
 Benjamin Bowland | died Oct. 18, 1811 | Aged 2 years 2 months & 29 days
 James Asa Bowland | died Jan 12, 1851 | Aged 3 years & 25 days
 <!------>
-Catharine Jane [...] | 1838 | Aged 28 years 2 months and — days
+Catharine Jane [...] | 1838 | Aged 28 years 2 months and -- days
 <!------>
 Ebenezer Martin | Apr 9, 1833| Aged 81 years and 19 days.
 <!------>
@@ -1089,16 +1089,16 @@ Josiah Warren | Aged 39 years
 Wm Reynolds Jr. | Aged 13 years
 Hugh Reynolds | Aged 21 years
 <!------>
-Margaret [Keyser] | born Apr 4, 1781. died Oct 25, 184— [ ?]
+Margaret [Keyser] | born Apr 4, 1781. died Oct 25, 184-- [ ?]
 Jacob Keyser |  Dec 12, 1859 | born -79
 <!------>
 Ann Eliza [Palmer] | born Jan 21st 1837 | died Apr 5, 1841 [ ?]
 William G. Palmer | born Aug 24, 1804 | died May 22na 1847 [ ?]
 Mrs Eliza Bartling | [below level of ground] born Aug 11, 1788 | died Nov 7, 1837
 <!------>
-John Newell | who departed this life Apr 18, 18— | [obliterated] aged 50 years
+John Newell | who departed this life Apr 18, 18-- | [obliterated] aged 50 years
 <!------>
-Robert Leemming Newell | died July 2, 18— | aged 2 years 9 months
+Robert Leemming Newell | died July 2, 18-- | aged 2 years 9 months
 Charles C. Henry | died Oct. 1850 aged 3 years
 <!------>
 Susanna Lee | died Dec 12, , 1834 | born -89.
@@ -1131,7 +1131,7 @@ Robert Sturgeon | Jan 11, 1837 | aged 1 year 2 months and 14 days
 <!------>
 John Stowers | who departed this life |
 <!------>
-Jacob Miller | Oct 27, 18— | aged 58 years 9 months and 22 days
+Jacob Miller | Oct 27, 18-- | aged 58 years 9 months and 22 days
 Henry Carey McKean | died Septr 26, 1850 [?]
 <!------>
 Henry Carey McKean | born May 15, 1825 | died Sep 28, 1830
@@ -1271,7 +1271,7 @@ Jane Mercer | born Apr 1803 | died Mar 8, 1886
 George D. Otter | born  Dec 23, 1871 | died Mar 18, 1883
 Jane E. Hand | born Jan 14, 1836 | died Jan 13, 1886
 <!------>
-Henry A. Pintard | 1822—1913 |
+Henry A. Pintard | 1822--1913 |
 <!------>
 Capt Michael Hopkins | Feb 5, 1841 | aged 85 years 3 Months & 3 days
 Eliza Hopkins | born May 13, 1773 | died Aug 13, 1846
@@ -1298,8 +1298,8 @@ Mary Sullivan | died Aug 7, 1838 | born -34
 <!------>
 [An indecipherable stone]
 <!------>
-Samuel Carels, Senr | died Oct 3rd 18— | aged 68 years
-Samuel [Carels] | died Oct —, 1826| aged 31years
+Samuel Carels, Senr | died Oct 3rd 18-- | aged 68 years
+Samuel [Carels] | died Oct --, 1826| aged 31years
 Joseph [Carels] | died Aug 10, 1835| aged 30 years
 Mary [Carels] | died Sept 26, 1840 | Aged 74 years
 Margaret H. Carels | died Dec 10, 1850 | Aged 17 months
@@ -1356,7 +1356,7 @@ Harry B. [Gallbreath] | died Dec 9, 1878 | in his 19, year
 David Thaeher | Oct. 17, 1830 | born -64
 Eunice Noble Thaeher | died Dec 1, 1842 | born -68
 <!------>
-Peter L. Combe | May 11, 183— | in the 7— year of his age
+Peter L. Combe | May 11, 183-- | in the 7-- year of his age
 Auguste DeSentuary | died Sep 23rd 1858 | Aged 32.
 <!------>
 David McClean | died June 12, 1869 | born -68
@@ -1444,7 +1444,7 @@ Elizabeth [Summerfield] | died  Nov 11, 1863 | aged 100 years
 <!------>
 James Summerfield | died Feb 8, 1843 | aged 44 years
 Hannah [Summerfield] | born Mar 9, 1806 | died June 21st 1861
-Rosanna [Hines] | died Apr 20, 1851 | in the —7, year of her age
+Rosanna [Hines] | died Apr 20, 1851 | in the --7, year of her age
 <!------>
 Henry E. Berrell |  Nov 5, 1847 | aged 25 years and 1 month
 <!------>
@@ -1500,7 +1500,7 @@ Thomas Edward Wills | born Nov 25, 1808 | died Mar 19, 1872
 Mary Louisa Wills | born June 12, 1830 | died Apr, 10 1877
 Martha [Wills] [nee Veacock] | born Nov 9, 1809 | died May 25, 1844
 <!------>
-Capt Thos Wills | July 10, 1830 | In the 6—th year of his age
+Capt Thos Wills | July 10, 1830 | In the 6--th year of his age
 <!------>
 Alexander E. Lipman | died Mar 10, 1834 | aged 14 years 11 months and 10 days
 Mary Louise [Earle] | died May 10, 1848 | aged 2 years 8 month
@@ -1758,7 +1758,7 @@ Frances L.C. McFee | died Oct. 2, 1887 | born -55
 Little Cynthia | born May 9, 1851 | died Dec 1, 1855
 <!------>
 Charles B. Corson | died Oct | aged 20 months and 8 days
-Charles S. Corson | died June 18, 18— | aged 1 month and 3 days
+Charles S. Corson | died June 18, 18-- | aged 1 month and 3 days
 Hamilton Corson | died Jan 1st | aged 4 months and 11days
 James J. Corson | died Sep 11, 1842 | aged 5 weeks
 Adaline F. Corson | died Jan 16, 1848 | aged 20 months and 11 days
@@ -1798,7 +1798,7 @@ Barry Hartwell | Mar 23, 1835 | aged 36 years
 John Tompson | Aug 28, 1856 | aged 50 years
 |
 <!------>
-Thomas I Bi—rk—t [sic] | Oct 17, 1856
+Thomas I Bi--rk--t [sic] | Oct 17, 1856
 <!------>
 Charles H. Evans | Mar 27, 1836 | aged 36 years
 <!------>
@@ -1902,7 +1902,7 @@ Ezekiel Harlan | born Dec 8, 1797 | died June 19, 1835
 John Lewis |  Dec 3rd 1845 | born -31.
 John
 <!------>
-Sarah Lewis | Oct. —, 1844 | aged 11 weeks.
+Sarah Lewis | Oct. --, 1844 | aged 11 weeks.
 Catharine [_____]| June 22, 1850 | born -34.
 <!------>
 Eliza [Levy] | Feb 181847 | aged 42years
@@ -2131,7 +2131,7 @@ Elizabeth Fult
 Samuel [Burgin] | Sep 13, 1849 | aged 11 years and 19 days
 <!------>
 [broken stone] | died July 
-Michael Sick Kerr | Mar 3—, 1851 | aged 60 years
+Michael Sick Kerr | Mar 3--, 1851 | aged 60 years
 <!------>
 Sarah [Hanndy] | died Novr 12, 1843 | born -44
 <!------>
@@ -2159,7 +2159,7 @@ Nancy Johnston | died Apr 16, 1850 | born -62.
 <!------>
 Maria [Wheater] | died July 7, 1849 | Aged 28 years
 <!------>
-Frances [Biblett] | May 28, 1845 | in the —th year of her age
+Frances [Biblett] | May 28, 1845 | in the --th year of her age
 Peter Biblett (infant)
 <!------>
 John Hubie | died Oct 11, 1837 | aged 48 years
@@ -2230,7 +2230,7 @@ Sarah [Trimnel] | Sep 6, 1862 | aged 61 years
 <!------>
 David S. Trimnel | Nov 16, 1850 | born -21
 Samuel S. Trimnel | Jan 1853
-Rachel S. Trimnel | Feb 25, 18— | in the — year of her age
+Rachel S. Trimnel | Feb 25, 18-- | in the -- year of her age
 <!------>
 Anna Spangler | Oct 9, 1828 | Aged 68 year
 George Spangler | Jan 18, 1855 | Aged 92 years 1 month & 22 days
