@@ -1,0 +1,1557 @@
+ID;gravestone_id;name;birth;death;age
+1;1;Sarah [Tallman];1795;1861;66
+2;1;Sarah Tallman Arrison;1825;1901;76
+3;1;John Chalmers Arrison;1825;1911;86
+4;2;John Tallman;1833;1836;3
+5;3;George Ervin;1814;1872;58
+6;3;Elizabeth Frazier Ervin;1817;1886;69
+7;3;Thomas Ervin;1853;1881;28
+8;4;Elizabeth Frazier;1783;1855;72
+9;4;Anthony Frazier;1778;1866;88
+10;5;John Barnwell;1793;1849;56
+11;5;Mary Ann Hunter;1809;1886;77
+12;6;Sarah Catherwood;1777;1844;67
+13;6;Abraham Hunter;1772;1851;79
+14;6;Jane Hunter;1803;1870;67
+15;7;Margaret;1818;1839;21
+16;7;Matilda Hunter;1821;1840;19
+17;7;Eliza Hunter;1805;1874;69
+18;7;John C. Hunter;1812;1877;65
+19;8;Robert Johnston;1786;1847;61
+20;8;Frances Johnson;1779;1856;77
+21;8;James Sproul;1815;1829;14
+22;9;Josephine MeKeever;1822;1890;68
+23;9;Melinda [Diezel];1848;1894;46
+24;10;Jesse Bowers;1788;1856;68
+25;10;Margaret Bowers;1792;1829;37
+26;11;George White;1804;1847;43
+27;11;Henry G. White;1840;1877;37
+28;11;Matilda [White];1807;1891;84
+29;11;Wardell White;1842;1867;25
+30;12;Evelina Stratton;1808;1827;19
+31;12;Henry Wordell;1781;1829;48
+32;12;George Henry White;1837;1855;18
+33;12;Emma White;1833;1856;23
+34;13;Rebecca Wilhelmina;1824;1846;22
+35;14;Emily Louisa [Jones];1838;1849;11
+36;15;Mary [Webb];1798;1833;35
+37;15;John [Webb];1818;1852;34
+38;15;Samuel Webb;1795;1872;77
+39;16;Eliza [Whiteman, nee Hobb];1837;1865;28
+40;16;Sarah Francis [Whiteman];0;1833;0
+41;17;John Jones;1790;1859;69
+42;18;Ward C. Butler;1795;1861;66
+43;18;Margaret Butler;1799;1869;70
+44;18;William H. Butler;1833;1900;67
+45;19;Martha [Murphy];1788;1873;85
+46;19;John Murphy;1789;1873;84
+47;19;Moses Murphy;1792;1884;92
+48;20;William Swift;1791;1865;74
+49;21;Ann [Murphy];1789;1829;40
+50;21;Elizabeth [Murphy];1800;1835;35
+51;21;Eliza Ann [Murphy];1825;1849;24
+52;22;John Kirkpatrick;1796;1881;85
+53;22;James Kirkpatrick;1823;1899;76
+54;23;C. M. Z. [Zollikoffer];0;1848;0
+55;24;Mary L. Kelter;1833;1857;24
+56;24;Alfred Kelter;1839;1859;20
+57;24;Martha [Kelter];0;0;0
+58;24;Washington [Kelter];0;0;1
+59;25;David Kelter;1790;1854;64
+60;25;Susanna Kelter;1796;1870;74
+61;26;Annie Burwell;1829;1904;75
+62;27;John William [Zollikofer];1850;1851;1
+63;28;Elizabeth Johnson;1788;1828;40
+64;28;Samuel Johnson;1781;1873;92
+65;29;Col. George E. Johnson;1824;1880;56
+66;30;Charles P. Eushton;1844;1907;63
+67;31;Christianna [Etris];1756;1883;127
+68;31;William Etris;0;0;66
+69;32;Rev. Joseph Lybrand;1793;1844;51
+70;32;Isabella W. Lybrand;1801;1865;64
+71;33;Mrs. Isabella G. Hartman;1822;1852;30
+72;33;Mary Lybrand;1827;1846;19
+73;33;Joanna;1833;1852;19
+74;33;Wesley;1830;1838;8
+75;33;Edward;1840;1842;2
+76;33;Lizzie H.;0;1863;0
+77;34;William F. Barr;0;1834;0
+78;35;Conrad Siples;1808;1873;65
+79;35;Conrad Siples Jr.;1839;1887;48
+80;35;Mary [Siples];1805;1890;85
+81;36;Francis Hindman;1754;1834;80
+82;36;Elizabeth Hindman;1767;1846;79
+83;37;Caleb Dobbins;1774;1847;73
+84;37;Ann Dobbins;1787;1870;83
+85;38;Margaret Collins;1791;1876;85
+86;39;William Patterson;0;0;0
+87;39;Margaret;0;0;0
+88;39;Robert Hearst;0;0;0
+89;40;M. Elizabeth Hickinbottom;0;0;0
+90;41;Elizabeth Fricke;1779;1870;91
+91;42;Sarah [Butler];1794;1832;38
+92;42;Henry [Butler];1826;1836;10
+93;42;Edmund Sterry;1821;1849;28
+94;43;Mary E. Lawrence;1821;1838;17
+95;44;Mrs. Mary Dull;0;0;0
+96;45;William Perry;1811;1834;23
+97;46;Hester A. [Harrington];1851;1872;21
+98;46;William G. Hawkins;1867;1899;32
+99;47;Mary B. [Harrington];1821;1858;37
+100;48;Anna E. [Markly];1868;1870;2
+101;48;Gerald H. Owen;1873;1874;1
+102;49;Mary [Headman];0;0;0
+103;49;George Headman;1783;1861;78
+104;50;Eli L. Hawkins;1780;1847;67
+105;50;Fredericka [Hawkins];1799;1881;82
+106;51;Samuel B. Headman;1810;1836;26
+107;51;Maria Headman;1818;1871;53
+108;51;William F. Headman;1815;1885;70
+109;52;Elizabeth Young;1830;1890;60
+110;52;Thomas Young;0;0;0
+111;53;William E. Tatem;1802;1854;52
+112;53;Mary E. [Tatem];1807;1876;69
+113;53;George H. Tatem;1828;1883;55
+114;54;Julia E. A. Saffin;1817;1900;83
+115;54;Wm. Baffin;0;1862;0
+116;55;James Gaw;1772;1832;60
+117;55;James Gaw;1827;1827;0
+118;55;Robert M. Gaw;0;0;0
+119;55;Emma Gaw;0;0;0
+120;56;Maria W. Murphy;1794;1866;72
+121;57;Arthur B. Murphy;0;0;35
+122;57;Elizabeth J. Murphy;0;1896;0
+123;58;Mary [Wheaton];1788;1858;70
+124;59;Theresa [Brown];1799;1848;49
+125;59;John Brown Senr.;1782;1864;82
+126;60;John Taylor;1832;?;0
+127;60;Mary Jane Nice;1849;?;0
+128;60;James Finley Forrest;0;1861;0
+129;61;Edward P. Vollum;1768;1872;104
+130;61;Rachel Vollum;1774;1872;98
+131;62;Amy Roberts;1792;1847?;55
+132;62;Wm. D. Roberts;1792;1858;66
+133;62;Euphemia [Bamage];1776;1846;70
+134;63;Adam Bamage;1772;1850;78
+135;64;Enphemia Bamage;0;1890;0
+136;65;William S. Linton;1843;1865;22
+137;65;Samuel Linton;1797;1872;75
+138;65;Eliza [Linton];1805;1878;73
+139;66;Anna P. Patton;1804;1883;79
+140;66;Euphemia Ferguson;0;1903;0
+141;67;Adam Bamage Patton;1842;1865;23
+142;68;John McNamee;1777;1842;65
+143;69;Arthur Murphy;1794;1854;60
+144;70;Ruhama E. Murphy;1847;1879;32
+145;71;Walter J. Franklin;1796;1846;50
+146;72;Mary Franklin;1796;1890;94
+147;73;Henry Franklin;0;0;0
+148;74;Rush Johnson;0;0;0
+149;75;Anna B. Carter;1874;1880;6
+150;76;Frederick Juppenlatz;1780;1855;75
+151;76;Catharine [Juppenlatz];1771;1869;98
+152;77;Martha Curry [Beatty];0;0;0
+153;77;Bllie;0;0;0
+154;78;Caroline B. Murphy;18--;1833;0
+155;78;Jane [Murphy];1761;1841;80
+156;79;Christiana B. W. [Jahraus];1815;1846;31
+157;79;Catharine Wolfer;1843;1847;4
+158;80;Edward Turner;1790;1852;62
+159;80;Eliza Turner;1800;1888;88
+160;81;Louisa S. Turner;1813;1841;28
+161;81;Charlotte M. Adams;1811;1843;32
+162;82;Deborah A. Myers;1802;1851;49
+163;82;Jacob H. Myers;1800;1855;55
+164;83;Sarah Craig [Dickson];1791;1876;85
+165;84;Theodore Varney;1855;?;0
+166;84;Margaretta F. [Varney];0;1892;0
+167;85;Andrew Flick;1784;1851;67
+168;85;William T. [Flick];0;0;0
+169;86;Joseph Govett;1798;1875;77
+170;86;Mary B.[Govett];1805;1885;80
+171;87;Anna Jane [Govett];1803;1854;51
+172;87;Maria G. Govett;0;1891;0
+173;88;D.B. McGregor;0;0;0
+174;89;James Clark;1789;1843;54
+175;89;Ellen [Clark];1791;1844;53
+176;90;George Gulton;1803;1862;59
+177;90;Ann J. [Gulton];1809;1863;54
+178;90;Mary J. [Gulton];0;1847;0
+179;91;Joseph Haigh;0;0;0
+180;92;Elizabeth [Stuart];1851;1854;3
+181;92;Albert [Stuart];1854;1856;2
+182;92;Mary Stuart;1790;1860;70
+183;92;Albert Stuart;1823;1873;50
+184;93;John D. Craig;1766;1846;80
+185;93;John D. Craig;0;0;25
+186;94;Thomas Dickson;1777;1847;70
+187;95;Anson Gray;1813;1857;44
+188;95;Andrew Gray;1842;1862;20
+189;96;Margaret [Varley];1829;1877;48
+190;97;Elizabeth C. Flick;1780;1844;64
+191;98;William H. Gray;1837;1868;31
+192;98;Anson Southard Gray;1848;1869;21
+193;99;Michael Bice;1844;1900;56
+194;100;William Eice;0;1825;0
+195;101;Catharine Eice;1783;1867;84
+196;102;Emily McGuigan;1818;1842;24
+197;102;William Emily McGuigan;1842;1842;0
+198;103;Isabella Taylor [nee Thomson];1805;1840;35
+199;104;William Clew;1772;1846;74
+200;104;Elizabeth Clew;1775;1855;80
+201;105;Sarah Singleton Bedditt;1806;1836;30
+202;105;Mrs. Mary Eedditt;1764;1840;76
+203;106;John Shon;1777;1831;54
+204;106;Margaret Shon;0;1831;0
+205;106;____________;0;0;0
+206;107;Silas W. Williams;1836;1872;36
+207;108;John Lucas;1814;1881;67
+208;109;Francis Lucas;1776;1843;67
+209;109;Elizabeth Lucas;1792;1848;56
+210;109;Helen G. Lunde;0;0;0
+211;109;William C. Lunde;0;0;0
+212;110;Jane [Frazier] 1809;0;0;0
+213;110;Mary Ann [Frazier];0;0;0
+214;111;Martha Hopson;0;1873;0
+215;112;Cameron McGregor;0;0;0
+216;113;William McGuigan;1814;1853;39
+217;114;Alliee Adelia Steiner;1839;1839;0
+218;115;John Strickland;1811;1827;16
+219;116;William Henry Kochersperger;1829;1862;33
+220;117;Margaret [Kochersperger];1791;1847;56
+221;118;Daniel Kochersperger;1790;1862;72
+222;119;Samuel A. Hac ... ;0;0;0
+223;120;Capt. A. J. Clifton;1815;1863;48
+224;121;Louisa Missouri [Miller];1821;1838;17
+225;122;George Yohe;18--;18;0
+226;123;Elizabeth H. Donaghy;1853;1906;53
+227;124;Hellen M. Donaghy;1828;1862;34
+228;124;William [Donaghy];1862;1862;0
+229;124;William Donaghy;1827;1865;38
+230;125;Elizabeth B. Spear;1809;1863;54
+231;126;Spear Florence Newton;1839;1842;3
+232;127;Capt. John J. Garvin Sen.;1786;1858;72
+233;127;Sarah Garvin;1787;1875;88
+234;127;Sarah Garvin;1828;1892;64
+235;128;Isaac P. Kester;1814;1875;61
+236;128;Mary J. [Kester];1815;1883;68
+237;128;Garvin Kester;1848;1849;1
+238;128;Paul Garvin Kester;1858;1862;4
+239;129;John Myers;1808;1838;30
+240;129;Isaac Myers;1783;1866;83
+241;130;Susannah Yeates;1782;1858;76
+242;130;A.W. Rushton;1773;1859;86
+243;131;Mary P. [Bushton];0;1867;0
+244;131;Randolph Eyre;0;1886;0
+245;132;Mrs. Hannah S. [Hobbs];1813;1877;64
+246;132;Joshua Scattergood;1807;1887;80
+247;133;John Y. Bushton;1808;1859;51
+248;133;Ellen H. Bushton;1811;1886;75
+249;133;Francis Cleaver;1838;1838;0
+250;133;Ellen Roberts;1840;1855;15
+251;134;Frances Y. Cleaver;1804;1846;42
+252;135;Sarah Scattergood;1775;1861;86
+253;135;Jane Scattergood;1805;1892;87
+254;136;Beuben Gilder;1851;1852;1
+255;137;Mrs. Susan Allison;1780;1838;58
+256;138;Samuel Chapman;0;1830;0
+257;139;J. Birkett Bradley;1844;1863;19
+258;140;Philadelphia Bradley;1795;1829;34
+259;140;Capt. Birkett;1784;1846;62
+260;140;Sarah Birkett;1795;1874;79
+261;141;Capt. John J. Bradley;1815;1895;80
+262;141;Sarah W.;1817;1907;90
+263;142;Caleb Scattergood;1814;1870;56
+264;142;A. Emaline [Scattergood];1819;1877;58
+265;143;Jane [Bradley];1830;1850;20
+266;144;Harriett Bell;1803;1871;68
+267;145;William Bell;1781;1845;64
+268;146;John F. Stanton ;1816;1890;74
+269;146;Harriet B. Stanton;1836;1902;66
+270;147;Eli H. Pinkerton;1816;1817;1
+271;148;____ Bees Ward;;1811;0
+272;149;John Stratton;1750;1817;67
+273;149;Mary D. Cook.;1839;1897;58
+274;149;Harry B. Cook ;1848;1908;60
+275;149;Sarah Cook;1769;1833;64
+276;150;Mary Gouldey;1762;1847;85
+277;150;William Cook;1800;1855;55
+278;150;Mary Nutter;1828;1898;70
+279;151;Mrs. Isabella Doherty;0;1870;0
+280;152;Felix Tribault;0;0;0
+281;152;Anna [Tribault];0;0;0
+282;153;John Cook ;1876;1876;0
+283;153;Christiana [Cook];1810;1849;39
+284;154;William Y. Cook;1832;1857;25
+285;154;Eliza D. Cook;1841;1858;17
+286;155;Father John Doherty.;1807;1888;81
+287;155;Jane;1829;1863;34
+288;155;John;1836;1864;28
+289;155;Samuel;1834;1843;9
+290;155;Jackson;1843;1874;31
+291;156;John Selkirk;1786;1844;58
+292;157;John C. Selkirk.;1844;1860;16
+293;157;Edmond Bobinson Selkirk;1857;1861;4
+294;158;Mrs. Ellen Lane;0;0;0
+295;159;James H.C. Howard;18--;18;0
+296;160;Ezra F. Baymond;0;0;0
+297;160;Mary Josophene Cornelia;0;0;0
+298;161;Bichard B. Keys;1800;1811;11
+299;162;David Thompson;1755;1811;56
+300;163;Sarah [Smith];1826;1888;62
+301;163;Philip Smith;1820;1897;77
+302;164;Bichard Ellis;1820;1878;58
+303;165;Ann Jane Stewart;1792;1811;19
+304;165;William Stewart;1767;1817;50
+305;166;Mrs. Elizabeth Trotter;1769;1850;81
+306;167;Corp. G. W. Young Co. H. 33rd Penn. Inf.;0;0;0
+307;168;John. Hemphell.;1826;1854;28
+308;169;Sarah Biehman.;0;0;0
+309;170;Susan Bates;1792;1819;27
+310;171;Charles. H. Jones.;1892;1911;19
+311;172;Ann Francis;1765;1834;69
+312;172;David Edwin;1780;1844;64
+313;173;Catharine [Edwin];1785;1850;65
+314;174;Anthony Sague;1791;1857;66
+315;174;Walter. A. Sague;1861;1861;0
+316;175;Cornelia. F. Jefferson.;0;0;0
+317;175;Charles Burke.;0;0;0
+318;176;Sarah Walton;;1827;0
+319;177;Sarah [Smith];1826;1888;62
+320;177;Philip Smith;1820;1897;77
+321;178;Mrs Ann Vanzant;1778;1843;65
+322;179;______ Patterson;_______;_______;0
+323;180;Ann Catharine Lane;...;...;0
+324;181;John Jacob Lane;...;... 1841;0
+325;182;George Hollson;...;...;0
+326;183;Robert Campbell;0;1846;0
+327;184;Francis Clime;1814;1845;31
+328;185;James Howard;1822;1841;19
+329;186;Mrs Ellen. Lane;0;0;0
+330;187;Edward. J. B. Thomas.;1831;1881;50
+331;187;Edward. J. B. Thomas.[son];0;1881;0
+332;188;1832;1832;?;0
+333;189;Ella;?;?;0
+334;190;... Martin.;?;?;0
+335;191;Robert Downer. M.D.;0;0;0
+336;192;Adeline Mann [Baylis];1814;1815;1
+337;193;Laura. M. [Baylis];1820;1885;65
+338;193;Henry Bayliss;1810;1889;79
+339;194;Joseph Baylis;1818;1819;1
+340;195;Harriet Marshall Bayliss;1855;1861;6
+341;196;Isabella Bayliss;1841;1875;34
+342;196;John Baylis.;1815;1891;76
+343;196;Harriet [nee Marshall] [Baylis];1787;1834;47
+344;196;Joseph Baylis;1787;1867;80
+345;197;Catharine Snyder;1809;1865;56
+346;198;Nathaniel Gordon;1799;1860;61
+347;198;Maggie. E. Gordon;1841;1862;21
+348;198;Caroline. E Gordon;1845;1851;6
+349;198;Nat. Evans Gordon;1847;1851;4
+350;198;John E. Gordon;1837;1838;1
+351;199;Margaret Cunningham;1834;1855;21
+352;199;Eliza [Cunningham];0;0;1
+353;199;Hollson;...;...;0
+354;200;William Penn Finney.;1807;1882;75
+355;200;Mary. J. Finney;1814;1888;74
+356;201;Joseph Baylis;1837;1838;1
+357;201;Joseph Baylis;1816;1817;1
+358;202;... Donnell.;1854;1854;0
+359;202;W. S.;1869;[1798];71
+360;203;Samuel Hankinson;0;1854;0
+361;204;William Weaver;1793;1868;75
+362;204;Catharine [Weaver];0;0;76
+363;204;Mrs Dorathea Dryner;1782;1844;62
+364;205;George Poppal;1771;1851;80
+365;205;Catharine [Poppal];0;0;84
+366;206;William Buffs Family Vault;0;0;0
+367;207;Augusta. L. [Turner];1836;1889;53
+368;208;Frances Lammey;1818;1856;38
+369;209;John Crawford.;1830;1853;23
+370;210;Francis Lyons;1801;1849;48
+371;210;Mary Anne [Lyons];1804;1878;74
+372;211;William ___ Ramsey;1787;1834;47
+373;212;Robert Niblock;1797;1872;75
+374;213;Rachael [Niblock];1788;1873;85
+375;213;Eliza Jane Wilson;1831;1858;27
+376;214;William McIlvaine.;0;1810;0
+377;215;George Cly ____;0;0;0
+378;216;Mary Bussell West;1742;1812;70
+379;217;Thomas Stevenson;1758;1810;52
+380;217;William [Stevenson];1823;1840;17
+381;217;Jane Stevenson;1800;1879;79
+382;218;Benjamin [Tage];1832;1832;0
+383;218;Henrietta  [Tage];1826;1833;7
+384;219;William McNalley;1826;1855;29
+385;219;Elizabeth McNalley;1824;1894;70
+386;220;Sarah Armstrong;0;1881;0
+387;221;Peter Bousquet.;?;?;0
+388;222;Susanna Biley;;1852;0
+389;223;Jules Bomain Fiot;1806;1878;72
+390;224;Aimee M. Fiot. nee Prat;1811;1883;72
+391;224;Charles Jules Fiot;1842;1871;29
+392;225;Arthur Pigolet d'Hermillon;1828;1911;83
+393;226;Clara Josephene Pigolet. nee Fiot.;1848;1913;65
+394;226;Jules. W. A. Pigolet d'Hermillion;1867;1883;16
+395;227;Mary. A. Chown;0;1850;0
+396;227;William Chown;1820;1853;33
+397;228;William Henry Brown;1789;1855;66
+398;228;Elizabeth [Brown];0;0;46
+399;229;Emma Jane;0;0;9
+400;229;James;0;0;0
+401;229;Henry William;0;0;0
+402;230;Grace. E. [Govan];1847;1861;14
+403;230;George. A. [Govan];1858;1860;2
+404;230;Anna. E  [Govan];1847;1868;21
+405;231;Elizabeth [Wilson];0;0;0
+406;231;Isaac. B. Baxter;1786;1866;80
+407;231;George. W.  [Baxter];1825;1866;41
+408;231;M. Jane Barren.;1760;1830;70
+409;231;Daniel Gray;1830;0;0
+410;232;Mary Catharine [Scattergood];1823;1862;39
+411;232;Joseph S. Scattergood;1809;1886;77
+412;233;Bennet Wilson;1799;1862;63
+413;233;Eliza C. Wilson;1800;1874;74
+414;234;David C. Fulton;1808;1869;61
+415;234;Caroline A. Fulton;1821;1871;50
+416;234;Theodore F. Fulton;183--;18--2;0
+417;235;Mary Ana St.Clair;1794;1867;73
+418;236;Charlotte Fuller Marsh;1790;1861;71
+419;236;James Marsh;1792;1878;86
+420;237;Anna Sweazey;1832;1861;29
+421;237;Fred. S. Sweazey;1862;obliterated;0
+422;238;Chandler Price MeCorkle;1820;1850;30
+423;239;Emma J. [Wright];1825;1853;28
+424;239;Annie Butler;0;0;0
+425;240;J. - Wright;1852;1853;1
+426;240;Annie [Butler];1819;1851;32
+427;241;Emma [Briggs];1859;1859;0
+428;241;Charles [Briggs];1856;1862;6
+429;242;Ann Warnick;1793;1865;72
+430;242;Charles Peters;1793;1878;85
+431;243;Charles [ ? ] ...;1836;1836;0
+432;244;Katie [Robertson];1875;1876;1
+433;245;Robert Symington;1869;1873;4
+434;245;Samuel Symington;1867;1868;1
+435;246;James Barker;1783;1853;70
+436;246;Hannah [Barker];1781;1856;75
+437;246;Isabella [Worthington];1817;1889;72
+438;247;Capt. Henry C. Henry;1787;1850;63
+439;247;Harriet H. Henry;1800;1874;74
+440;248;Jacob Bretz;1771;1842;71
+441;248;Eve Elizabeth [Bretz];1774;1850;76
+442;249;William Henry;1768;1846;78
+443;249;Jane [Henry];1766;1852;86
+444;249;William Henry Jr.;1799;1829;30
+445;249;Elizabeth Gray;1827;1827;0
+446;249;Samuel W. Henry;1801;1817;16
+447;250;James Day;1792;1832;40
+448;250;Margaret Eagen Day;1798;1843;45
+449;250;Jane M. Day;1821;1823;2
+450;250;Elizabeth H. Day;1827;1829;2
+451;250;James H. Day;1831;1831;0
+452;251;Isaac Addis;1808;1832;24
+453;252;Catharine [Addis];1816;1872;56
+454;252;Charles Addis;1808;1875;67
+455;253;John Murgitroyde;1820;1884;64
+456;253;Ann [Murgitroyde];1789;1832;43
+457;253;Wm. T. Murgitroyde;1830;1832;2
+458;253;Bichard Murgitroyde;1798;1865;67
+459;254;Martha Ann [Sterne] [nee Matthews];1809;1843;34
+460;254;Mary A. Garachon;0;1886;0
+461;255;Christiana Garachon;1802;1827;25
+462;256;William [Wilson];1825;1828;3
+463;256;Sarah Wilson;1849;1857;8
+464;256;Margaret Wilson;1789;1859;70
+465;256;James Wilson;1848;1859;11
+466;256;B. Stirling Wilson;1822;1859;37
+467;256;Charles Bea Wilson;1827;1869;42
+468;256;Robert Wilson, Sr.;1783;1871;88
+469;256;James George Wilson;1823;1875;52
+470;256;Sarah [Wilson];1800;1876;76
+471;257;William Kinley;1848;1849;1
+472;257;Hugh Washington Kinley;1849;1853;4
+473;257;Agnes B. Kinley;1853;1854;1
+474;258;Jacob Keyser;1780;1836;56
+475;258;Ann [Keyser];1786;1859;73
+476;259;Elizabeth Henby;1787;1831;44
+477;259;Thomas Henby;1792;1855;63
+478;259;Lucy Henby;1813;1839;26
+479;260;Eliza Buck;1786;1851;65
+480;260;Hugh Buck;1776;1866;90
+481;260;Mrs. Mary Alburtson [nee Mrs. Mary Buck];1791;1867;76
+482;261;James Buck;1798;1859;61
+483;261;Ann Buck;1802;1862;60
+484;261;Annie [Buck];1837;1868;31
+485;262;Elizabeth Hunter;1767;1830;63
+486;263;James Howard [Buck];1862;1862;0
+487;264;Mrs. Anna Haig;1761;1840;79
+488;265;Thomas Haig Potter;1772;1831;59
+489;266;Ann Haig;1804;1858;54
+490;267;Josephine [Smith];1822;1842;20
+491;267;Ann W. [...];1813;1842;29
+492;268;Thomas Smith;0;0;68
+493;268;Ann Smith;0;0;76
+494;268;John Smith;0;0;37
+495;268;Emma [!] M. Smith;0;0;22
+496;268;Sarah Smith;0;0;69
+497;268;Marry G. Smith;1831;1861;30
+498;269;Charles A. Smith;0;0;21
+499;270;John Heazlitt;1779;1836;57
+500;270;Hannah D. Heazlitt;1796;1840;44
+501;271;Bebecca Hewston;1740;1831;91
+502;271;Mary Hewston;1794;1867;73
+503;271;Catharine Hewston;1797;1875;78
+504;272;Bebecca Hewston;1770;1838;68
+505;273;John Hewston;1795;1871;76
+506;274;Peter Hinkel;1780;1835;55
+507;275;Margaret [Coulter];1798;1870;72
+508;275;Samuel [Coulter];1825;1830;5
+509;276;Robert Black;1803;1873;70
+510;277;[Bernard?] Richard Hoopes;1819;1850;31
+511;278;Robert Brown;1767;1845;78
+512;279;Evan Jones;0;1846;0
+513;279;Hannah Jones;0;1858;0
+514;279;Anna E. Jones;0;1865;0
+515;279;Deborah Jones;0;1886;0
+516;280;John Houser;1808;[1747];61
+517;280;Margaretta Houser;1753;1840;87
+518;280;Catharine Houser;0;0;0
+519;280;Anna Mary Houser;0;0;0
+520;281;Daniel Nichol;1891;[1799];92
+521;281;Isabella [Nichol];1876;[1801];75
+522;281;Samuel [Nichol];1843;1844;1
+523;281;Daniel [Nichol];1837;1849;12
+524;281;Isabella [Nichol];1844;1852;8
+525;281;Sarah Jane [Nichol];1847;1852;5
+526;282;Robert H. Latimer;1874;[1842];32
+527;282;Arthur [Latimer];1849;[1846];3
+528;282;Andrew John [Latimer];1849;[1840];9
+529;282;William [Latimer];1850;[1844];6
+530;282;Eliza Latimer;0;1902;0
+531;283;Frederic William Rogers;1831;1832;1
+532;283;William Frederick Rogers;1834;1857;23
+533;283;Alfred William Rogers;1833;1864;31
+534;283;Samuel B. Slocomb;1801;1834;33
+535;283;Oliver Ruggles;1767;1850;83
+536;283;Phebe Ruggles;1775;1860;85
+537;283;Wm E. Rogers;1799;1845;46
+538;283;M. Edward Rogers;1839;1884;45
+539;283;George N. Bogers;1798;1833;35
+540;284;William Fryer Sen-r,;1784;1849;65
+541;284;Armer Patten Fryer;1856;1866;10
+542;284;William Fryer;1822;1885;63
+543;284;Matilda Oakford Fryer;1847;1849;2
+544;285;George Fryer;1824;1880;56
+545;285;Mary Jane Fryer;1832;1896;64
+546;285;Armer Patten Fryer;1858;1866;8
+547;285;Roberta Maud Fryer;1857;1875;18
+548;286;Mattie May [Smith];1865;1888;23
+549;287;James Murray;1804;1847;43
+550;287;Jane D. Murray;1775;1840;65
+551;288;Edward Croft;1766;1825;59
+552;288;Susan D. Croft;1800;1825;25
+553;289;Mrs. Ellen Lane;0;0;0
+554;290;Mrs. Mary Fagan;1807;1836;29
+555;290;Mary [Fagan];1836;1836;0
+556;291;Robert Barr;1793;1845;52
+557;292;Robert Andrews;1802;1859;57
+558;292;Joseph Andrews;1843;1865;22
+559;293;Samuel Clendenin;0;1859;0
+560;294;Edward Freeman;1836;1864;28
+561;295;J. Miller Freeman;1823;1856;33
+562;295;Elizabeth H. Freeman;1821;1879;58
+563;295;J.M. Freeman;1854;1896;42
+564;296;Lucretia Maclaellan;15;18__;3
+565;297;Rebecca Paysont;1786;1861;75
+566;298;[No name found on this stone];1801;1849;48
+567;299;John M. Mcintosh;1780;1829;49
+568;299;Joseph Mcintosh;1809;1841;32
+569;300;Samuel Taylor;1782;1816;34
+570;301;Elizabeth [Porter];1780;1851;71
+571;302;Elizabeth daughter of (Indecipherable);0;0;0
+572;303;Charles W. Stevens, Sr.;1810;1887;77
+573;303;Anna E. Stevens;1832;1900;68
+574;304;Martha Melntire;0;1846;0
+575;304;Thomas Mclntire;1813;1873;60
+576;305;[An indecipherable stone];0;0;0
+577;306;Captn Robert Bae;1785;1839;54
+578;306;Jane Inness;1800;1856;56
+579;306;Sallie Bae;1833;1853;20
+580;306;John S. Henry Bae;1818;1823;5
+581;306;Emma M. Bae;1827;1828;1
+582;306;Mary Olivia Bae;1830;1836;6
+583;306;Anna Jennette Bae;1827;1836;9
+584;307;John Henry Bae;1819;1823;4
+585;308;Harriet H. Hill;1806;1837;31
+586;309;Archibald [Coxe];1850;1850;0
+587;310;Henry B. Tiller;1821;1831;10
+588;310;Henrietta B. [Stillman] [nee Tiller];1838;1866;28
+589;310;Christiana [Tiller];1798;1875;77
+590;310;Charlton Henry Stillman;1863;1867;4
+591;310;Samuel Tiller;1798;1880;82
+592;311;Alexander Bobb;1809;1840;31
+593;311;Georgianna [Bay];1814;1833;19
+594;312;Joseph Roberts;1790;1853;63
+595;313;A.C.H. McLanahan;1813;1847;34
+596;314;William Caull;1770;1846;76
+597;315;Francis Ropes;0;0;0
+598;316;Julia A. [Schofield];1849;1852;3
+599;317;Lizzie L. [Shaler [?]] [nee Schofield];1831;1860;29
+600;318;Lane Schofield;1788;1866;78
+601;318;Mary B. Schofield;1803;1869;66
+602;319;Capt. Robert P. Phillips;1801;1839;38
+603;319;Ann L. [Phillips];1805;1889;84
+604;320;Joseph Thomson;1755;1815;60
+605;320;William Henry [Thomson];1811;1815;4
+606;321;Robert L. Irvine;1820;1845;25
+607;322;Kingston;0;0;0
+608;323;Ch_______S N____son;0;0;0
+609;324;Edward K. Prichett;1805;1839;34
+610;325;Margaret [Hinchman];1829;1857;28
+611;326;Emeline Hanes;1827;1879;52
+612;326;Catharine [Yapp];1818;1886;68
+613;327;John Hanes;1784;1841;57
+614;327;Ann Hanes;1822;1835;13
+615;327;Elizabeth Hanes;1792;1870;78
+616;328;Mary Todd;1805;1875;70
+617;329;Katie;0;0;0
+618;330;Mary A. [Bowland];1813;1866;53
+619;330;William Bowland, Jr.;1810;1871;61
+620;331;Elizabeth Spencer Bowland;1834;1836;2
+621;331;Benjamin Bowland;1809;1811;2
+622;331;James Asa Bowland;1848;1851;3
+623;332;Catharine Jane [...];1810;1838;28
+624;333;Ebenezer Martin;1752;1833;81
+625;334;James Martin;1806;1844;38
+626;334;Eliza [Martin];1806;1882;76
+627;334;Margaret Martin;1832;1839;7
+628;335;______ ______;0;1835;0
+629;336;James Wheaton Smith;1823;1900;77
+630;336;Sarah Wilbur Smith;1831;1899;68
+631;336;Henry W. Smith;1853;1863;10
+632;336;Emma W. Smith;1855;1870;15
+633;336;MilaFrances Smith;1860;1908;48
+634;337;Margie Price;1835;1853;18
+635;337;Kate Price;1852;1860;8
+636;338;John Evil;1757;1813;56
+637;338;Mary Ann Evil;1763;1819;56
+638;339;Eliza Lower;1815;1868;53
+639;340;Noah Smith;1803;1846;43
+640;340;Charlotte Smith;1798;1851;53
+641;341;Joseph Ashton Dean;1797;1817;20
+642;342;Lydia S. Moore;1781;1857;76
+643;342;Charles G. Moore;1842;1864;22
+644;343;Lieut. Marine C. Moore;1837;1862;25
+645;343;K. Moore;1803;1866;63
+646;343;Phebe C. Moore;1801;1871;70
+647;344;Caroline R. Estlaek;1812;1881;69
+648;345;Sarah E. [Kelter] [nee Hewlings];1846;1874;28
+649;346;Sarah McFaden;1818;1836;18
+650;346;Capt. William McFaden;1753 (?);1839;86
+651;346;Sarah [McFaden];1787;1857;70
+652;347;Henry Tolbert;1802;1855;53
+653;347;Sarah [Tolbert];1788;1874;86
+654;348;Jacob Tolbert;1822;1865;43
+655;348;Peter Tolbert;1831;1868;37
+656;348;Henry Tolbert;1820;1883;63
+657;349;Mary A. [Stineford];1817;1865;48
+658;349;William Stineford;1811;1871;60
+659;350;our Children ;0;0;0
+660;351;James McCauley;1830;1866;36
+661;352;Samuel Davidson;1831;1856;25
+662;353;Robert Bates;1806;1871;65
+663;353;Mary [Bates];1845;1879;34
+664;353;Mary [Bates];0;0;89
+665;354;Emma [Bates];1839;1870;31
+666;355;Margaret [ Shaw];0;1863;0
+667;355;John E. [ Shaw];0;1840;0
+668;355;ohn Tyler [ Shaw];0;1841;0
+669;355;Charies Owen;0;1849;0
+670;355;Wm. H. Harrison;0;1859;0
+671;355;Edgar Davlin;0;1862;0
+672;356;William Graham;1791;1842;51
+673;356;Mary [Graham];1810;1847;37
+674;357;Emma...;0;0;0
+675;358;Mr. James Black;1801;1843;42
+676;359;James Page;0;1853;0
+677;359;Thomas Page;0;1849;0
+678;359;Robert Page;0;1852;0
+679;359;Mrs. Jane Page;0;1892;0
+680;360;Emma A. Snyder;1851;1874;23
+681;361;John Henry Ashton;1831;1833;2
+682;361;William Ashton;1833;1833;0
+683;362;...;1820;1841;21
+684;363;Judith [Tarswell];0;0;0
+685;364;Joseph Wiltberger;1798;1836;38
+686;364;Bebecca [Wiltberger];1802;1840;38
+687;364;Mary C. Wiltberger;1822;1839;17
+688;365;Joseph E. Huekel;1815;1833;18
+689;366;William Sheldon;1851;1857;6
+690;366;Herbert Bradford;1856;1857;1
+691;367;Mrs Isabella G. Hartman;1822;1852;30
+692;367;Mary Lybrand;1827;1846;19
+693;367;Joanna;1833;1852;19
+694;367;Wesley;1830;1838;8
+695;367;Edward;1840;1842;2
+696;367;Lizzie H.;0;1863;0
+697;368;John Lachaussee Bujac;1762;1844;82
+698;369;P. Julius Bujac;1802;1854;52
+699;370;Celeste Bobein Bujac;1776;1833;57
+700;371;"[Monument: single name; indecipherable]";0;0;0
+701;372;Sarah B. [Dito];1818;1835;17
+702;372;Sherry Dito;1792;1853;61
+703;372;John M. Dito;1830;1860;30
+704;372;Sarah Sherry Dito;0;1796;0
+705;373;William Jones;1778;1842;64
+706;373;Julia [Jones];1796;1847;51
+707;374;John Reynolds Jr.;0;0;17
+708;374;John Reynolds;0;0;57
+709;374;Marion R. Stuart;0;0;25
+710;374;William Reynolds;0;0;32
+711;374;Marion S. Reynolds;0;0;64
+712;374;Kate W. Reynolds;0;0;42
+713;374;Wm Reynolds;0;0;45
+714;374;Ann Reynolds;0;0;1
+715;374;John Read;0;0;30
+716;374;Josiah Warren;0;0;39
+717;374;Wm Reynolds Jr.;0;0;13
+718;374;Hugh Reynolds;0;0;21
+719;375;Margaret [Keyser];1781;184--;0
+720;375;Jacob Keyser;1780;1859;79
+721;376;Ann Eliza [Palmer];1837;1841[?];4
+722;376;William G. Palmer;1804;1847;43
+723;376;Mrs Eliza Bartling;1788;1837;49
+724;377;John Newell;0;0;50
+725;378;Robert Leemming Newell;15;18--;3
+726;378;Charles C. Henry;1847;1850;3
+727;379;Susanna Lee;1745;1834;89
+728;380;John Floyd;1777;1847;70
+729;380;Mrs. Ann Floyd;1777;1876;99
+730;380;William Taylor;1805;1869;64
+731;380;Jane Taylor;1817;1894;77
+732;380;Ellen L. Taylor;0;1907;0
+733;381;Rudolph Dietz;1790;1858;68
+734;381;Marie Anne Cesarine;1782;1854;72
+735;381;Marie Emma [Dietz];1816;1874;58
+736;382;Ann Phyfe;1805;1830;25
+737;382;William F. Phyfe;1802;1842;40
+738;382;Jane Phyfe;1767;1845;78
+739;383;Catharine McMillin;1743;1825;82
+740;383;Catharine Monroe;1782;1827;45
+741;383;John Gordon;1778;1810;32
+742;383;Catharine Gordon;1809;1829;20
+743;383;Catharine A. Phyfe;1830;1909;79
+744;384;Susannah Paul;1761;1845;84
+745;384;Thomas Lancaster;1771;1858;87
+746;385;Mary Elizabeth Paul;1814;1838;24
+747;385;Robert Sturgeon;1836;1837;1
+748;386;John Stowers;0;0;0
+749;387;Jacob Miller;13;18??;5
+750;387;Henry Carey McKean;1850;1850;0
+751;388;Henry Carey McKean;1825;1830;5
+752;388;Elizabeth Maria McKean;1834;1836;2
+753;388;William McKean;1794;1845;51
+754;388;William Henry McKean;1836;1854;18
+755;389;Bartholomew Bees;1799;1839;40
+756;389;Margaret [Bees];1807;1850;43
+757;389;Francis Bitchie;1778;1856;78
+758;389;Margaret C. Bees;1854;1856;2
+759;389;Margaret C. Bees;1857;1858;1
+760;389;Isabella Bees;1836;1887;51
+761;390;William A.E. Bees;1872;1875;3
+762;390;Andrew J. Bees;1828;1881;53
+763;390;William A. E. Bees;1830;1890;60
+764;390;Adaline Baird Bees;1832;1901;69
+765;390;Alexander Baird Bees;1852;1901;49
+766;390;Louisa E. Bees;1859;1902;43
+767;391;Isaiah Dixey;0;0;97
+768;391;Mary Dixey;0;0;77
+769;391;Charles Goldey;1825;1882;57
+770;391;Charles A. Goldey;1853;1887;34
+771;391;Mary Goldey Stokes;1827;1909;82
+772;392;Bosanna [Bell];1804;1832;28
+773;393;George C. [Bell];1848;1858;10
+774;393;Nina Esler [Bell];1871;1871;0
+775;394;Scottish Strangers;0;0;0
+776;395;John Bell;1789;1841;52
+777;395;Julia Ann Bell;1798;1855;57
+778;396;Anthony B. Gemeny;1800;1852;52
+779;397;Martha Watson;1809;1847;38
+780;398;Juliana Simpson;1752;1836;84
+781;398;Juliana Wood;1778;1836;58
+782;399;[An indecipherable stone];0;0;0
+783;400;Bichard Colvin;0;1830;0
+784;401;Margaret Barnholt;1789;1838;49
+785;401;Dorothy Barnholt;1793;1842;49
+786;402;Sarah [Rennie];1834;1837;3
+787;402;Arthur [Rennie];1823;1841;18
+788;402;Sarah James;1796;1843;47
+789;402;Jane [Rennie];1819;1847;28
+790;402;James Rennie;1830;1864;34
+791;403;Peter H. Scull;1815;1866;51
+792;403;Joseph Davis;1825;1888;63
+793;403;Margaret [Davis];1827;1895;68
+794;404;Melina [Bobb];1821;1848;27
+795;404;Thomas Bobb;1811;1872;61
+796;404;Charles South Bobb;1845;1853;8
+797;404;Charles C. [Bobb];1843;1845;2
+798;404;Annie Cope  [Bobb];0;0;1
+799;404;Henry Eagleson [Bobb];1860;1863;3
+800;405;Anna M. Griffis;1812;1872;60
+801;405;John L. Griffis, Jr.;1847;1856;9
+802;406;Hannah Clark;1780;1830;50
+803;406;Margaret Q. Clark;1811;1875;64
+804;406;Elizabeth Eyre Griffis;1806;1890;84
+805;407;Martha Weigand;1833;1850;17
+806;408;Hannah Coates;1785;1828;43
+807;409;Edwin A. Tresse;1826;1866;40
+808;409;Catharine S. Cathell;0;1893;0
+809;410;James McKibbin;1781;1828;47
+810;410;Francis Wrigly;1743;1829;86
+811;410;John Johnson;1787;1829;42
+812;410;Elias S. Pennell;1808;1833;25
+813;410;Charles Dyball;1800;1834;34
+814;410;Nicholas Fink;1779;1836;57
+815;410;John Mcllvane;1779;1836;57
+816;410;John Colerick;1804;1837;33
+817;410;George Jacobs;1814;1841;27
+818;410;Samuel E. Piper;1819;1843;24
+819;410;James McCarran;1819;1845;26
+820;410;Cornelia Mellvaine;1822;1828;6
+821;410;Catherine Wrigly;1771;1851;80
+822;410;Catharine Colerick;1796;1857;61
+823;410;Susan Johnston;1786;1839;53
+824;410;Arthur Colerick;1775;1812;37
+825;410;T. Peter Delas;1819;1851;32
+826;411;Hannah Diamond;1790;1821;31
+827;411;Robert Diamond ;0;1812;0
+828;411;Eleanor Diamond;1792;1818;26
+829;412;Hugh Diamond Sr;1756;1837;81
+830;412;Alexander Diamond;1797;1850;53
+831;412;Hugh [Diamond];1841;1845;4
+832;412;George Humes Diamond;1807;1836;29
+833;412;Hugh Diamond Jr;1805;1842;37
+834;412;Rebecca [Diamond];1842;1844;2
+835;413;Thomas M. [Brown];1851;1877;26
+836;413;George W. Brown;1813;1880;67
+837;413;Mary C. [Brown];0;1900;0
+838;413;Thomas Brown sr;1768;1836;68
+839;414;Catharine [Brown];1778;1856;78
+840;414;Harriet [Brown];1807;1853;46
+841;415;Ann Louisa [Wright];1830;1835;5
+842;415;Samuel Paul [Wright];1835;1837;2
+843;415;Mary Ann [Wright];1838;1840;2
+844;415;John Wright;1788;1861;73
+845;416;Edmund Wright;1796;1828;32
+846;417;Elizabeth Wright;1804;1850;46
+847;417;Robert J. Wright. D.D.L.L.D.;1824;1890;66
+848;417;Joseph Wright;1792;1858;66
+849;417;Josephine A. Wright;1830;1863;33
+850;418;Alexander M. Mairs;1841;1874;33
+851;419;John Mercer;1795;1867;72
+852;419;Jane Mercer;1803;1886;83
+853;420;George D. Otter;1871;1883;12
+854;420;Jane E. Hand;1836;1886;50
+855;421;Henry A. Pintard;1822;1913;91
+856;422;Capt Michael Hopkins;1756;1841;85
+857;422;Eliza Hopkins;1773;1846;73
+858;422;Stephen Henry Pintard;1813;1851;38
+859;422;Jacques Henry Pintard;1784;1868;84
+860;423;Mary Richardson [Miller];1858;1869;11
+861;424;Georgianna S. Luzenburg;1836;1872;36
+862;425;William [Blackburne];1834;1877;43
+863;426;William Blackburne;1783;1858;75
+864;426;James [Blackburne];1838;1875;37
+865;427;Sarah Blackburne;0;1828;0
+866;428;Catharine Peterman;1780;1843;63
+867;428;George Peterman, Sr.;1772;1863;91
+868;429;[An indecipherable stone];0;0;0
+869;430;Mary Sullivan;1804;1838;34
+870;431;[An indecipherable stone];0;0;0
+871;432;Samuel Carels, Senr;0;18--;68
+872;432;Samuel [Carels];1795;1826;31
+873;432;Joseph [Carels];1805;1835;30
+874;432;Mary [Carels];1766;1840;74
+875;432;Margaret H. Carels;1849;1850;1
+876;432;Frank H. Carels;1853;1853;0
+877;432;William Carels;1843;1854;11
+878;432;George G.N. Carels, Jr.;1842;1867;25
+879;432;George Carels, Sr.;1810;1857;47
+880;432;Ann E. Carels;0;1896;79
+881;432;Hannah Edwards;1798;1888;90
+882;433;James Edwards;1792;1837;45
+883;434;Charles Titus;0;0;4
+884;435;Darius Hutchinson;1803;1868;65
+885;435;Rebecca Hutchinson;1809;1874;65
+886;435;Benjamin S. Hutchinson;1842;1868;26
+887;435;Joseph H. Hutchinson;1846;1864;18
+888;435;Lewetta P. Hutchinson;1850;1865;15
+889;436;David W. Prescott;1800;1874;74
+890;436;Susan Austin [Prescott];1805;1893;88
+891;437;Martha Prescott;1828;1852;24
+892;438;James Wm. [Prescott];0;1856;0
+893;439;Lucy T. Prescott;1798;1833;35
+894;440;Mrs Margaret Hopson;1791;1856;65
+895;441;Sarah Ann Kelly;1825;1851;26
+896;442;James B. Campbell;1835;1848;13
+897;443;James Banford;1781;1848;67
+898;443;Martha [Banford];1788;1856;68
+899;444;Lewis Roberts;1782;1835;53
+900;445;Sophia C. Alexander;1837;1856;19
+901;446;James Skerrett;1737;1815;78
+902;446;Elizabeth [Skerrett];1765;1844;79
+903;446;Elizabeth A. Bonsall;1824;1848;24
+904;446;William A. Skerrett;1770;1831;61
+905;446;Elizabeth Skerrett;1800;1879;79
+906;447;James F. Gallbreath;1789;1874;85
+907;448;Thomas T. [Gallbreath];1847;1853;6
+908;448;Harry B. [Gallbreath];1859;1878;19
+909;449;David Thaeher;1766;1830;64
+910;449;Eunice Noble Thaeher;1774;1842;68
+911;450;Peter L. Combe;176;183-;7
+912;450;Auguste DeSentuary;1826;1858;32
+913;451;David McClean;1801;1869;68
+914;451;Martha [McClean];1800;1854;54
+915;451;Ann [McClean];1823;1840;17
+916;451;John Parr [McClean];1837;1851;14
+917;451;David Parker [McClean];1860;1864;4
+918;452;J. Christian Kline;1794;1850;56
+919;452;Catharine Kline;1806;1876;70
+920;453;Benoit B. Bolin;1792;1852;60
+921;453;Abelard [Bolin];1849;1850;1
+922;454;Capt. Benj. Brooker;0;0;0
+923;454;Elizabeth Brooker;0;0;0
+924;455;George Son of;0;0;0
+925;456;Mr. John Watkins;0;0;50
+926;456;Mrs. Margaret Watkins;1797;1833;36
+927;457;Bernard Connor;0;0;0
+928;457;Margaret Connor;0;1830;0
+929;458;Samuel [Gordon];1805;1806;1
+930;458;Rebecca Ann [Gordon];1809;1825;16
+931;458;Sarah [Gordon];1774;1828;54
+932;458;Thomas S. [Gordon];1803;1829;26
+933;458;Robert [Gordon];1809;1841;32
+934;458;Ann Jane [Gordon];1834;1856;22
+935;458;Margaret  [Gordon];1794;1847;53
+936;458;Henry Gordon;1775;1866;91
+937;459;Mary [Solomon];1783;1829;46
+938;459;Edward King [Solomon];0;0;1
+939;460;Benjamin Caullet;1773;1831;58
+940;460;Victor Caullet;1832;1868;36
+941;461;Sarah [Caullet];1793;1859;66
+942;461;Mary Ann [Caullet];1824;1859;35
+943;462;Benjamin Caullet;1834;1882;48
+944;462;Elizabeth Dewees;1788;1861;73
+945;462;John Tennent;1786;1873;87
+946;463;George Morkman;1790;1832;42
+947;463;Martha J. Stevens;1815;1874;59
+948;463;Rev. Thomas G. Allen;1794;1868;74
+949;463;Margaret O. [Allen];1792;1860;68
+950;464;Col. Bichard Anderson;1752;1836;84
+951;465;John D. Wickham;1818;1829;11
+952;465;Oswald [Wickham];1824;1854;30
+953;465;Jane M. Jaques [Wickham];1786;1862;76
+954;466;John Barber;1780;1838;58
+955;466;Hannah [Barber];1782;1853;71
+956;466;John Walter [Barber];1836;1860;24
+957;466;Hannah N. Barber;1821;1881;60
+958;467;James Birch;0;1847;0
+959;469;Thomas B. Harned;1814;1837;23
+960;469;John B. Harned;1816;1841;25
+961;469;Harriet Murrow;1796;1845;49
+962;470;Virginia Mary Brooks;1832;1837;5
+963;471;Geni. Bichard Charles Parish;1805;1837;32
+964;472;Ella [Steeb];0;0;1
+965;472;Adele Justina [Steeb];0;0;0
+966;473;Frederick Steeb;1795;1852;57
+967;473;Justina Steeb;1787;1870;83
+968;474;James Summerfield;1764;1834;70
+969;474;Nathaniel Wyman;0;0;8
+970;474;Elizabeth [Summerfield];1763;1863;100
+971;475;James Summerfield;1799;1843;44
+972;475;Hannah [Summerfield];1806;1861;55
+973;475;Rosanna [Hines];1844;1851;7
+974;476;Henry E. Berrell;1822;1847;25
+975;477;Mary Lytle;1785;1861;76
+976;477;Mary D. Morrison;1822;1867;45
+977;478;William Morrison;1829;1837;8
+978;478;Thomas Morrison;1799;1873;74
+979;478;Sarah Morrison;1825;1879;54
+980;479;Mrs Mary Drummond;1760;1837;77
+981;480;Eliza [Gable] ;0;1834;0
+982;480;_____ Eliza Gable;0;0;0
+983;481;Benjamin Sexton;1796;1852;56
+984;481;George Washington Sexton;1803;1854;51
+985;481;Mary Thaw;1794;1882;88
+986;482;Jared Sexton ;0;1817;0
+987;483;Emeline B. Sexton;1810;1857;47
+988;483;Stephen B. Sexton;1804;1872;68
+989;484;Mrs Margaret Brooks;0;1832;0
+990;484;Jane Lewis;1811;1834;23
+991;485;Samuel Gouldy;1824;1847;23
+992;485;Mary Gouldy;1784;1847;63
+993;486;Rebecca [Gouldey];1806;1876;70
+994;486;Charles Gouldey;1804;1878;74
+995;486;Samuel Bumm;1793;1827;34
+996;486;Sarah [Bumm];1798;1841;43
+997;486;Joseph Surridge;1796;1834;38
+998;487;Thomas Rogers;1801;1848;47
+999;488;Mary Rogers;1800;1880;80
+1000;488;Thomas W. Rogers;1834;1905;71
+1001;489;John Rogers;1827;1881;54
+1002;490;John Martin;1781;1822;41
+1003;490;John S. [Martin];1822;1833;11
+1004;490;Elizabeth D. [Whitford] [nee Martin];1820;1844;24
+1005;491;William H. Imlay;1822;1837;15
+1006;492;George J. Ewing;1798;1830;32
+1007;493;Thomas Edward Wills;1808;1872;64
+1008;493;Mary Louisa Wills;1830;1877;47
+1009;493;Martha [Wills] [nee Veacock];1809;1844;35
+1010;494;Capt Thos Wills;1824;1830;6
+1011;495;Alexander E. Lipman;1819;1834;15
+1012;495;Mary Louise [Earle];1845;1848;3
+1013;495;George Earle;1816;1851;35
+1014;496;Phoebe [Lipman];1822;1840;18
+1015;496;Lewis Lipman;1780;1842;62
+1016;497;Eliza [Earle];1822;1906;84
+1017;497;Emily [Earle];1850;1868;18
+1018;498;Archibald W. [Burns];0;1865;0
+1019;498;Gertrude P. [Burns];0;1867;0
+1020;498;Mary [Burns];0;1873;0
+1021;499;William Burns M.D.;1756;1831;75
+1022;499;Sarah Burns;1767;1839;72
+1023;499;Isaac Wilkins Burns;1794;1840;46
+1024;499;Bethea [Burns];0;1854;0
+1025;500;Frederick Gantzert;1803;1849;46
+1026;501;Catharine [Greble];1770;1836;66
+1027;501;William Greble;1769;1852;83
+1028;501;James Greble;1793;1833;40
+1029;501;Louisa [Greble];1832;1833;1
+1030;501;Lewis Greble;1812;1844;32
+1031;502;Willie;0;0;5
+1032;503;Rebecca S. Philley;1816;1846;30
+1033;503;their infant daughter [Philley];0;0;0
+1034;504;[An indecipherable stone];0;0;0
+1035;505;William Dick;1776;1831;55
+1036;505;Dr John B. Dick;1803;1833;30
+1037;505;Margaret Dick;1775;1851;76
+1038;506;John Savage;1785;1854;69
+1039;506;John Savage;1801;1853;52
+1040;506;Adelaide H. Savage;1809;1882;73
+1041;506;Anne Dana Savage;1859;1879;20
+1042;506;John Savage;1832;1896;64
+1043;506;Isabella Swift Savage;1833;1903;70
+1044;507;John Goodin;1793;1856;63
+1045;507;Elizabeth Goodin;1794;1855;61
+1046;507;Wm Harry [Goodin];1850;1850;0
+1047;507;Emily [Goodin];1852;1852;0
+1048;508;Eleanor Williamson;1788;1828;40
+1049;508;Edward L. Williamson;1818;1845;27
+1050;508;Loranah Tittermary;1761;1832;71
+1051;508;Thomas Jefferson;1802;1863;61
+1052;509;Jeremiah James;1795;1851;56
+1053;509;Amanda Dugan;1827;1827;0
+1054;509;Washington Nice;1831;1836;5
+1055;510;John ___art___fass____;0;0;0
+1056;511;Susan Polhemus;1750;1832;82
+1057;511;Major John Polhemus;1740;1831;91
+1058;512;Udizinga Mosschert;1808;1831;23
+1059;512;____castina Heroicam.one [?];0;0;0
+1060;513;Alice [Bockius];1804;1836;32
+1061;513;William Bockius;1780;1848;68
+1062;513;Jane W. [Bockius];1825;1856;31
+1063;513;Mary Ann  [Bockius];1817;1857;40
+1064;514;Julia E. [Johnston];1802;1823;21
+1065;514;Isabella I.;0;0;0
+1066;515;Michael Powers;1815;1835;20
+1067;516;John Hardy;1787;1869;82
+1068;516;Ann Crockett;1797;1870;73
+1069;516;John Crockett Hardy;1824;1875;51
+1070;517;John Hardy Senr;1791;1832;41
+1071;518;Amelia Louderback;1776;1851;75
+1072;518;Harris Louderback;1800;1866;66
+1073;519;Mary M. Femington;1806;1837;31
+1074;519;George W. Pascal;1851;1875;24
+1075;519;Ann [Pascal];1783;1853;70
+1076;519;Captain John Pascal;1784;1806;22
+1077;519;Thomas M. Femington;1806;1862;56
+1078;520;Lydia Morris Shields [Malcom];1797;1832;35
+1079;520;Thomas Morris Shields;1799;1845;46
+1080;520;Robert Shields;1771 [ r 1774];1816;45
+1081;520;Mary H. Shields;1777;1827;50
+1082;520;Sarah A. Shields;1807;1889;82
+1083;520;William J. Shields;1806;1890;84
+1084;521;Johnston Skinner;1783;1828;45
+1085;521;Sarah Galbraith Phyfe;1838;1839;1
+1086;521;James Greig Skinner;1821;1842;21
+1087;521;Helen G. English;1837;1895;58
+1088;522;Edward Lane Glentworth;1836;1838;2
+1089;522;Agnes G. Glentworth;1841;1865;24
+1090;522;Jennet Glentworth;1807;1872;65
+1091;522;Sarah Galbraith;1804;1876;72
+1092;522;Anna G. Galbraith;1814;1882;68
+1093;522;Annie Wylie Phyfe;1851;1872;21
+1094;523;Patrick Galbraith;1766;1832;66
+1095;523;Elizabeth Galbraith;1777;1849;72
+1096;523;William Forbes Phyfe;1839;1839;0
+1097;523;The Babe;1849;1849;0
+1098;523;Helen T. Phyfe;1817;1884;67
+1099;523;Robert Phyfe;1805;1890;85
+1100;524;Peter Galbraith;1809;1826;17
+1101;524;Mrs Ann Wylie;1762;1851;89
+1102;525;Mary [Peale];1753;1829;76
+1103;525;James Peale;1749;1831;82
+1104;525;Maria G. Peale;1788;1866;78
+1105;525;James Peale;1788;1876;88
+1106;525;Sophonisba Peale;1800;1878;78
+1107;525;Anna G. Duncan;1791;1878;87
+1108;525;Margaretta A. Peale;1796;1882;86
+1109;525;Sarah M. Peale;1800;1885;85
+1110;526;Jane McLaughlein;1798;1827;29
+1111;527;Capt. Albert Coffin;1743;1811;68
+1112;527;Capt. James A. Coffin;1801;1847;46
+1113;527;Martha G. Coffin;1778;1858;80
+1114;527;Lewis B. Coffin;1820;1859;39
+1115;528;Almira [Coffin];1828;1828;0
+1116;528;Louis A. Coffin ;0;0;0
+1117;529;Samuel [Fiss];1839;1840;1
+1118;529;Eleanor Fiss;1843;1848;5
+1119;529;Susanna [Fiss];1845;1855;10
+1120;530;Andrew Esterlon;1768;1830;62
+1121;530;Ann [Esterlon];1785;1866;81
+1122;531;Margaret C.A. [Dickson];1811;1849;38
+1123;531;Thomas H. Dickson;1806;1861;55
+1124;531;Hugh Beid [Dickson];1841;1871;30
+1125;532;Elizabeth W. Dickson;1772;1850;78
+1126;532;Hugh Dickson;1771;1856;85
+1127;533;Joseph B. Dickson;1802;1827;25
+1128;533;Samuel C. Dickson;1803;1829;26
+1129;533;Alexander W. Dickson;1819;1841;22
+1130;534;William P. Beard;1827;1845;18
+1131;534;Mrs Ann Beard;1794;1868;74
+1132;535;Charles C. Mansell;1827;1845;18
+1133;536;P. E. Meinadier;1844;1844;0
+1134;537;Josh Commarque;1754;1844;90
+1135;538;James Gibson;1759;1853;94
+1136;539;[An indecipherable stone];0;1828;0
+1137;540;Captn Thomas Taylr;1787;1854;67
+1138;541;Mary;1796;1828,;32
+1139;542;Alexander Malloch;1797;1841;44
+1140;543;William H. [Malloch];1821;1848;27
+1141;544;Joseph M. La____;0;0;31
+1142;545;Richard Merrick;0;0;0
+1143;545;Samuel Louderback;0;0;0
+1144;545;Sarah Louderback;0;0;0
+1145;545;Richard M. Leslie;0;0;0
+1146;545;Caroline W. Leslie;0;0;0
+1147;545;Walter H. Leslie;0;0;0
+1148;545;Robert E. L. Patton;0;0;0
+1149;545;Mary A. Patton;0;0;0
+1150;545;Robert M. Patton;0;0;0
+1151;546;Eleanor [Conner];0;0;0
+1152;546;Alice [Conner];0;0;0
+1153;546;Thomas Conner;1802;1877;75
+1154;546;Mary Louisa [Conner];1802;1895;93
+1155;546;Maria Theresa;1827;1900;73
+1156;546;Ellen Josephine;1836;1910;74
+1157;546;Marcella;1831;1912;81
+1158;547;Thomas Durant;1798;1842;44
+1159;547;Anne Durant;1801;1866;65
+1160;547;Elizabeth A. Bolin;1822;1848;26
+1161;547;John B. Durant;1828;1854;26
+1162;547;William H. Durant;1830;1858;28
+1163;547;Charles Durant;1837;1872;35
+1164;547;Thomas F. Durant;1826;1886;60
+1165;547;Maria (infant);0;0;0
+1166;547;Emily L. (infant);0;0;0
+1167;548;Matthias B. Clark;1811;1834;23
+1168;548;Mary Baser;1815;1834;19
+1169;548;Elizabeth Wall;1771;1840;69
+1170;548;Charles W. Clark;1851;1851;0
+1171;548;George Wall;0;1771;0
+1172;548;Eliza Wall;1797;1876;79
+1173;549;Ann Clark;1793;1872;79
+1174;549;John C. Clark;1787;1882;95
+1175;549;Mary A. Clark;0;1884;0
+1176;550;Elizabeth H. [Birch];0;1851;0
+1177;551;Lizzie;0;0;0
+1178;552;James Armstrong;1785;1841;56
+1179;552;Bebecca Armstrong;1769;1860;91
+1180;553;[Stone broken off];185-loop up;185;0
+1181;554;Elizabeth [Cornell];1836;1843;7
+1182;554;Albert Cornell;0;0;0
+1183;555;John Wilbank;1817;1830;13
+1184;555;Emma Matilda Wilbank;1825;1832;7
+1185;555;Clara Caroline Wilbank;1859;1863;4
+1186;556;Tirzah Brooks;1755;1831;76
+1187;556;Elizabeth Brooks Thompson;1801;1889;88
+1188;557;James E. Brooks;1799;1850;51
+1189;557;Mary;1807;1832;25
+1190;557;Capt. Oliver Brooks;1796;1848;52
+1191;557;Sarah [Brooks];1802;1847;45
+1192;558;Samuel [Brooks];1828;1839;11
+1193;559;Sarah Cornish;1837;1839;2
+1194;559;Benjamin Allen;1839;1839;0
+1195;559;Henry Clay;1845;1845;0
+1196;560;John McFee Jr.;1824;1863;39
+1197;560;Frances L.C. McFee;1832;1887;55
+1198;561;Little Cynthia;1851;1855;4
+1199;562;Charles B. Corson;0;0;0
+1200;562;Charles S. Corson;17;18--;1
+1201;562;Hamilton Corson;0;0;0
+1202;562;James J. Corson;0;1842;0
+1203;562;Adaline F. Corson;1847;1848;1
+1204;563;Charles Harvey;1783;1831;48
+1205;563;Mary Harvey;1790;1868;78
+1206;564;James _____;0;0;4
+1207;565;Napoleon Stanton;1833;1855;22
+1208;566;James C. Boyd;1808;1838;30
+1209;566;Clara [Boyd];1838;1838;0
+1210;567;Isaac B. De-Young;1796;1867;71
+1211;567;Mary A. [De-Young];1805;1844;39
+1212;568;Elizabeth [Deyoung];1853;1855;2
+1213;568;Mary De-Young;0;0;2
+1214;569;Robert Sims;1769;1837;68
+1215;569;Elizabeth Sims;1779;1834;55
+1216;570;George ____ Johnson;1836;1838;2
+1217;571;Thomas Hill;1793;1837;44
+1218;571;Samuel Say;1773;1815;42
+1219;571;Samuel [Say];1804;1829;25
+1220;571;Mary [Say];1780;1830;50
+1221;571;Mary [Hill];1806;1842;36
+1222;571;Rebecca [Say];1808;1836;28
+1223;572;Helen [Trask];1813;1844;31
+1224;573;Barry Hartwell;1799;1835;36
+1225;574;John Tompson;1806;1856;50
+1226;575;Thomas I Bi--rk--t [sic];0;1856;0
+1227;576;Charles H. Evans;1800;1836;36
+1228;577;Elizabeth Ducamp;1771;1851;80
+1229;577;George P. Headman;1832;1859;27
+1230;578;Jacob Strembeck;1755;1841;86
+1231;578;Catharine [Strembeck];1765;1846;81
+1232;579;Otho Hamilton Wemyss;0;0;0
+1233;579;Iolia Mary Strembeck Wemyss;0;0;0
+1234;580;John H. Alcock;1794;1827;33
+1235;580;Mary W. [Alcock];1801;1849;48
+1236;580;Robert T. Pancoast;1815;1852;37
+1237;581;Rachel [Innes];1776;1830;54
+1238;581;Joseph Innes;1776;1830;54
+1239;581;Joseph Innes;1764;1834;70
+1240;582;R. S. Potter;1807;1854;47
+1241;583;Jamesanna [Matlack];0;1859;0
+1242;583;Anna S. Matlack;1838;1844;6
+1243;584;Peter Agustus;1833;1835;2
+1244;584;George H. Kerrison;1831;1837;6
+1245;585;Ann Priest;1771;1839;68
+1246;585;George Priest;1775;1845;70
+1247;585;Aaron Priest;1815;1846;31
+1248;586;Anne Seguin;1836;1842;6
+1249;586;Arthur Seguin;1841;1843;2
+1250;587;James W. Eccles;1795;1843;48
+1251;587;Elizabeth [Eccles];1800;1858;58
+1252;587;James Eccles;1827;1845;18
+1253;588;Henry Eolfe;1797;1848;51
+1254;589;Isabell McDonald;1837;1839;2
+1255;589;Samuel Smith;1773;1830;57
+1256;590;Amelia [Cronin];1784;1846;62
+1257;591;Miss Jane S. Burke;1829;1844;15
+1258;592;Mrs. Mary Gamble;1798;1845;47
+1259;593;Samuel L. Garrett;1818;1881;63
+1260;593;Mary A. Garrett;1823;1884;61
+1261;594;Ellen Duane Steedman;1848;1851;3
+1262;595;James Ronaldson;1769;1841;72
+1263;596;Janet Bonaldson;1834;1834;0
+1264;597;Richard Ronaldson;1772;1863,;91
+1265;598;William Pusey;0;1839;0
+1266;598;Mary A. Pusey Meeds;0;1876;0
+1267;599;Elizabeth Fult [indecipherable];0;0;0
+1268;600;Thomas Andrews[?];0;0;0
+1269;601;Frances Andrews[?];0;1834;0
+1270;602;Elizabeth Levis Tanner;1819;1877;58
+1271;602;John Tanner. M.D.;1809;1892;83
+1272;603;John Barney;1778;1844;66
+1273;603;Margaret Barney;1777;1853;76
+1274;604;Augustine E. Peale;1819;1856;37
+1275;604;Virginia Peale;1828;1867;39
+1276;605;Hannah Perkins;1778;1841 [9];63
+1277;605;Charles Perkins;1823;1834;11
+1278;605;William A.[?] Perkins;1823;1833;10
+1279;605;Thomas J. Perkins;1816;1847;31
+1280;606;John B. Bernadou;1775;1860;85
+1281;606;Henriette Fontaine [Bernadou];0;1867;0
+1282;607;Frances Adele [Bernadou];1798;1815;17
+1283;607;John B. [Bernadou];1786;1816;30
+1284;607;Edward [Bernadou];1819;1850;31
+1285;608;Edward G. Harris ;0;1852;0
+1286;608;Caroline C. Harris ;0;1871;0
+1287;608;J. Bernadou Harris ;0;1871;0
+1288;608;Virginia M. Harris;0;1872;0
+1289;609;Frances Louise Sarmiento [Grimm];0;1892;0
+1290;610;Ezekiel Harlan;1797;1835;38
+1291;611;John Lewis;1814;1845;31
+1292;611;John;0;0;0
+1293;612;Sarah Lewis;1844;1844;0
+1294;612;Catharine [_____];1816;1850;34
+1295;613;Eliza [Levy];181805;181847;42
+1296;613;Abraham Levy;1802;1847;45
+1297;613;Charles Henry Levy;1833;1853;20
+1298;614;Mrs. Sarah Phillips;1750;1800;50
+1299;614;Elisha H. Allen;0;0;2
+1300;614;[A blank line];1820;1839;19
+1301;614;Lucy B. [Marks];0;0;0
+1302;614;Elizabeth Lusk;0;0;75
+1303;615;Mrs Ann Catharine Neville;0;0;0
+1304;615;Adelaide Olivia Neville;0;0;0
+1305;615;Imogene Alcesta Neville;0;0;0
+1306;615;Mrs Aurelia Neville;0;0;0
+1307;615;Frederick A. Neville;1804;1877;73
+1308;616;Sophia Dickinson;1800;1842;42
+1309;617;Matthew Porter;1807;1836;29
+1310;618;Daniel Morrison;1811;1836;25
+1311;619;William Henry [Williams];0;0;6
+1312;619;Thomas N [Williams];0;0;0
+1313;619;Charles [Williams];0;0;0
+1314;619;Eliza Ann [Williams];0;0;0
+1315;620;John A. Hamilton;1794;1843;49
+1316;621;Andrew Hamilton;1811;1839;28
+1317;622;Samuel C. Atkinson;1794;1862;68
+1318;622;Capt. Geo. P. Finney;1827;1891;64
+1319;623;James Campbell;1794;1874;80
+1320;624;Malvina A. [Campbell];1804;1849;45
+1321;625;Virginia;1840;1847;7
+1322;626;Hermann Jansen;1813;1840;27
+1323;627;Ann Crosby;1794;1842;48
+1324;628;Lewis;0;0;0
+1325;629;Benjamin F. Perry;1816;1842;26
+1326;630;Maria Snider;1784;1835;51
+1327;630;Jacob Snider, Sr.;1786;1871;85
+1328;631;Susie L. [Whelan];1858;1874;16
+1329;631;Eli W. Whelan;1815;1880;65
+1330;631;Mariann C. [Whelan];1820;1899;79
+1331;632;Sarah [Lafferty] [nee Shisler];1807;1837;30
+1332;633;John Wiley;1789;1864;75
+1333;633;Elizabeth [Wiley];1794;1859;65
+1334;633;Miss Eliza J.I. Wiley;1813;1837;24
+1335;634;Bebecca Biddle;1773;1837;64
+1336;635;Bosanas Arthurs;1820;1843;23
+1337;636;Leonora S. Price;1841;1841;0
+1338;636;Josephine L. Price;1843;1843;0
+1339;636;Capt. Joseph G. Price;1815;1844;29
+1340;637;James Saunders;1815;1841;26
+1341;638;George D. Biggar;1814;1847;33
+1342;639;James ____ Weaver;0;0;0
+1343;640;Isabella Weaver;1806;1865;59
+1344;640;Elija h J. Weaver;1804;1874;70
+1345;641;James B. Frampton;1812;1847;35
+1346;642;William H. Boyd;1806;1841;35
+1347;643;Albert Duy Oat;1843;1844;1
+1348;643;Bichard L. Oat;1810;1843;33
+1349;643;Bichard L. Oat;1845;1850;5
+1350;644;Annie G. Sproule;0;0;0
+1351;645;Jane [Stuart];1820;1848;28
+1352;645;Mary Jane Stuart;1845;1861;16
+1353;646;Eliza [Simons];1810;1840;30
+1354;647;Cornelia Smith;0;1865;0
+1355;648;Harrison Hudson Rowbotham;1795;1837;42
+1356;649;Imogene L. McClellan;1862;18_9;0
+1357;650;Frederick Seiser;1777;1858;81
+1358;650;John Seiser;1799;1880;81
+1359;650;Julianna Seiser;1803;1888;85
+1360;650;William F. Seiser;1835;1860;25
+1361;650;Emma Louisa Seiser;1837;1841;4
+1362;651;Mary Jane Crease;1837;1838;1
+1363;652;William C. Freeman;1825;1831;6
+1364;652;Joseph B. Freeman;1803;1836;33
+1365;652;John Freeman;1835;1841;6
+1366;653;William H. Clark;1812;1842;30
+1367;654;Robert S. Munier;1818;1840;22
+1368;655;Robert King;1803;1832;29
+1369;656;Mary Ann Lawrence;1806;1838;32
+1370;657;Samuel Cass;1811;1840;29
+1371;658;Mary Helwick;1788;1837;49
+1372;658;Charles Mercier;1777;1852;75
+1373;658;Jane [Mercier];1767;1848;81
+1374;659;Augustine Carri[?];1836;1836;0
+1375;660;Henry Freenman [Baler[?]];1843;1843;0
+1376;661;Jemima Wamaling [Andrews];1806;1884;78
+1377;661;Mary Andrews;1774;1870;96
+1378;662;William Otter;1829;1875;46
+1379;662;Sarah Jane Otter;1831;1862;31
+1380;662;Emma Jane Otter;1850;1857;7
+1381;662;Bachael Gallagher;1799;1875;76
+1382;662;Elizabeth Evans;1765;1862;97
+1383;663;John Cross;1801;1830;29
+1384;664;William B. Norfleet;1827;1848;21
+1385;665;Archibald Sloan;1811;1851;40
+1386;666;Emureth A. Ferguson;1807;1852;45
+1387;667;Nicolas Constant G-auvin;1765;1847;82
+1388;668;Hypolite Martin;0;0;0
+1389;669;Harriet M. Williams;0;0;0
+1390;669;Capt. Andrew M. Williams;1768;1844;76
+1391;670;________ Thomas _____tghel _____;0;0;0
+1392;670;Elijah Johnson;1781;1842;61
+1393;671;Grace [Brown[?]];1803;1839;36
+1394;672;George F. Lehman, M.D.;0;1859;0
+1395;672;Catharine [Lehman];0;1875;0
+1396;672;Lehman F. Gurney;0;1896;0
+1397;672;Frances Lehman;0;1835;0
+1398;672;Catharine Taylor [nee Lehman];0;1880;0
+1399;672;Caroline M. Pancoast [nee Lehman];0;1900;0
+1400;672;H. DeCourcy Brolasky;0;1887;0
+1401;673;Thaddeus Wentworth;1793;1867;74
+1402;673;Albert S. Wentworth;1834;1859;25
+1403;673;Thaddeus C. Wentworth;1824;1836;12
+1404;673;Watson W. Wentworth;1822;1841;19
+1405;674;William Henry [Thompson];0;1846;0
+1406;674;Eliza Morasso;1803;1863;60
+1407;675;Lewis Grousillat;0;1836;0
+1408;675;Lewis Grousillat;0;1848;0
+1409;675;Margaret Grousillat;0;1868;0
+1410;676;Mason Hutchins;1796;1866;70
+1411;677;James Thompson;1799;1837;38
+1412;678;Mrs Mary Livingston;1784;1830;46
+1413;679;Martha Mayberry;0;0;71
+1414;679;Robert Mayberry;1806;1854;48
+1415;680;Mrs Margaret [Ansler];0;1842[ ?];0
+1416;681;John Malcom;0;1836;0
+1417;682;James Conley ____ ______;0;0;0
+1418;683;Hannah Perkins;0;0;63
+1419;684;Charles Perkins;0;0;0
+1420;685;William A. Perkins;0;0;0
+1421;686;Thomas J. Perkins;1843;1847;4
+1422;687;Juliana North;1837;1853;16
+1423;688;Catharine Marshall;1786;1832;46
+1424;689;Foxhall Alexander Parker, Sen.;1788;1830;42
+1425;689;Sarah Jay Parker;1793;1860;67
+1426;690;Juliet Oetavia [Parker];1820;1836;16
+1427;690;Virginia Adela [Eldridge];1841;1842;1
+1428;690;Robert Bogardus [Parker];1818;1842;24
+1429;691;Foxhall Parker Smith;1847;1863;16
+1430;691;Virginia Adela Wainwright;0;1904;0
+1431;692;William Stout;1734;1820;86
+1432;693;Joseph Morkman[?];1802;1823;21
+1433;694;William Roach;1812;1841;29
+1434;694;James Stuart;1813;1849;36
+1435;694;Elizabeth Fult;0;0;0
+1436;695;Samuel [Burgin];1838;1849;11
+1437;696;[broken stone];0;0;0
+1438;696;Michael Sick Kerr;1791;1851;60
+1439;697;Sarah [Hanndy];1799;1843;44
+1440;698;Septimus Brooks[?] ;0;1829;0
+1441;699;Hetty E , Perry;1808;1828;20
+1442;699;Frances S. Perry;1798;1849;51
+1443;700;George Lynch;1811;1839;28
+1444;701;Bebecca Elizabeth Goodyear;1804;1852;48
+1445;701;George Singer;0;0;0
+1446;702;John B. Rodgers;0;1829;0
+1447;702;Mary [Rodgers];1754;1839;85
+1448;703;Robert Storey;1817;1836;19
+1449;704;George _________;0;1820;0
+1450;704;John Eckert;1836;1842;6
+1451;704;Ann C. Eckert;1839;1842;3
+1452;705;Ann Maria Johnston;1812;1836;24
+1453;705;Nancy Johnston;1788;1850;62
+1454;706;Maria [Wheater];1821;1849;28
+1455;707;Frances [Biblett];0;1845;0
+1456;707;Peter Biblett (infant);0;0;0
+1457;708;John Hubie;1789;1837;48
+1458;708;Sarah Louisa [Hubie];1829;1831;2
+1459;708;Thomas [Hubie];1831;1832;1
+1460;709;Matilda [White];1789;1837;48
+1461;710;Caroline [Potter];1826;1852;26
+1462;710;Abdiel W. Potter;1814;1855;41
+1463;711;Stephens;0;1846;0
+1464;712;Jonathan Beere;1769;1838;69
+1465;713;Andrew Busch;1763;1836;73
+1466;714;James Patterson;1811;1832;21
+1467;715;John Nelson;1800;1833;33
+1468;716;Ann P. Davis;0;0;0
+1469;717;Robert Ross;_____;_______;0
+1470;718;Lafayette M. Whitehead;0;1843;0
+1471;719;Thomas Jones;1785;1834;49
+1472;719;Catharine Jones;1790;1835;45
+1473;720;Elizabeth [_____];0;0;1
+1474;720;Benjamin W. Nicholson;0;0;0
+1475;721;Edward B. Young;1821;1861;40
+1476;721;Mary H. Young;1824;1887;63
+1477;722;Anna Allen;1810;1850;40
+1478;723;Nathaniel [McOay];1836;1869;33
+1479;723;Nathaniel S. Richardson;1828;1866;38
+1480;723;Kate [Richardson];1825;1871;46
+1481;724;Martha [Black];1796;1846;50
+1482;724;Isaac Black;1793;1874;81
+1483;724;Samuel [Black];1816;1833;17
+1484;724;Ellen B. [Macky] 1831;0;1857;0
+1485;725;Ellen [Black];1763;1828;65
+1486;725;Sarah Jane Black;1854;1856;2
+1487;726;Mrs Frances Scarfe;1755;1831;76
+1488;727;Emily Grace [Collins];1832;1834;2
+1489;728;Robert Rice;0;1838;0
+1490;728;Catharine [Rice];1791;1864;73
+1491;729;James K. Rogers;0;0;0
+1492;729;Fannie M. Rogers;0;0;0
+1493;729;Frank M. Rogers;0;0;0
+1494;729;Fannie A. Rogers;0;0;0
+1495;730;Sarah Marsh;1776;1844;68
+1496;731;Matthew C. Jenkins;1791;1855;64
+1497;732;Cornelius Trimnel;1786;1851;65
+1498;732;Sarah [Trimnel];1801;1862;61
+1499;733;David S. Trimnel;1829;1850;21
+1500;733;Samuel S. Trimnel;0;1853;0
+1501;733;Rachel S. Trimnel;18--;?;18
+1502;734;Anna Spangler;1760;1828;68
+1503;734;George Spangler;1763;1855;92
+1504;734;George M. Spangler;0;1843;7
+1505;735;Emily ______ Moore;0;1815;0
+1506;736;William Moody;1747;1816;69
+1507;737;John Crawford;1783;1859;76
+1508;738;Henry E. Smith;1817;1889;72
+1509;738;Sarah M  [Smith];0;1895;0
+1510;739;John W. [Hayward];1803;1830;27
+1511;739;Elizabeth [Hale];1726;1812;86
+1512;740;Eliza [Hayward];0;0;0
+1513;740;Joel _______ Hayward [obliterated];0;0;0
+1514;741;Conrad Bard;1800;1854;54
+1515;742;Darius Henry Bard;1837;1838;1
+1516;743;Capt. William Moore;0;0;86
+1517;743;Rebecca;0;0;63
+1518;743;Anna Moore;1789;1845;56
+1519;743;William Alexander Moore;1821;1845;24
+1520;744;Robinson Rochambeau;1809;1810;1
+1521;744;Emily Carter;1781;1810;29
+1522;744;Callender Irvine Moore;1788;1816;28
+1523;744;Evans B.;1841;1851;10
+1524;745;James Stuart Moore;1812;1833;21
+1525;745;Evans Burch Moore;1819;1844;25
+1526;745;Anna Marion Moore;1826;1843;17
+1527;745;Mary Douglass Moore;1834;1844;10
+1528;745;Robinson R. Moore;1784;1847;63
+1529;746;_____ _____ Moore;1834;1862;28
+1530;746;____ _____ Moore;1837;1837;0
+1531;746;Martha B. Moore;1844;1847;3
+1532;747;Robert Miller;1802;1834;32
+1533;748;George Miley;1790;1846;56
+1534;748;Hannah [Miley];1798;1871;73
+1535;749;John M. Hamilton;1804;1853;49
+1536;750;John Jeffrey [Allen];1845;1845;0
+1537;751;Christiana [George];1753;1814;61
+1538;751;Alexander [George];0;0;5
+1539;751;Anthony George Sr;1787;1845;58
+1540;752;Elizabeth Earp Shallcross Benson;0;0;0
+1541;752;Mary Shallcross;0;0;0
+1542;752;Mary Ann Benson;1809;1835;26
+1543;752;Catherine Smith;0;0;0
+1544;752;Richard H. Benson;1791;1842;51
+1545;752;Gustavus E. [Benson];0;0;0
+1546;752;Richard Benson;1772;1844;72
+1547;752;Gerald Dale [Benson];0;0;0
+1548;752;Catherine Benson;1770;1854;84
+1549;752;George E. Benson;1833;1866;33
+1550;753;Emma Louise Bollon;1833;1834;1
+1551;753;John Edgar [Bollon];1790;1840;50
+1552;753;James M. Bollon;1806;1846;40
+1553;753;Abel J. Bollon;1772;1858;86
+1554;753;Waller Moore Warren;1862;1982;120
+1555;753;unnamed infant Warren;0;1880;0
+1556;753;Rachel Ann Warren;1842;1880;38
